@@ -1,0 +1,841 @@
+ScenarioID,AreaID,LocalityName,ProposedStoreType,PrimaryCustomerSegment,SecondaryCustomerSegment,ProposedStoreSizeSqFt,ProposedStorageCapacityUnits,StartingInventoryBudgetINR,MonthlyPurchaseBudgetINR,ExpectedDailyFootfall,CollegeProximityScore,SchoolProximityScore,HostelProximityScore,CoachingProximityScore,OfficeProximityScore,ResidentialProximityScore,PriceSensitivityIndex,CompetitionIntensityIndex,PreferredCategory,ComparableStoreCount,EstimatedDemandScale,RecommendedCoverageDays,ExpectedDemandUncertainty,IsSynthetic
+NS0001,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,College Students,270,2406.8,357000.00,275500.00,244,0.730,0.533,0.669,0.581,0.674,0.248,0.660,0.817,Adhesives & Tapes,2,3.267,14,0.580,1
+NS0002,A01,Shivajinagar,College-focused,Coaching Students,College Students,198,3999.8,187000.00,88600.00,209,0.598,0.596,0.633,0.863,0.601,0.234,0.649,0.844,Balanced,1,3.451,7,0.722,1
+NS0003,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,College Students,677,10029.8,753500.00,519000.00,259,0.905,0.316,0.782,0.592,0.553,0.455,0.557,0.781,Art & Craft Supplies,2,3.661,21,0.591,1
+NS0004,A01,Shivajinagar,Coaching-focused,College Students,Coaching Students,403,4271.0,655500.00,276300.00,258,0.826,0.497,0.757,0.567,0.622,0.611,0.671,0.818,Geometry & Mathematical Tools,1,4.042,12,0.738,1
+NS0005,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,282,4422.9,224000.00,158500.00,234,0.833,0.366,0.720,0.791,0.628,0.566,0.688,0.817,Geometry & Mathematical Tools,1,3.350,10,0.726,1
+NS0006,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,397,9423.6,750000.00,527100.00,249,0.935,0.551,0.516,0.756,0.415,0.539,0.664,0.799,Balanced,1,3.626,21,0.713,1
+NS0007,A01,Shivajinagar,College-focused,College Students,Coaching Students,145,2024.8,161000.00,89100.00,261,0.792,0.379,0.620,0.758,0.584,0.535,0.730,0.762,"Files, Folders & Organizers",3,4.378,7,0.436,1
+NS0008,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,213,3637.4,263500.00,111000.00,206,0.616,0.509,0.860,0.827,0.377,0.611,0.601,0.904,Pens & Writing Instruments,1,2.994,9,0.773,1
+NS0009,A01,Shivajinagar,College-focused,College Students,Hostel Residents,160,1699.4,221000.00,110000.00,134,0.634,0.402,0.686,0.651,0.396,0.298,0.615,0.773,Notebooks & Registers,3,2.253,10,0.396,1
+NS0010,A01,Shivajinagar,Mixed/General,General Public,College Students,80,1095.3,55000.00,41800.00,114,0.861,0.452,0.793,0.590,0.552,0.287,0.631,0.823,Balanced,0,0.756,12,0.799,1
+NS0011,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,Coaching Students,84,1160.9,135000.00,95000.00,141,0.601,0.296,0.524,0.660,0.434,0.390,0.600,0.761,Calculators & Electronics,2,1.721,11,0.630,1
+NS0012,A01,Shivajinagar,Office-supply-focused,College Students,Hostel Residents,262,4308.2,340000.00,278400.00,263,0.923,0.412,0.858,0.611,0.522,0.576,0.665,0.714,Paper & Printing Supplies,0,3.046,17,0.758,1
+NS0013,A01,Shivajinagar,College-focused,College Students,Hostel Residents,362,7539.8,194500.00,146800.00,269,0.826,0.454,0.685,0.682,0.433,0.314,0.730,0.768,Notebooks & Registers,3,4.528,10,0.368,1
+NS0014,A01,Shivajinagar,School-focused,Coaching Students,School Students,106,1366.5,153500.00,82600.00,141,0.704,0.566,0.738,0.820,0.659,0.608,0.673,0.816,Balanced,0,2.411,7,0.775,1
+NS0015,A01,Shivajinagar,College-focused,College Students,Hostel Residents,351,5183.0,577500.00,445800.00,291,0.922,0.362,0.706,0.617,0.439,0.364,0.656,0.816,"Files, Folders & Organizers",3,4.907,15,0.374,1
+NS0016,A01,Shivajinagar,Office-supply-focused,Coaching Students,College Students,232,3124.0,220000.00,149500.00,212,0.882,0.679,0.516,0.917,0.420,0.505,0.625,0.846,Adhesives & Tapes,0,2.412,12,0.810,1
+NS0017,A01,Shivajinagar,College-focused,College Students,Hostel Residents,255,2726.6,308500.00,217500.00,191,0.901,0.348,0.751,0.697,0.708,0.261,0.734,0.708,Pens & Writing Instruments,3,3.230,11,0.366,1
+NS0018,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,433,4861.4,311500.00,268000.00,252,0.894,0.559,0.652,0.653,0.515,0.514,0.621,0.799,Notebooks & Registers,1,3.678,14,0.717,1
+NS0019,A01,Shivajinagar,Office-supply-focused,Coaching Students,College Students,1040,11942.4,900000.00,523300.00,407,0.798,0.549,0.686,0.804,0.370,0.578,0.737,0.726,"Files, Folders & Organizers",0,3.753,22,0.820,1
+NS0020,A01,Shivajinagar,Coaching-focused,Hostel Residents,Coaching Students,314,5381.2,815000.00,501500.00,220,0.609,0.424,0.897,0.608,0.566,0.453,0.573,0.760,Notebooks & Registers,1,3.180,20,0.722,1
+NS0021,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,304,3523.3,382000.00,253200.00,242,0.737,0.361,0.646,0.704,0.385,0.484,0.673,0.817,Notebooks & Registers,1,3.468,13,0.712,1
+NS0022,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,96,1574.9,91000.00,79500.00,142,0.832,0.618,0.539,0.699,0.583,0.582,0.693,0.756,Pens & Writing Instruments,1,2.056,7,0.761,1
+NS0023,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,598,7722.6,438000.00,344900.00,307,0.777,0.327,0.804,0.738,0.459,0.543,0.668,0.803,Balanced,1,5.159,13,0.732,1
+NS0024,A01,Shivajinagar,College-focused,College Students,Coaching Students,80,1791.3,30000.00,26200.00,126,0.693,0.417,0.522,0.884,0.505,0.591,0.683,0.730,Balanced,1,2.107,7,0.701,1
+NS0025,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,College Students,109,722.3,61000.00,38900.00,110,0.771,0.669,0.750,0.568,0.681,0.571,0.724,0.783,Calculators & Electronics,2,1.338,7,0.617,1
+NS0026,A01,Shivajinagar,College-focused,College Students,Hostel Residents,206,2132.1,411500.00,369100.00,194,0.780,0.504,0.888,0.617,0.423,0.281,0.665,0.758,Balanced,3,3.262,15,0.368,1
+NS0027,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,368,7242.1,320500.00,159100.00,265,0.838,0.486,0.735,0.744,0.701,0.479,0.680,0.759,Balanced,1,3.871,10,0.716,1
+NS0028,A01,Shivajinagar,College-focused,College Students,Coaching Students,237,2729.2,453000.00,259000.00,219,0.807,0.361,0.795,0.903,0.538,0.530,0.621,0.829,Balanced,3,3.664,12,0.414,1
+NS0029,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,Coaching Students,377,4993.2,350500.00,191300.00,194,0.690,0.633,0.612,0.735,0.403,0.454,0.710,0.772,Adhesives & Tapes,2,2.432,15,0.598,1
+NS0030,A01,Shivajinagar,School-focused,School Students,College Students,192,3747.2,189000.00,99000.00,201,0.866,0.623,0.644,0.841,0.713,0.428,0.670,0.732,"Pencils, Erasers & Sharpeners",3,3.500,8,0.436,1
+NS0031,A01,Shivajinagar,Hostel/Student-focused,College Students,Hostel Residents,514,5382.3,551500.00,262600.00,335,0.802,0.350,0.520,0.619,0.593,0.508,0.633,0.780,Balanced,2,5.656,10,0.628,1
+NS0032,A01,Shivajinagar,School-focused,Hostel Residents,College Students,585,4734.8,608000.00,274800.00,264,0.792,0.529,0.866,0.632,0.357,0.407,0.687,0.785,"Pencils, Erasers & Sharpeners",1,4.016,13,0.712,1
+NS0033,A01,Shivajinagar,College-focused,College Students,Hostel Residents,746,8874.0,658000.00,508600.00,289,0.894,0.473,0.810,0.664,0.700,0.232,0.568,0.847,Balanced,3,4.935,18,0.378,1
+NS0034,A01,Shivajinagar,College-focused,College Students,Coaching Students,391,5122.3,332500.00,252500.00,317,0.584,0.411,0.601,0.686,0.595,0.594,0.647,0.753,Calculators & Electronics,3,5.416,10,0.392,1
+NS0035,A01,Shivajinagar,College-focused,College Students,Hostel Residents,266,2801.8,191500.00,108100.00,215,0.764,0.513,0.771,0.688,0.387,0.333,0.677,0.832,Notebooks & Registers,3,3.556,8,0.381,1
+NS0036,A01,Shivajinagar,College-focused,Coaching Students,College Students,728,5285.4,900000.00,396300.00,369,0.569,0.391,0.545,0.866,0.655,0.482,0.716,0.818,Calculators & Electronics,2,6.240,11,0.616,1
+NS0037,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,143,1469.3,190000.00,96500.00,173,0.949,0.434,0.616,0.846,0.353,0.391,0.700,0.812,Geometry & Mathematical Tools,1,2.452,7,0.752,1
+NS0038,A01,Shivajinagar,Mixed/General,General Public,Coaching Students,226,2508.4,152500.00,107600.00,180,0.909,0.322,0.531,0.911,0.640,0.513,0.679,0.737,Pens & Writing Instruments,3,1.208,16,0.459,1
+NS0039,A01,Shivajinagar,Coaching-focused,Coaching Students,Office Workers,410,5497.5,206000.00,99100.00,270,0.603,0.335,0.659,0.572,0.721,0.538,0.596,0.804,Balanced,1,3.630,8,0.775,1
+NS0040,A01,Shivajinagar,College-focused,College Students,Hostel Residents,117,1341.9,259000.00,216100.00,181,0.709,0.509,0.887,0.626,0.420,0.364,0.624,0.710,Balanced,3,3.080,12,0.389,1
+NS0041,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,288,5466.7,211500.00,145500.00,220,0.620,0.617,0.697,0.889,0.600,0.447,0.696,0.781,Notebooks & Registers,1,3.259,10,0.749,1
+NS0042,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,625,7410.8,831000.00,537400.00,310,0.585,0.333,0.695,0.633,0.644,0.384,0.704,0.788,Paper & Printing Supplies,1,5.187,18,0.717,1
+NS0043,A01,Shivajinagar,College-focused,College Students,Hostel Residents,488,5413.3,554000.00,273800.00,283,0.759,0.397,0.883,0.768,0.350,0.572,0.637,0.861,Pens & Writing Instruments,3,4.748,12,0.380,1
+NS0044,A01,Shivajinagar,College-focused,College Students,Coaching Students,271,3377.3,244500.00,146700.00,174,0.832,0.534,0.672,0.695,0.421,0.255,0.597,0.738,Balanced,3,2.955,11,0.422,1
+NS0045,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,185,2581.4,196000.00,164700.00,213,0.647,0.310,0.803,0.740,0.606,0.467,0.656,0.795,Calculators & Electronics,1,3.160,10,0.769,1
+NS0046,A01,Shivajinagar,Coaching-focused,Coaching Students,School Students,708,9582.9,729000.00,579400.00,310,0.652,0.656,0.603,0.712,0.584,0.462,0.677,0.764,Notebooks & Registers,1,4.373,20,0.739,1
+NS0047,A01,Shivajinagar,College-focused,College Students,Coaching Students,463,5207.7,422000.00,268000.00,307,0.885,0.356,0.516,0.906,0.526,0.466,0.659,0.842,Balanced,3,5.176,11,0.398,1
+NS0048,A01,Shivajinagar,College-focused,College Students,Hostel Residents,232,2874.7,180500.00,156300.00,233,0.647,0.352,0.829,0.589,0.603,0.438,0.716,0.809,Balanced,3,3.861,9,0.379,1
+NS0049,A01,Shivajinagar,College-focused,College Students,Coaching Students,173,2492.7,172500.00,87200.00,186,0.842,0.367,0.532,0.810,0.672,0.578,0.641,0.786,Calculators & Electronics,3,3.111,8,0.440,1
+NS0050,A01,Shivajinagar,School-focused,College Students,Coaching Students,172,2816.8,122000.00,74500.00,184,0.947,0.397,0.549,0.896,0.446,0.315,0.664,0.828,School Accessories,0,3.117,7,0.797,1
+NS0051,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,181,1512.8,164500.00,77400.00,241,0.808,0.383,0.780,0.637,0.716,0.505,0.651,0.701,Paper & Printing Supplies,1,3.573,7,0.725,1
+NS0052,A01,Shivajinagar,College-focused,College Students,Hostel Residents,353,6269.8,237500.00,162800.00,311,0.811,0.604,0.815,0.631,0.706,0.395,0.638,0.745,"Files, Folders & Organizers",3,5.344,9,0.365,1
+NS0053,A01,Shivajinagar,College-focused,Coaching Students,College Students,204,2343.1,310500.00,130300.00,248,0.595,0.546,0.778,0.906,0.741,0.494,0.630,0.749,"Files, Folders & Organizers",1,4.213,7,0.696,1
+NS0054,A01,Shivajinagar,Hostel/Student-focused,College Students,Hostel Residents,343,5315.1,181500.00,115700.00,245,0.907,0.387,0.537,0.768,0.437,0.337,0.676,0.723,Balanced,2,3.623,8,0.629,1
+NS0055,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,Coaching Students,225,4576.9,132500.00,112800.00,318,0.679,0.499,0.720,0.848,0.433,0.371,0.677,0.755,Notebooks & Registers,2,4.408,7,0.635,1
+NS0056,A01,Shivajinagar,Coaching-focused,Coaching Students,Hostel Residents,268,2840.3,389000.00,226300.00,195,0.572,0.564,0.607,0.556,0.509,0.329,0.648,0.832,Balanced,1,2.867,14,0.736,1
+NS0057,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,920,14889.3,900000.00,379100.00,324,0.848,0.473,0.570,0.667,0.738,0.578,0.671,0.755,Balanced,1,5.140,17,0.723,1
+NS0058,A01,Shivajinagar,College-focused,College Students,Hostel Residents,461,6967.2,315000.00,169200.00,232,0.786,0.487,0.839,0.796,0.367,0.417,0.675,0.809,Balanced,3,3.902,11,0.373,1
+NS0059,A01,Shivajinagar,College-focused,College Students,Hostel Residents,135,1704.6,103500.00,89000.00,239,0.632,0.591,0.757,0.734,0.610,0.495,0.652,0.760,Balanced,3,4.034,7,0.402,1
+NS0060,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,Coaching Students,109,2043.9,121000.00,68300.00,140,0.602,0.342,0.535,0.697,0.523,0.538,0.631,0.824,Notebooks & Registers,2,1.673,9,0.629,1
+NS0061,A01,Shivajinagar,College-focused,College Students,Hostel Residents,397,4621.9,493500.00,371100.00,273,0.653,0.379,0.713,0.691,0.693,0.577,0.643,0.832,Pens & Writing Instruments,3,4.578,14,0.376,1
+NS0062,A01,Shivajinagar,Office-supply-focused,Office Workers,College Students,150,2499.6,111500.00,74400.00,135,0.749,0.406,0.527,0.577,0.745,0.336,0.640,0.790,Balanced,2,1.259,13,0.618,1
+NS0063,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,456,7609.3,505000.00,352800.00,302,0.667,0.380,0.546,0.667,0.419,0.499,0.668,0.725,Paper & Printing Supplies,1,4.104,17,0.712,1
+NS0064,A01,Shivajinagar,Coaching-focused,Coaching Students,College Students,255,2725.6,369000.00,237600.00,235,0.901,0.336,0.834,0.708,0.391,0.499,0.643,0.756,Balanced,1,3.432,12,0.715,1
+NS0065,A01,Shivajinagar,Coaching-focused,Coaching Students,Office Workers,298,3970.2,423500.00,317000.00,289,0.637,0.501,0.663,0.746,0.720,0.615,0.704,0.823,Pens & Writing Instruments,1,4.245,13,0.767,1
+NS0066,A01,Shivajinagar,Office-supply-focused,Hostel Residents,Office Workers,230,3733.5,243000.00,191000.00,152,0.634,0.622,0.777,0.544,0.472,0.589,0.740,0.843,Calculators & Electronics,0,1.582,20,0.788,1
+NS0067,A01,Shivajinagar,College-focused,College Students,Hostel Residents,278,2786.0,490000.00,427900.00,233,0.748,0.522,0.699,0.526,0.400,0.330,0.764,0.839,"Files, Folders & Organizers",3,3.796,15,0.377,1
+NS0068,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,School Students,244,2844.9,149000.00,133200.00,172,0.603,0.678,0.547,0.647,0.610,0.243,0.675,0.903,Markers & Highlighters,2,2.039,13,0.633,1
+NS0069,A01,Shivajinagar,College-focused,College Students,Hostel Residents,616,6169.1,787500.00,332000.00,337,0.764,0.441,0.739,0.613,0.649,0.355,0.651,0.739,Calculators & Electronics,3,5.829,11,0.364,1
+NS0070,A01,Shivajinagar,Hostel/Student-focused,Hostel Residents,Coaching Students,541,8094.4,900000.00,601600.00,295,0.770,0.678,0.804,0.830,0.523,0.235,0.695,0.766,Adhesives & Tapes,2,4.163,19,0.628,1
+NS0071,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,102,1055.6,73500.00,32400.00,187,0.980,0.454,0.956,0.881,0.546,0.280,0.679,0.912,School Accessories,3,3.044,7,0.451,1
+NS0072,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,Coaching Students,259,2989.9,474500.00,230200.00,264,0.826,0.239,0.798,0.878,0.538,0.507,0.749,0.875,Notebooks & Registers,2,3.551,11,0.628,1
+NS0073,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,Coaching Students,246,4976.5,302500.00,163500.00,198,0.688,0.477,0.885,0.826,0.514,0.298,0.753,0.903,Notebooks & Registers,2,2.615,13,0.624,1
+NS0074,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,140,2196.9,106000.00,78400.00,182,0.804,0.342,0.947,0.854,0.400,0.542,0.754,0.950,Balanced,3,2.892,7,0.437,1
+NS0075,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,532,5337.0,426000.00,220200.00,305,0.943,0.516,0.807,0.669,0.462,0.493,0.765,0.904,Balanced,2,4.064,10,0.601,1
+NS0076,A02,Deccan / FC Road,Residential,Coaching Students,Hostel Residents,112,1598.2,292500.00,166000.00,141,0.691,0.388,0.808,0.823,0.561,0.443,0.738,0.935,Balanced,1,0.947,19,0.761,1
+NS0077,A02,Deccan / FC Road,Coaching-focused,Coaching Students,Hostel Residents,280,5089.9,570500.00,342200.00,199,0.792,0.442,0.955,0.857,0.466,0.200,0.721,0.810,Notebooks & Registers,1,3.099,19,0.752,1
+NS0078,A02,Deccan / FC Road,Coaching-focused,Coaching Students,Hostel Residents,80,1010.8,95000.00,69200.00,98,0.842,0.527,0.915,0.796,0.563,0.549,0.653,0.782,Calculators & Electronics,0,1.227,10,0.874,1
+NS0079,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,249,4462.7,344000.00,143900.00,183,0.874,0.541,0.708,0.606,0.225,0.454,0.735,0.832,Project & Presentation Supplies,3,2.989,11,0.379,1
+NS0080,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,Coaching Students,1100,16168.0,900000.00,621700.00,377,0.780,0.491,0.612,0.860,0.457,0.334,0.726,0.846,Balanced,1,5.237,21,0.714,1
+NS0081,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,315,6318.7,546500.00,260400.00,211,0.890,0.483,0.808,0.873,0.213,0.248,0.741,0.950,Balanced,3,3.383,14,0.437,1
+NS0082,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,251,2734.7,278000.00,176000.00,230,0.980,0.456,0.790,0.964,0.468,0.424,0.829,0.847,Calculators & Electronics,3,3.729,8,0.435,1
+NS0083,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,80,1282.0,71000.00,58500.00,136,0.687,0.394,0.796,0.815,0.437,0.445,0.711,0.934,Calculators & Electronics,2,2.176,7,0.656,1
+NS0084,A02,Deccan / FC Road,Mixed/General,College Students,General Public,195,1745.7,303500.00,260900.00,158,0.978,0.605,0.715,0.802,0.460,0.184,0.774,0.896,"Files, Folders & Organizers",0,1.476,18,0.835,1
+NS0085,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,400,4436.8,711500.00,524500.00,280,0.980,0.448,0.898,0.621,0.465,0.511,0.728,0.880,Calculators & Electronics,2,3.775,17,0.589,1
+NS0086,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,473,7122.2,590000.00,496600.00,264,0.813,0.221,0.760,0.701,0.474,0.468,0.757,0.917,Balanced,3,4.288,16,0.387,1
+NS0087,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,116,1918.2,132500.00,58200.00,128,0.960,0.561,0.805,0.913,0.337,0.470,0.684,0.900,Pens & Writing Instruments,2,1.530,9,0.622,1
+NS0088,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,207,2877.0,436000.00,321700.00,220,0.975,0.397,0.790,0.717,0.186,0.500,0.744,0.903,Balanced,3,3.560,13,0.388,1
+NS0089,A02,Deccan / FC Road,College-focused,Hostel Residents,College Students,402,4202.8,202000.00,84300.00,311,0.688,0.588,0.980,0.637,0.482,0.196,0.835,0.940,Balanced,1,4.947,7,0.719,1
+NS0090,A02,Deccan / FC Road,Hostel/Student-focused,College Students,Hostel Residents,112,1711.9,81500.00,64600.00,140,0.951,0.584,0.701,0.739,0.505,0.324,0.725,0.861,Notebooks & Registers,1,1.838,7,0.741,1
+NS0091,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,387,5584.4,338000.00,288400.00,272,0.980,0.255,0.765,0.860,0.241,0.168,0.784,0.950,Notebooks & Registers,3,4.389,12,0.446,1
+NS0092,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,116,2006.2,141000.00,78200.00,195,0.882,0.454,0.895,0.676,0.479,0.302,0.850,0.902,Balanced,3,3.091,7,0.435,1
+NS0093,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,109,1312.6,78500.00,37900.00,188,0.752,0.435,0.769,0.850,0.574,0.274,0.765,0.857,Balanced,2,3.054,7,0.627,1
+NS0094,A02,Deccan / FC Road,Hostel/Student-focused,College Students,Hostel Residents,130,2233.5,291000.00,174600.00,212,0.980,0.377,0.640,0.728,0.198,0.355,0.738,0.832,Markers & Highlighters,2,3.007,10,0.645,1
+NS0095,A02,Deccan / FC Road,Residential,College Students,Hostel Residents,419,4927.7,255000.00,204800.00,265,0.980,0.334,0.945,0.661,0.443,0.366,0.796,0.921,Specialty Stationery,1,3.553,11,0.747,1
+NS0096,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,498,9150.8,721000.00,460000.00,358,0.768,0.483,0.980,0.816,0.395,0.472,0.738,0.944,Notebooks & Registers,3,5.827,14,0.390,1
+NS0097,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,379,6193.4,425500.00,334400.00,250,0.829,0.438,0.799,0.607,0.318,0.520,0.733,0.838,Pens & Writing Instruments,2,3.362,17,0.580,1
+NS0098,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,Coaching Students,261,2917.5,264500.00,138300.00,241,0.819,0.325,0.706,0.882,0.345,0.505,0.643,0.913,Notebooks & Registers,2,3.231,9,0.631,1
+NS0099,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,134,2643.9,135500.00,104900.00,207,0.974,0.227,0.793,0.696,0.474,0.204,0.801,0.813,Notebooks & Registers,2,2.521,8,0.623,1
+NS0100,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,320,3807.7,167000.00,145900.00,229,0.980,0.421,0.861,0.767,0.378,0.438,0.761,0.846,Adhesives & Tapes,2,3.061,9,0.593,1
+NS0101,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,366,4853.8,339000.00,154500.00,224,0.836,0.433,0.924,0.595,0.342,0.246,0.794,0.916,Pens & Writing Instruments,2,2.930,11,0.596,1
+NS0102,A02,Deccan / FC Road,Hostel/Student-focused,College Students,Hostel Residents,215,3064.9,432000.00,381200.00,243,0.980,0.331,0.701,0.865,0.196,0.240,0.809,0.910,Notebooks & Registers,2,3.411,16,0.646,1
+NS0103,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,126,1313.4,142500.00,97200.00,155,0.964,0.486,0.851,0.883,0.545,0.230,0.716,0.875,Balanced,2,2.526,7,0.624,1
+NS0104,A02,Deccan / FC Road,Coaching-focused,Coaching Students,Hostel Residents,592,8783.5,692000.00,468100.00,335,0.861,0.282,0.869,0.751,0.337,0.420,0.702,0.826,Balanced,1,5.603,15,0.735,1
+NS0105,A02,Deccan / FC Road,Mixed/General,College Students,Hostel Residents,100,1729.5,95500.00,39700.00,150,0.980,0.416,0.942,0.897,0.441,0.421,0.737,0.902,Notebooks & Registers,0,1.905,7,0.856,1
+NS0106,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,335,3828.7,438500.00,335200.00,292,0.889,0.242,0.620,0.963,0.203,0.230,0.729,0.917,Balanced,3,4.782,12,0.432,1
+NS0107,A02,Deccan / FC Road,Mixed/General,General Public,College Students,425,5837.0,344000.00,279000.00,233,0.907,0.217,0.820,0.852,0.467,0.400,0.775,0.930,Balanced,3,1.457,21,0.476,1
+NS0108,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,177,2057.8,140500.00,79800.00,207,0.706,0.381,0.886,0.685,0.354,0.430,0.762,0.906,Notebooks & Registers,3,3.327,7,0.411,1
+NS0109,A02,Deccan / FC Road,School-focused,Coaching Students,School Students,166,1543.7,211000.00,143000.00,277,0.731,0.557,0.639,0.890,0.351,0.462,0.831,0.817,Geometry & Mathematical Tools,0,4.616,7,0.797,1
+NS0110,A02,Deccan / FC Road,Coaching-focused,College Students,Coaching Students,189,3017.5,179500.00,118800.00,177,0.940,0.502,0.855,0.620,0.538,0.439,0.816,0.889,Notebooks & Registers,0,2.665,8,0.862,1
+NS0111,A02,Deccan / FC Road,School-focused,Hostel Residents,College Students,330,4579.5,511000.00,234600.00,265,0.711,0.430,0.848,0.676,0.186,0.527,0.798,0.913,Notebooks & Registers,1,3.735,11,0.722,1
+NS0112,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,130,2131.7,166500.00,104400.00,169,0.965,0.432,0.853,0.876,0.568,0.507,0.808,0.950,Balanced,3,2.662,8,0.487,1
+NS0113,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,425,5831.6,900000.00,717800.00,324,0.980,0.261,0.851,0.920,0.247,0.396,0.763,0.836,Pens & Writing Instruments,2,4.458,17,0.591,1
+NS0114,A02,Deccan / FC Road,Hostel/Student-focused,College Students,Hostel Residents,153,2345.5,136500.00,73400.00,218,0.980,0.585,0.676,0.592,0.281,0.290,0.711,0.950,Balanced,1,3.014,7,0.734,1
+NS0115,A02,Deccan / FC Road,Mixed/General,General Public,Hostel Residents,255,3376.1,328500.00,180600.00,187,0.783,0.505,0.825,0.709,0.340,0.496,0.814,0.867,Paper & Printing Supplies,2,1.187,20,0.612,1
+NS0116,A02,Deccan / FC Road,Coaching-focused,Coaching Students,Hostel Residents,93,1147.3,79500.00,70400.00,195,0.729,0.344,0.747,0.914,0.390,0.225,0.723,0.881,Calculators & Electronics,0,2.980,7,0.889,1
+NS0117,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,179,1767.7,100500.00,84300.00,198,0.945,0.512,0.678,0.872,0.366,0.535,0.700,0.912,Balanced,3,3.198,7,0.471,1
+NS0118,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,228,2188.4,187000.00,124500.00,200,0.845,0.380,0.898,0.727,0.244,0.351,0.747,0.950,Pens & Writing Instruments,3,3.195,8,0.411,1
+NS0119,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,Coaching Students,353,6448.4,341500.00,239200.00,275,0.797,0.573,0.980,0.853,0.235,0.463,0.841,0.915,Adhesives & Tapes,2,3.614,12,0.638,1
+NS0120,A02,Deccan / FC Road,Residential,College Students,Coaching Students,197,2932.4,228500.00,170200.00,218,0.980,0.436,0.669,0.709,0.568,0.434,0.786,0.912,Adhesives & Tapes,1,1.724,17,0.749,1
+NS0121,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,94,1466.7,95500.00,63300.00,147,0.961,0.327,0.906,0.638,0.262,0.316,0.763,0.941,"Files, Folders & Organizers",3,2.343,7,0.464,1
+NS0122,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,100,1086.1,96500.00,58600.00,176,0.823,0.370,0.614,0.592,0.296,0.476,0.688,0.947,Balanced,3,2.810,7,0.445,1
+NS0123,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,185,2248.6,312000.00,220000.00,186,0.928,0.444,0.900,0.587,0.292,0.466,0.775,0.950,"Files, Folders & Organizers",3,2.941,12,0.411,1
+NS0124,A02,Deccan / FC Road,Coaching-focused,Coaching Students,Hostel Residents,469,8630.8,481000.00,331100.00,267,0.696,0.366,0.729,0.975,0.249,0.297,0.706,0.905,Notebooks & Registers,1,4.346,15,0.754,1
+NS0125,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,114,1246.0,117000.00,104500.00,196,0.953,0.608,0.950,0.777,0.498,0.326,0.823,0.887,Notebooks & Registers,2,2.334,7,0.635,1
+NS0126,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,191,3350.0,168000.00,145000.00,196,0.858,0.353,0.980,0.693,0.337,0.168,0.828,0.875,Balanced,3,3.149,9,0.419,1
+NS0127,A02,Deccan / FC Road,Residential,Hostel Residents,College Students,162,1766.6,405000.00,347700.00,186,0.842,0.396,0.946,0.697,0.527,0.191,0.688,0.927,Balanced,1,1.518,18,0.725,1
+NS0128,A02,Deccan / FC Road,School-focused,College Students,Coaching Students,581,7402.6,548000.00,375100.00,324,0.980,0.261,0.787,0.933,0.471,0.174,0.701,0.836,Art & Craft Supplies,0,5.781,12,0.814,1
+NS0129,A02,Deccan / FC Road,College-focused,College Students,Coaching Students,263,3715.4,149500.00,66300.00,263,0.766,0.585,0.703,0.805,0.348,0.515,0.670,0.905,Notebooks & Registers,3,4.300,7,0.444,1
+NS0130,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,792,9845.4,900000.00,551700.00,410,0.897,0.361,0.800,0.730,0.477,0.517,0.832,0.930,Balanced,3,6.630,13,0.389,1
+NS0131,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,1100,14142.4,789500.00,591600.00,394,0.878,0.268,0.787,0.669,0.211,0.225,0.759,0.950,Pens & Writing Instruments,3,6.433,16,0.400,1
+NS0132,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,190,3428.5,202500.00,85500.00,189,0.980,0.436,0.959,0.880,0.266,0.172,0.671,0.950,"Files, Folders & Organizers",3,3.056,8,0.425,1
+NS0133,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,492,5830.9,487500.00,285900.00,278,0.979,0.325,0.730,0.709,0.358,0.526,0.782,0.895,"Files, Folders & Organizers",3,4.536,11,0.384,1
+NS0134,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,238,2446.3,265500.00,130500.00,219,0.905,0.416,0.721,0.640,0.509,0.256,0.732,0.950,Calculators & Electronics,3,3.498,8,0.400,1
+NS0135,A02,Deccan / FC Road,Hostel/Student-focused,College Students,Hostel Residents,571,10839.1,333500.00,252200.00,306,0.980,0.491,0.724,0.735,0.340,0.174,0.730,0.887,Balanced,2,4.937,12,0.648,1
+NS0136,A02,Deccan / FC Road,Hostel/Student-focused,Hostel Residents,College Students,349,6919.3,690500.00,390900.00,293,0.980,0.567,0.980,0.933,0.439,0.506,0.796,0.923,Balanced,2,3.879,17,0.606,1
+NS0137,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,99,1270.7,117500.00,64700.00,148,0.958,0.466,0.852,0.739,0.348,0.507,0.648,0.903,Project & Presentation Supplies,3,2.411,7,0.443,1
+NS0138,A02,Deccan / FC Road,Coaching-focused,Hostel Residents,College Students,189,3836.6,86000.00,41200.00,200,0.926,0.435,0.939,0.593,0.259,0.430,0.835,0.822,Balanced,0,2.689,7,0.797,1
+NS0139,A02,Deccan / FC Road,College-focused,College Students,Hostel Residents,358,3097.4,301500.00,188400.00,237,0.767,0.448,0.980,0.723,0.407,0.556,0.714,0.916,School Accessories,3,3.842,10,0.387,1
+NS0140,A02,Deccan / FC Road,Office-supply-focused,College Students,Coaching Students,103,1161.3,142000.00,126500.00,166,0.884,0.415,0.643,0.756,0.241,0.335,0.685,0.886,"Files, Folders & Organizers",0,1.790,12,0.859,1
+NS0141,A03,Kothrud,Residential,Residential Families,School Students,80,1707.7,84000.00,35000.00,79,0.510,0.760,0.416,0.591,0.342,0.664,0.541,0.507,Art & Craft Supplies,2,0.640,15,0.592,1
+NS0142,A03,Kothrud,Residential,Residential Families,School Students,145,1780.5,175500.00,100000.00,115,0.441,0.717,0.384,0.384,0.522,0.950,0.534,0.543,Pens & Writing Instruments,2,0.941,20,0.552,1
+NS0143,A03,Kothrud,Residential,Residential Families,School Students,298,4318.1,670000.00,530100.00,247,0.493,0.747,0.320,0.563,0.257,0.802,0.475,0.622,Pens & Writing Instruments,2,2.043,21,0.604,1
+NS0144,A03,Kothrud,College-focused,College Students,Residential Families,237,2928.4,209000.00,180900.00,177,0.606,0.607,0.358,0.513,0.457,0.744,0.540,0.528,Balanced,2,3.121,12,0.567,1
+NS0145,A03,Kothrud,School-focused,Residential Families,School Students,223,3639.1,272000.00,145500.00,176,0.344,0.600,0.305,0.690,0.372,0.900,0.620,0.599,School Accessories,3,3.270,10,0.442,1
+NS0146,A03,Kothrud,Residential,Residential Families,College Students,479,5878.0,405500.00,280900.00,235,0.692,0.639,0.460,0.675,0.478,0.807,0.516,0.556,Pens & Writing Instruments,2,1.721,23,0.581,1
+NS0147,A03,Kothrud,Residential,Residential Families,School Students,98,938.8,75000.00,50500.00,131,0.502,0.871,0.639,0.632,0.196,0.703,0.586,0.610,Art & Craft Supplies,2,0.886,12,0.605,1
+NS0148,A03,Kothrud,Residential,Residential Families,School Students,422,5770.4,574500.00,421000.00,221,0.414,0.716,0.391,0.514,0.410,0.974,0.562,0.508,Pens & Writing Instruments,2,1.823,22,0.586,1
+NS0149,A03,Kothrud,Residential,Residential Families,College Students,160,2202.6,93000.00,76300.00,139,0.681,0.656,0.659,0.667,0.388,0.796,0.559,0.577,Art & Craft Supplies,2,0.987,17,0.551,1
+NS0150,A03,Kothrud,School-focused,Residential Families,School Students,304,3651.9,338500.00,237600.00,172,0.622,0.675,0.507,0.426,0.319,0.946,0.430,0.617,Balanced,3,3.238,15,0.438,1
+NS0151,A03,Kothrud,Mixed/General,Residential Families,General Public,256,2116.8,291000.00,159600.00,190,0.650,0.869,0.417,0.482,0.330,0.980,0.486,0.607,Balanced,2,1.305,20,0.613,1
+NS0152,A03,Kothrud,Residential,Residential Families,School Students,433,4425.7,354500.00,289600.00,250,0.650,0.757,0.458,0.707,0.567,0.685,0.621,0.509,Pens & Writing Instruments,2,1.588,21,0.595,1
+NS0153,A03,Kothrud,Residential,Residential Families,Coaching Students,248,3414.5,158500.00,139700.00,159,0.499,0.499,0.501,0.705,0.296,0.710,0.514,0.518,Balanced,2,1.147,22,0.546,1
+NS0154,A03,Kothrud,Residential,Residential Families,School Students,166,2337.3,170000.00,125600.00,144,0.375,0.627,0.362,0.432,0.399,0.980,0.571,0.607,Balanced,2,1.084,20,0.566,1
+NS0155,A03,Kothrud,Coaching-focused,Residential Families,Hostel Residents,121,1196.2,125500.00,63800.00,167,0.373,0.563,0.694,0.381,0.346,0.980,0.553,0.555,Notebooks & Registers,0,1.577,9,0.771,1
+NS0156,A03,Kothrud,School-focused,School Students,Hostel Residents,556,6837.7,444500.00,291800.00,228,0.528,0.822,0.681,0.574,0.548,0.608,0.494,0.586,Balanced,3,4.258,15,0.392,1
+NS0157,A03,Kothrud,Residential,Residential Families,Coaching Students,225,2118.1,205000.00,124800.00,174,0.619,0.486,0.489,0.689,0.237,0.905,0.578,0.525,Adhesives & Tapes,2,1.238,18,0.552,1
+NS0158,A03,Kothrud,College-focused,Residential Families,College Students,675,6827.9,329500.00,186900.00,265,0.419,0.584,0.408,0.481,0.329,0.890,0.628,0.577,Calculators & Electronics,1,4.655,10,0.683,1
+NS0159,A03,Kothrud,Residential,Residential Families,School Students,193,1920.4,298000.00,250200.00,164,0.427,0.596,0.423,0.468,0.446,0.871,0.495,0.515,"Pencils, Erasers & Sharpeners",2,1.174,19,0.542,1
+NS0160,A03,Kothrud,School-focused,School Students,Residential Families,328,5927.8,210000.00,147700.00,217,0.590,0.865,0.617,0.561,0.219,0.731,0.544,0.544,School Accessories,3,4.108,11,0.339,1
+NS0161,A03,Kothrud,Residential,Residential Families,School Students,332,2903.4,513500.00,262400.00,184,0.585,0.856,0.502,0.339,0.528,0.975,0.549,0.515,Balanced,2,1.500,20,0.572,1
+NS0162,A03,Kothrud,Hostel/Student-focused,Residential Families,Hostel Residents,260,2807.5,157000.00,74500.00,158,0.675,0.540,0.443,0.456,0.303,0.749,0.539,0.484,Balanced,1,1.894,10,0.643,1
+NS0163,A03,Kothrud,School-focused,School Students,College Students,169,2001.4,238000.00,205400.00,191,0.730,0.711,0.371,0.412,0.204,0.683,0.436,0.553,Pens & Writing Instruments,3,3.646,12,0.354,1
+NS0164,A03,Kothrud,Residential,Residential Families,Hostel Residents,175,1885.5,218000.00,138500.00,126,0.639,0.588,0.662,0.525,0.322,0.949,0.468,0.612,"Pencils, Erasers & Sharpeners",2,0.875,21,0.558,1
+NS0165,A03,Kothrud,School-focused,School Students,Residential Families,285,5606.0,327000.00,146300.00,235,0.628,0.692,0.571,0.547,0.557,0.701,0.551,0.540,Pens & Writing Instruments,3,4.418,10,0.339,1
+NS0166,A03,Kothrud,Residential,Residential Families,School Students,201,1771.0,196000.00,133900.00,154,0.673,0.758,0.690,0.420,0.400,0.980,0.500,0.537,Pens & Writing Instruments,2,1.095,19,0.552,1
+NS0167,A03,Kothrud,Hostel/Student-focused,Residential Families,School Students,149,1869.6,184500.00,110800.00,159,0.680,0.814,0.517,0.678,0.320,0.867,0.518,0.560,Balanced,1,1.824,13,0.663,1
+NS0168,A03,Kothrud,Residential,Residential Families,School Students,147,1486.1,134000.00,64700.00,118,0.520,0.720,0.590,0.431,0.481,0.980,0.475,0.648,Pens & Writing Instruments,2,0.799,17,0.579,1
+NS0169,A03,Kothrud,Residential,Residential Families,Coaching Students,292,6400.1,848500.00,383500.00,185,0.379,0.534,0.543,0.655,0.252,0.941,0.452,0.575,Balanced,2,1.495,24,0.585,1
+NS0170,A03,Kothrud,Residential,Residential Families,College Students,628,11879.6,603500.00,253300.00,300,0.662,0.624,0.522,0.427,0.561,0.859,0.562,0.601,Balanced,2,2.350,23,0.611,1
+NS0171,A03,Kothrud,Hostel/Student-focused,Hostel Residents,Residential Families,246,2150.8,154500.00,119500.00,201,0.390,0.622,0.521,0.575,0.476,0.665,0.555,0.518,Balanced,2,3.055,9,0.556,1
+NS0172,A03,Kothrud,School-focused,Residential Families,School Students,274,4224.5,275000.00,209400.00,198,0.522,0.699,0.312,0.332,0.366,0.961,0.534,0.625,Balanced,3,3.696,12,0.440,1
+NS0173,A03,Kothrud,Hostel/Student-focused,Residential Families,Hostel Residents,280,4128.7,129500.00,73400.00,169,0.370,0.504,0.547,0.679,0.300,0.831,0.543,0.524,Markers & Highlighters,1,2.000,11,0.655,1
+NS0174,A03,Kothrud,College-focused,Residential Families,College Students,344,5014.2,455500.00,400300.00,233,0.440,0.603,0.314,0.546,0.192,0.831,0.582,0.450,Calculators & Electronics,1,4.181,17,0.676,1
+NS0175,A03,Kothrud,School-focused,School Students,Residential Families,128,1632.4,62500.00,30800.00,176,0.418,0.540,0.529,0.566,0.536,0.651,0.526,0.501,School Accessories,3,3.357,7,0.334,1
+NS0176,A03,Kothrud,Residential,Residential Families,College Students,219,2700.4,280500.00,168700.00,198,0.698,0.574,0.552,0.348,0.397,0.980,0.572,0.562,Notebooks & Registers,2,1.448,19,0.544,1
+NS0177,A03,Kothrud,Residential,Residential Families,School Students,564,7615.1,375000.00,324400.00,250,0.540,0.724,0.345,0.587,0.449,0.980,0.532,0.614,Pens & Writing Instruments,2,1.570,23,0.614,1
+NS0178,A03,Kothrud,School-focused,School Students,Residential Families,162,1810.7,204500.00,93600.00,135,0.498,0.652,0.641,0.354,0.277,0.809,0.568,0.532,Pens & Writing Instruments,3,2.567,10,0.338,1
+NS0179,A03,Kothrud,School-focused,School Students,Residential Families,501,9053.9,553500.00,345100.00,208,0.693,0.724,0.601,0.488,0.216,0.823,0.583,0.516,School Accessories,3,3.956,17,0.336,1
+NS0180,A03,Kothrud,Residential,Residential Families,School Students,180,2554.8,405000.00,338200.00,128,0.456,0.541,0.399,0.395,0.457,0.893,0.509,0.525,Art & Craft Supplies,2,1.014,21,0.543,1
+NS0181,A03,Kothrud,Residential,Residential Families,Coaching Students,822,17956.0,654000.00,426500.00,330,0.417,0.576,0.461,0.684,0.360,0.869,0.577,0.567,Balanced,2,2.018,23,0.624,1
+NS0182,A03,Kothrud,Residential,Residential Families,Hostel Residents,283,6237.7,321000.00,130800.00,180,0.570,0.527,0.605,0.412,0.458,0.970,0.474,0.625,Balanced,2,1.361,22,0.557,1
+NS0183,A03,Kothrud,School-focused,School Students,Residential Families,524,6219.7,674500.00,546000.00,262,0.492,0.700,0.493,0.316,0.343,0.887,0.484,0.544,Balanced,3,5.001,18,0.339,1
+NS0184,A03,Kothrud,Mixed/General,General Public,Residential Families,462,4365.1,514500.00,211100.00,262,0.545,0.629,0.327,0.598,0.487,0.876,0.590,0.604,"Files, Folders & Organizers",3,1.831,19,0.347,1
+NS0185,A03,Kothrud,College-focused,College Students,School Students,266,3135.8,412000.00,213300.00,207,0.523,0.689,0.547,0.494,0.432,0.631,0.433,0.504,Notebooks & Registers,3,3.748,13,0.409,1
+NS0186,A03,Kothrud,Residential,Residential Families,Coaching Students,157,2267.5,177000.00,89800.00,132,0.549,0.637,0.510,0.709,0.440,0.980,0.601,0.592,Pens & Writing Instruments,2,0.889,20,0.566,1
+NS0187,A03,Kothrud,School-focused,School Students,College Students,300,4137.0,501000.00,235800.00,175,0.713,0.662,0.403,0.544,0.407,0.710,0.525,0.540,School Accessories,3,3.314,14,0.343,1
+NS0188,A03,Kothrud,Residential,Residential Families,School Students,219,3149.6,130500.00,59400.00,115,0.388,0.673,0.356,0.544,0.234,0.980,0.509,0.414,Balanced,2,0.917,18,0.556,1
+NS0189,A03,Kothrud,College-focused,Residential Families,College Students,104,1902.8,49500.00,30800.00,134,0.368,0.494,0.326,0.426,0.478,0.821,0.561,0.473,Balanced,0,1.331,7,0.755,1
+NS0190,A03,Kothrud,Residential,Residential Families,School Students,433,6672.6,900000.00,610800.00,266,0.604,0.689,0.357,0.353,0.560,0.911,0.475,0.543,Balanced,2,2.071,23,0.603,1
+NS0191,A03,Kothrud,Residential,Residential Families,School Students,799,14825.1,649500.00,518900.00,319,0.388,0.778,0.531,0.340,0.535,0.899,0.526,0.594,Balanced,2,1.955,24,0.625,1
+NS0192,A03,Kothrud,College-focused,College Students,Residential Families,272,3314.2,324000.00,208300.00,192,0.689,0.523,0.644,0.620,0.477,0.847,0.495,0.540,Balanced,3,3.435,13,0.411,1
+NS0193,A03,Kothrud,School-focused,Residential Families,School Students,615,12530.9,770500.00,360500.00,265,0.566,0.709,0.373,0.379,0.570,0.964,0.581,0.556,Notebooks & Registers,1,4.958,17,0.661,1
+NS0194,A03,Kothrud,School-focused,Residential Families,School Students,183,1559.4,545500.00,237500.00,179,0.619,0.535,0.678,0.671,0.331,0.968,0.593,0.511,Geometry & Mathematical Tools,3,3.394,12,0.424,1
+NS0195,A03,Kothrud,Office-supply-focused,Residential Families,Office Workers,309,4261.4,280000.00,219600.00,196,0.599,0.604,0.347,0.347,0.411,0.945,0.514,0.576,Balanced,2,1.977,21,0.603,1
+NS0196,A03,Kothrud,Residential,Residential Families,School Students,115,1447.2,116000.00,85300.00,119,0.624,0.781,0.337,0.374,0.432,0.912,0.573,0.599,"Pencils, Erasers & Sharpeners",2,0.952,17,0.580,1
+NS0197,A03,Kothrud,School-focused,School Students,Residential Families,815,9014.5,900000.00,803900.00,269,0.586,0.788,0.393,0.713,0.281,0.825,0.529,0.561,Balanced,3,5.066,18,0.353,1
+NS0198,A03,Kothrud,Residential,Residential Families,College Students,292,3347.0,543000.00,386100.00,195,0.649,0.608,0.639,0.494,0.257,0.661,0.456,0.524,Balanced,2,1.496,21,0.551,1
+NS0199,A03,Kothrud,School-focused,School Students,College Students,221,1655.0,269500.00,240800.00,152,0.733,0.581,0.500,0.523,0.506,0.658,0.480,0.548,Balanced,3,2.868,14,0.351,1
+NS0200,A03,Kothrud,School-focused,School Students,Residential Families,190,2631.4,172000.00,149500.00,136,0.493,0.587,0.612,0.379,0.431,0.639,0.587,0.580,Geometry & Mathematical Tools,3,2.525,12,0.344,1
+NS0201,A03,Kothrud,School-focused,School Students,Residential Families,353,7746.8,888500.00,739500.00,204,0.412,0.807,0.337,0.383,0.257,0.904,0.519,0.562,Notebooks & Registers,3,3.868,19,0.342,1
+NS0202,A03,Kothrud,School-focused,Residential Families,School Students,360,4249.2,417500.00,303000.00,245,0.486,0.475,0.508,0.380,0.486,0.951,0.568,0.656,Geometry & Mathematical Tools,2,4.462,13,0.606,1
+NS0203,A03,Kothrud,Residential,Residential Families,School Students,486,3528.2,681000.00,541500.00,278,0.513,0.806,0.458,0.423,0.446,0.966,0.523,0.553,Pens & Writing Instruments,2,1.716,20,0.610,1
+NS0204,A03,Kothrud,Coaching-focused,Coaching Students,School Students,208,4375.7,348000.00,230500.00,150,0.546,0.664,0.427,0.542,0.506,0.627,0.475,0.524,Balanced,1,2.518,19,0.701,1
+NS0205,A03,Kothrud,Residential,Residential Families,School Students,132,2675.5,62000.00,48400.00,113,0.433,0.733,0.456,0.435,0.439,0.935,0.422,0.525,Balanced,2,0.929,16,0.572,1
+NS0206,A03,Kothrud,Residential,Residential Families,School Students,595,7775.7,458000.00,268700.00,261,0.412,0.834,0.534,0.558,0.215,0.828,0.503,0.494,Pens & Writing Instruments,2,2.152,24,0.609,1
+NS0207,A03,Kothrud,Residential,Residential Families,School Students,403,4801.7,900000.00,553100.00,165,0.510,0.606,0.431,0.449,0.241,0.773,0.547,0.558,Balanced,2,1.367,23,0.581,1
+NS0208,A03,Kothrud,Residential,Residential Families,School Students,268,4422.9,509000.00,413700.00,184,0.459,0.782,0.584,0.683,0.573,0.784,0.490,0.475,Art & Craft Supplies,2,1.530,22,0.558,1
+NS0209,A03,Kothrud,Residential,Residential Families,School Students,348,4191.0,831500.00,520600.00,169,0.412,0.784,0.448,0.514,0.531,0.665,0.525,0.621,"Pencils, Erasers & Sharpeners",2,1.388,22,0.584,1
+NS0210,A03,Kothrud,Hostel/Student-focused,Residential Families,School Students,85,1612.3,50500.00,22800.00,108,0.677,0.726,0.385,0.427,0.478,0.847,0.561,0.558,Art & Craft Supplies,0,1.214,7,0.768,1
+NS0211,A04,Viman Nagar,Mixed/General,General Public,Office Workers,144,1879.6,119500.00,94300.00,144,0.493,0.339,0.340,0.298,0.835,0.562,0.255,0.705,Balanced,3,1.044,19,0.448,1
+NS0212,A04,Viman Nagar,Residential,Residential Families,Office Workers,300,2875.2,210500.00,184700.00,242,0.357,0.547,0.128,0.313,0.554,0.689,0.287,0.737,Balanced,2,1.544,22,0.610,1
+NS0213,A04,Viman Nagar,Office-supply-focused,Office Workers,School Students,308,2701.1,245500.00,194600.00,241,0.195,0.574,0.141,0.415,0.604,0.483,0.272,0.623,Balanced,3,2.441,17,0.378,1
+NS0214,A04,Viman Nagar,Mixed/General,General Public,Office Workers,366,6476.9,742500.00,531100.00,218,0.443,0.405,0.381,0.106,0.860,0.840,0.274,0.664,Pens & Writing Instruments,3,1.574,24,0.376,1
+NS0215,A04,Viman Nagar,School-focused,Residential Families,School Students,530,7147.1,241000.00,143400.00,269,0.559,0.480,0.384,0.153,0.614,0.765,0.330,0.669,Balanced,1,4.977,10,0.697,1
+NS0216,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,268,3358.0,315500.00,190000.00,150,0.538,0.592,0.403,0.130,0.732,0.831,0.304,0.581,Balanced,3,1.554,21,0.364,1
+NS0217,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,355,6238.4,317000.00,277400.00,206,0.260,0.619,0.308,0.165,0.811,0.862,0.262,0.711,Paper & Printing Supplies,3,2.072,23,0.366,1
+NS0218,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,144,1329.3,126500.00,85900.00,94,0.377,0.364,0.326,0.219,0.865,0.819,0.355,0.700,"Files, Folders & Organizers",3,0.939,18,0.418,1
+NS0219,A04,Viman Nagar,Residential,Residential Families,Office Workers,570,10596.4,548000.00,464600.00,260,0.234,0.490,0.300,0.229,0.701,0.856,0.341,0.658,Balanced,2,1.750,25,0.622,1
+NS0220,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,83,900.7,80500.00,56200.00,83,0.475,0.479,0.244,0.248,0.601,0.701,0.405,0.535,Adhesives & Tapes,2,0.853,14,0.577,1
+NS0221,A04,Viman Nagar,Hostel/Student-focused,Residential Families,Office Workers,454,6778.6,584500.00,525200.00,197,0.492,0.569,0.227,0.340,0.631,0.748,0.309,0.641,Balanced,1,2.423,24,0.700,1
+NS0222,A04,Viman Nagar,Mixed/General,General Public,Office Workers,480,9243.9,440500.00,384300.00,286,0.492,0.592,0.407,0.365,0.638,0.502,0.289,0.708,Art & Craft Supplies,3,2.040,24,0.360,1
+NS0223,A04,Viman Nagar,Residential,Residential Families,Office Workers,629,8582.2,900000.00,805500.00,269,0.242,0.543,0.229,0.389,0.581,0.470,0.260,0.620,Pens & Writing Instruments,2,1.789,26,0.639,1
+NS0224,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,80,1208.5,115000.00,77400.00,145,0.491,0.548,0.196,0.347,0.780,0.644,0.319,0.656,Paper & Printing Supplies,3,1.465,13,0.431,1
+NS0225,A04,Viman Nagar,School-focused,School Students,Residential Families,196,2921.8,266500.00,179300.00,157,0.414,0.541,0.218,0.432,0.635,0.791,0.274,0.652,Art & Craft Supplies,3,2.980,15,0.353,1
+NS0226,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,674,12922.1,710000.00,432400.00,333,0.463,0.498,0.491,0.169,0.528,0.591,0.310,0.682,Paper & Printing Supplies,3,3.312,24,0.374,1
+NS0227,A04,Viman Nagar,Mixed/General,General Public,Office Workers,559,5170.7,455000.00,293400.00,262,0.263,0.441,0.387,0.072,0.778,0.542,0.230,0.614,Notebooks & Registers,3,1.918,22,0.348,1
+NS0228,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,217,3155.5,252000.00,104800.00,182,0.370,0.558,0.438,0.203,0.510,0.607,0.225,0.641,Office Desk Supplies,3,1.873,16,0.379,1
+NS0229,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,190,4524.3,520500.00,334700.00,118,0.436,0.436,0.280,0.437,0.560,0.773,0.268,0.678,Paper & Printing Supplies,3,1.200,24,0.387,1
+NS0230,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,343,2983.3,308500.00,265700.00,199,0.243,0.255,0.140,0.227,0.851,0.635,0.304,0.604,Balanced,3,2.022,20,0.347,1
+NS0231,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,145,2405.8,121000.00,74200.00,144,0.558,0.533,0.417,0.059,0.821,0.714,0.300,0.554,"Files, Folders & Organizers",3,1.496,14,0.398,1
+NS0232,A04,Viman Nagar,Mixed/General,General Public,Office Workers,229,3444.0,466000.00,196300.00,167,0.178,0.495,0.338,0.128,0.586,0.585,0.255,0.679,Art & Craft Supplies,3,1.215,23,0.386,1
+NS0233,A04,Viman Nagar,Office-supply-focused,Office Workers,College Students,249,6053.9,191000.00,157400.00,191,0.556,0.544,0.308,0.434,0.777,0.471,0.285,0.653,Balanced,3,1.934,21,0.381,1
+NS0234,A04,Viman Nagar,Residential,Residential Families,Office Workers,80,873.2,51500.00,25400.00,126,0.341,0.272,0.282,0.283,0.817,0.598,0.248,0.667,Art & Craft Supplies,2,0.827,11,0.633,1
+NS0235,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,485,7212.7,478500.00,367400.00,235,0.296,0.450,0.172,0.087,0.519,0.657,0.293,0.636,Balanced,3,2.363,23,0.351,1
+NS0236,A04,Viman Nagar,Residential,Residential Families,Office Workers,303,4134.9,437000.00,382100.00,160,0.218,0.558,0.391,0.051,0.608,0.771,0.338,0.646,Balanced,2,1.128,25,0.587,1
+NS0237,A04,Viman Nagar,Office-supply-focused,Office Workers,School Students,505,5174.6,678500.00,395400.00,228,0.386,0.618,0.281,0.154,0.714,0.526,0.282,0.651,Balanced,3,2.288,21,0.353,1
+NS0238,A04,Viman Nagar,Residential,Residential Families,Office Workers,190,2451.5,379500.00,252900.00,160,0.443,0.496,0.246,0.247,0.552,0.835,0.218,0.691,Balanced,2,1.062,23,0.589,1
+NS0239,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,364,5390.3,222500.00,192500.00,231,0.211,0.580,0.231,0.042,0.816,0.632,0.201,0.661,Paper & Printing Supplies,3,2.344,20,0.366,1
+NS0240,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,430,6612.5,327000.00,162900.00,206,0.311,0.279,0.196,0.043,0.704,0.747,0.252,0.659,"Files, Folders & Organizers",3,2.086,21,0.354,1
+NS0241,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,281,5048.8,348500.00,307400.00,201,0.336,0.315,0.350,0.210,0.779,0.651,0.309,0.653,Balanced,3,2.033,21,0.353,1
+NS0242,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,242,5196.2,182000.00,135600.00,151,0.438,0.397,0.138,0.112,0.765,0.671,0.163,0.697,Office Desk Supplies,3,1.548,23,0.386,1
+NS0243,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,324,5733.8,478500.00,202600.00,185,0.219,0.443,0.348,0.380,0.801,0.760,0.276,0.722,"Files, Folders & Organizers",3,1.853,23,0.362,1
+NS0244,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,401,6264.9,341500.00,198100.00,262,0.482,0.275,0.310,0.041,0.544,0.581,0.248,0.731,Paper & Printing Supplies,3,2.608,19,0.369,1
+NS0245,A04,Viman Nagar,Residential,Residential Families,Office Workers,158,1890.8,217000.00,123300.00,148,0.423,0.340,0.240,0.256,0.611,0.808,0.303,0.697,Art & Craft Supplies,2,1.054,22,0.585,1
+NS0246,A04,Viman Nagar,Office-supply-focused,Residential Families,Office Workers,304,5599.9,265500.00,189100.00,201,0.519,0.463,0.304,0.140,0.565,0.835,0.301,0.769,Office Desk Supplies,2,1.999,22,0.600,1
+NS0247,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,410,3588.7,568000.00,412900.00,251,0.413,0.618,0.251,0.126,0.783,0.702,0.346,0.747,Paper & Printing Supplies,3,2.458,19,0.365,1
+NS0248,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,80,1392.6,83000.00,37200.00,111,0.182,0.641,0.121,0.426,0.819,0.731,0.253,0.722,"Files, Folders & Organizers",2,1.114,12,0.614,1
+NS0249,A04,Viman Nagar,Hostel/Student-focused,Office Workers,Residential Families,357,4562.8,438500.00,223300.00,191,0.183,0.269,0.218,0.266,0.837,0.623,0.278,0.674,Adhesives & Tapes,1,2.249,22,0.693,1
+NS0250,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,328,6731.3,283500.00,183100.00,230,0.558,0.287,0.279,0.187,0.684,0.788,0.248,0.654,Balanced,3,2.349,20,0.354,1
+NS0251,A04,Viman Nagar,Residential,Residential Families,School Students,550,6920.7,772500.00,513200.00,310,0.226,0.572,0.384,0.309,0.540,0.474,0.411,0.662,Pens & Writing Instruments,2,1.908,25,0.634,1
+NS0252,A04,Viman Nagar,College-focused,Residential Families,Office Workers,236,2875.7,222000.00,171600.00,146,0.277,0.275,0.479,0.190,0.629,0.683,0.180,0.712,Calculators & Electronics,1,1.474,24,0.717,1
+NS0253,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,555,7977.9,772000.00,593600.00,232,0.373,0.358,0.365,0.371,0.728,0.643,0.279,0.634,Adhesives & Tapes,3,2.347,23,0.351,1
+NS0254,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,310,2068.3,441500.00,284600.00,224,0.521,0.474,0.411,0.280,0.745,0.674,0.298,0.687,Calculators & Electronics,3,2.258,19,0.358,1
+NS0255,A04,Viman Nagar,College-focused,Residential Families,Office Workers,496,6476.4,520500.00,375700.00,263,0.242,0.319,0.373,0.297,0.599,0.724,0.333,0.631,Calculators & Electronics,1,4.738,17,0.691,1
+NS0256,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,235,3497.2,283000.00,248500.00,158,0.558,0.291,0.450,0.077,0.638,0.733,0.367,0.615,Balanced,3,1.607,20,0.365,1
+NS0257,A04,Viman Nagar,Residential,Residential Families,Office Workers,193,2926.3,268000.00,155600.00,148,0.385,0.261,0.311,0.434,0.818,0.624,0.226,0.612,Art & Craft Supplies,2,0.998,24,0.575,1
+NS0258,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,583,8927.6,436500.00,267900.00,272,0.405,0.458,0.366,0.382,0.672,0.556,0.279,0.594,Balanced,3,2.765,22,0.351,1
+NS0259,A04,Viman Nagar,Coaching-focused,Office Workers,School Students,214,3183.9,272000.00,125900.00,180,0.300,0.602,0.227,0.254,0.840,0.529,0.278,0.699,Notebooks & Registers,1,2.345,14,0.714,1
+NS0260,A04,Viman Nagar,Coaching-focused,Office Workers,School Students,83,849.9,94500.00,84600.00,74,0.270,0.627,0.113,0.204,0.866,0.470,0.218,0.698,Notebooks & Registers,0,0.983,19,0.857,1
+NS0261,A04,Viman Nagar,Hostel/Student-focused,Office Workers,Residential Families,109,1453.6,193500.00,164200.00,134,0.444,0.271,0.324,0.066,0.781,0.746,0.266,0.621,Balanced,1,1.630,20,0.721,1
+NS0262,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,379,7032.3,625000.00,314600.00,199,0.483,0.329,0.175,0.207,0.748,0.554,0.258,0.682,Balanced,3,2.009,24,0.357,1
+NS0263,A04,Viman Nagar,Residential,Residential Families,Office Workers,241,1962.2,250500.00,174500.00,159,0.309,0.448,0.319,0.074,0.622,0.471,0.279,0.728,Balanced,2,1.041,22,0.601,1
+NS0264,A04,Viman Nagar,College-focused,Office Workers,School Students,500,5243.6,343500.00,275700.00,239,0.260,0.602,0.501,0.117,0.856,0.584,0.175,0.684,Notebooks & Registers,1,3.569,18,0.711,1
+NS0265,A04,Viman Nagar,College-focused,College Students,Residential Families,199,3006.3,436500.00,208900.00,229,0.555,0.539,0.209,0.169,0.520,0.588,0.324,0.728,Notebooks & Registers,2,3.991,13,0.586,1
+NS0266,A04,Viman Nagar,Residential,Residential Families,Office Workers,175,2295.8,235000.00,209300.00,222,0.428,0.386,0.401,0.219,0.706,0.738,0.260,0.754,Art & Craft Supplies,2,1.524,21,0.598,1
+NS0267,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,448,7593.8,547500.00,445000.00,249,0.488,0.361,0.329,0.423,0.585,0.814,0.291,0.617,Paper & Printing Supplies,3,2.539,23,0.349,1
+NS0268,A04,Viman Nagar,Mixed/General,General Public,Office Workers,142,2495.8,162500.00,101000.00,168,0.293,0.454,0.359,0.338,0.633,0.544,0.307,0.578,Balanced,3,1.245,18,0.403,1
+NS0269,A04,Viman Nagar,College-focused,College Students,Residential Families,110,2099.4,254500.00,174800.00,168,0.569,0.587,0.328,0.269,0.641,0.643,0.347,0.664,Notebooks & Registers,1,2.933,13,0.669,1
+NS0270,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,227,4092.2,130500.00,114000.00,226,0.262,0.496,0.265,0.376,0.550,0.599,0.336,0.541,Calculators & Electronics,3,2.318,15,0.378,1
+NS0271,A04,Viman Nagar,College-focused,College Students,Residential Families,470,6554.7,760500.00,408500.00,211,0.366,0.520,0.157,0.436,0.532,0.564,0.236,0.760,Pens & Writing Instruments,3,3.726,21,0.424,1
+NS0272,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,115,1415.7,109000.00,65700.00,112,0.512,0.571,0.465,0.044,0.687,0.638,0.298,0.658,"Files, Folders & Organizers",3,1.138,15,0.428,1
+NS0273,A04,Viman Nagar,School-focused,Office Workers,School Students,119,1862.2,112000.00,99800.00,134,0.234,0.425,0.180,0.426,0.762,0.534,0.252,0.673,Notebooks & Registers,1,2.527,11,0.691,1
+NS0274,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,133,1576.2,225000.00,185000.00,157,0.543,0.582,0.315,0.082,0.601,0.615,0.355,0.564,Office Desk Supplies,3,1.610,18,0.388,1
+NS0275,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,430,10180.9,270500.00,194800.00,255,0.445,0.620,0.376,0.353,0.854,0.653,0.331,0.646,Office Desk Supplies,3,2.559,21,0.364,1
+NS0276,A04,Viman Nagar,Residential,Residential Families,Office Workers,541,5145.1,900000.00,730400.00,234,0.507,0.373,0.428,0.149,0.721,0.523,0.320,0.574,Notebooks & Registers,2,1.619,24,0.603,1
+NS0277,A04,Viman Nagar,Office-supply-focused,Office Workers,School Students,199,2458.1,429000.00,286700.00,195,0.373,0.539,0.156,0.117,0.798,0.507,0.316,0.650,Balanced,3,1.963,19,0.360,1
+NS0278,A04,Viman Nagar,Hostel/Student-focused,Office Workers,Residential Families,132,2029.2,173000.00,136200.00,125,0.446,0.487,0.491,0.167,0.820,0.796,0.282,0.575,Pens & Writing Instruments,1,1.643,18,0.711,1
+NS0279,A04,Viman Nagar,Office-supply-focused,Office Workers,Residential Families,244,2505.2,193000.00,110400.00,220,0.531,0.292,0.285,0.336,0.806,0.839,0.264,0.628,Balanced,3,2.254,14,0.372,1
+NS0280,A04,Viman Nagar,Residential,Residential Families,Office Workers,99,2254.5,182000.00,76400.00,132,0.387,0.598,0.388,0.355,0.738,0.850,0.302,0.532,Balanced,2,1.071,18,0.570,1
+NS0281,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,397,8997.2,450500.00,253400.00,244,0.234,0.246,0.257,0.125,0.898,0.608,0.334,0.524,"Files, Folders & Organizers",3,2.491,23,0.337,1
+NS0282,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,572,13140.6,626000.00,436600.00,235,0.341,0.313,0.235,0.020,0.972,0.739,0.346,0.474,Balanced,3,2.418,23,0.330,1
+NS0283,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,258,3602.1,312000.00,126800.00,174,0.160,0.184,0.391,0.179,0.980,0.433,0.322,0.508,Balanced,3,1.790,17,0.335,1
+NS0284,A05,Hinjawadi,Coaching-focused,Office Workers,Hostel Residents,146,1483.1,142500.00,125500.00,151,0.150,0.351,0.496,0.125,0.980,0.366,0.375,0.447,Geometry & Mathematical Tools,0,1.978,14,0.801,1
+NS0285,A05,Hinjawadi,College-focused,Office Workers,College Students,257,3452.8,273500.00,124000.00,157,0.404,0.235,0.422,0.020,0.801,0.530,0.302,0.520,Calculators & Electronics,1,2.073,15,0.684,1
+NS0286,A05,Hinjawadi,Residential,Office Workers,Residential Families,200,2148.2,176500.00,88500.00,140,0.227,0.369,0.274,0.184,0.826,0.410,0.366,0.478,Balanced,2,1.002,19,0.590,1
+NS0287,A05,Hinjawadi,Office-supply-focused,Office Workers,Hostel Residents,1100,18904.0,900000.00,555900.00,343,0.449,0.088,0.530,0.020,0.966,0.461,0.377,0.587,Balanced,3,3.399,23,0.381,1
+NS0288,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,115,1100.1,62500.00,55700.00,98,0.417,0.107,0.296,0.284,0.927,0.484,0.383,0.493,Markers & Highlighters,3,1.005,13,0.367,1
+NS0289,A05,Hinjawadi,Mixed/General,General Public,Office Workers,215,2054.8,103000.00,48000.00,191,0.231,0.470,0.499,0.020,0.888,0.383,0.384,0.525,Paper & Printing Supplies,3,1.411,12,0.401,1
+NS0290,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,243,3367.0,186500.00,102700.00,198,0.173,0.344,0.432,0.134,0.771,0.667,0.430,0.519,"Files, Folders & Organizers",3,2.028,14,0.351,1
+NS0291,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,171,3455.3,165500.00,119100.00,127,0.149,0.157,0.169,0.020,0.943,0.374,0.372,0.555,"Files, Folders & Organizers",3,1.279,20,0.343,1
+NS0292,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,116,2486.4,98500.00,69100.00,125,0.218,0.313,0.435,0.128,0.884,0.616,0.409,0.464,Balanced,3,1.295,15,0.397,1
+NS0293,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,187,3724.3,167500.00,150100.00,220,0.335,0.257,0.461,0.060,0.903,0.522,0.425,0.502,Markers & Highlighters,3,2.242,15,0.364,1
+NS0294,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,150,2133.2,138000.00,111300.00,152,0.130,0.313,0.427,0.172,0.858,0.456,0.370,0.577,Balanced,3,1.539,16,0.344,1
+NS0295,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,785,11866.9,900000.00,617400.00,349,0.314,0.381,0.322,0.020,0.822,0.693,0.369,0.492,Balanced,3,3.563,23,0.351,1
+NS0296,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,199,3388.7,346500.00,139300.00,149,0.324,0.424,0.468,0.098,0.766,0.413,0.270,0.461,Office Desk Supplies,3,1.575,19,0.329,1
+NS0297,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,225,4448.4,209000.00,163400.00,185,0.330,0.352,0.182,0.185,0.980,0.693,0.280,0.493,Balanced,3,1.936,19,0.350,1
+NS0298,A05,Hinjawadi,Residential,Office Workers,Residential Families,149,2296.7,202500.00,173900.00,145,0.222,0.434,0.154,0.257,0.879,0.624,0.352,0.502,Pens & Writing Instruments,2,1.031,22,0.594,1
+NS0299,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,235,4746.7,147500.00,130600.00,195,0.286,0.213,0.182,0.020,0.842,0.690,0.383,0.567,"Files, Folders & Organizers",3,1.976,17,0.362,1
+NS0300,A05,Hinjawadi,Office-supply-focused,Office Workers,Hostel Residents,237,3756.9,349500.00,210900.00,205,0.388,0.202,0.535,0.237,0.980,0.426,0.325,0.486,Balanced,3,2.128,19,0.347,1
+NS0301,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,403,4723.7,556000.00,346700.00,235,0.302,0.093,0.158,0.020,0.980,0.386,0.465,0.521,Balanced,3,2.341,19,0.336,1
+NS0302,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,511,5214.8,577500.00,359800.00,286,0.183,0.461,0.399,0.260,0.980,0.736,0.297,0.399,Balanced,3,3.025,20,0.333,1
+NS0303,A05,Hinjawadi,Office-supply-focused,Office Workers,Hostel Residents,206,3481.5,512000.00,351400.00,207,0.173,0.337,0.534,0.097,0.877,0.417,0.360,0.504,Balanced,3,2.130,19,0.343,1
+NS0304,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,226,3463.9,482500.00,295500.00,166,0.472,0.201,0.291,0.020,0.921,0.716,0.359,0.444,Office Desk Supplies,3,1.739,20,0.333,1
+NS0305,A05,Hinjawadi,Residential,Office Workers,Residential Families,149,2802.8,333000.00,188900.00,147,0.204,0.239,0.508,0.296,0.980,0.705,0.414,0.594,"Pencils, Erasers & Sharpeners",2,1.098,22,0.607,1
+NS0306,A05,Hinjawadi,Residential,Office Workers,Residential Families,747,15960.9,900000.00,576800.00,283,0.188,0.109,0.344,0.020,0.969,0.457,0.488,0.473,Balanced,0,2.074,25,0.742,1
+NS0307,A05,Hinjawadi,Mixed/General,General Public,Office Workers,204,2375.3,392000.00,341500.00,178,0.380,0.422,0.156,0.279,0.743,0.566,0.323,0.552,Paper & Printing Supplies,3,1.322,20,0.376,1
+NS0308,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,503,9150.2,593000.00,272500.00,272,0.225,0.226,0.174,0.020,0.980,0.592,0.424,0.451,Adhesives & Tapes,3,2.765,21,0.328,1
+NS0309,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,335,5956.6,495000.00,228000.00,208,0.477,0.387,0.254,0.297,0.980,0.510,0.387,0.475,"Files, Folders & Organizers",3,2.148,21,0.331,1
+NS0310,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,183,1614.8,269500.00,182400.00,135,0.109,0.108,0.326,0.100,0.876,0.689,0.372,0.497,Balanced,3,1.388,18,0.368,1
+NS0311,A05,Hinjawadi,College-focused,Office Workers,Residential Families,167,2165.3,414500.00,239300.00,169,0.245,0.218,0.420,0.215,0.942,0.652,0.354,0.486,School Accessories,1,2.244,20,0.690,1
+NS0312,A05,Hinjawadi,College-focused,Office Workers,Residential Families,266,3347.8,236500.00,192600.00,184,0.162,0.074,0.153,0.022,0.932,0.708,0.407,0.359,Calculators & Electronics,0,2.401,17,0.745,1
+NS0313,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,380,8560.3,576000.00,479600.00,242,0.295,0.155,0.400,0.257,0.900,0.477,0.395,0.543,Balanced,3,2.442,23,0.339,1
+NS0314,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,166,2348.3,199000.00,143400.00,157,0.253,0.234,0.197,0.038,0.722,0.365,0.318,0.554,Adhesives & Tapes,3,1.605,18,0.341,1
+NS0315,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,114,1729.9,242500.00,214900.00,117,0.459,0.429,0.510,0.210,0.900,0.701,0.327,0.456,Paper & Printing Supplies,3,1.237,19,0.387,1
+NS0316,A05,Hinjawadi,Coaching-focused,Office Workers,Residential Families,256,3047.9,291500.00,139800.00,195,0.465,0.342,0.402,0.282,0.837,0.594,0.468,0.532,Balanced,0,2.562,12,0.745,1
+NS0317,A05,Hinjawadi,Mixed/General,General Public,Office Workers,202,2088.6,283500.00,215000.00,141,0.250,0.203,0.194,0.020,0.808,0.605,0.352,0.484,Paper & Printing Supplies,3,1.060,20,0.395,1
+NS0318,A05,Hinjawadi,Residential,Office Workers,Residential Families,345,2723.7,392000.00,198000.00,192,0.225,0.419,0.315,0.282,0.980,0.362,0.367,0.454,Pens & Writing Instruments,1,1.355,22,0.666,1
+NS0319,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,156,2859.6,77500.00,59500.00,174,0.347,0.432,0.444,0.020,0.980,0.620,0.330,0.483,Paper & Printing Supplies,3,1.814,13,0.385,1
+NS0320,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,222,2674.7,208500.00,87900.00,154,0.390,0.273,0.454,0.215,0.980,0.659,0.407,0.510,Balanced,3,1.581,14,0.359,1
+NS0321,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,153,2784.9,215500.00,138600.00,174,0.416,0.281,0.218,0.020,0.719,0.529,0.470,0.487,Office Desk Supplies,3,1.776,16,0.364,1
+NS0322,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,381,6315.0,534000.00,346800.00,214,0.426,0.250,0.157,0.054,0.781,0.638,0.463,0.600,Adhesives & Tapes,3,2.127,21,0.347,1
+NS0323,A05,Hinjawadi,Office-supply-focused,Office Workers,Hostel Residents,137,1376.9,188500.00,166700.00,144,0.429,0.140,0.528,0.203,0.860,0.380,0.372,0.481,Balanced,3,1.490,18,0.384,1
+NS0324,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,275,4578.9,253500.00,167800.00,170,0.147,0.184,0.503,0.253,0.980,0.711,0.428,0.510,"Files, Folders & Organizers",3,1.733,20,0.356,1
+NS0325,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,101,1447.8,152500.00,97000.00,91,0.369,0.286,0.504,0.070,0.736,0.607,0.245,0.489,"Files, Folders & Organizers",3,0.963,20,0.405,1
+NS0326,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,488,7514.1,692000.00,299700.00,263,0.494,0.240,0.340,0.020,0.980,0.745,0.342,0.495,Adhesives & Tapes,3,2.707,22,0.333,1
+NS0327,A05,Hinjawadi,Coaching-focused,Office Workers,Hostel Residents,124,2419.6,144000.00,98100.00,123,0.312,0.231,0.524,0.083,0.980,0.432,0.431,0.471,Geometry & Mathematical Tools,0,1.351,17,0.811,1
+NS0328,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,453,7048.0,336500.00,220500.00,215,0.194,0.391,0.457,0.235,0.980,0.671,0.338,0.463,Balanced,3,2.233,22,0.329,1
+NS0329,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,472,5632.2,563000.00,297900.00,223,0.331,0.386,0.408,0.020,0.884,0.388,0.385,0.501,Balanced,3,2.274,21,0.334,1
+NS0330,A05,Hinjawadi,Residential,Office Workers,Residential Families,273,2992.4,302500.00,133300.00,175,0.488,0.417,0.309,0.020,0.828,0.366,0.428,0.478,Balanced,1,1.264,22,0.651,1
+NS0331,A05,Hinjawadi,Mixed/General,Office Workers,General Public,294,6879.9,274000.00,230200.00,150,0.226,0.313,0.301,0.231,0.980,0.605,0.380,0.553,Balanced,4,1.386,23,0.391,1
+NS0332,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,163,2790.1,144500.00,84400.00,120,0.122,0.100,0.327,0.053,0.980,0.642,0.431,0.485,Calculators & Electronics,3,1.222,17,0.390,1
+NS0333,A05,Hinjawadi,Mixed/General,Office Workers,General Public,115,1929.4,138500.00,99900.00,110,0.431,0.353,0.171,0.145,0.980,0.504,0.317,0.515,Paper & Printing Supplies,0,1.124,20,0.758,1
+NS0334,A05,Hinjawadi,Residential,Office Workers,Residential Families,559,10453.1,876000.00,652000.00,238,0.326,0.409,0.190,0.020,0.980,0.561,0.452,0.533,"Pencils, Erasers & Sharpeners",1,1.902,24,0.678,1
+NS0335,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,219,3486.3,230000.00,144300.00,173,0.305,0.144,0.169,0.302,0.773,0.590,0.356,0.459,Balanced,3,1.800,18,0.352,1
+NS0336,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,208,1809.4,251500.00,171000.00,193,0.359,0.428,0.504,0.160,0.889,0.530,0.429,0.583,"Files, Folders & Organizers",3,1.944,16,0.361,1
+NS0337,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,241,3595.8,131500.00,72700.00,206,0.204,0.420,0.211,0.184,0.901,0.477,0.419,0.485,Balanced,3,2.105,13,0.332,1
+NS0338,A05,Hinjawadi,School-focused,Office Workers,Residential Families,226,3407.7,253500.00,139000.00,98,0.245,0.133,0.378,0.102,0.815,0.643,0.337,0.566,"Pencils, Erasers & Sharpeners",3,1.880,17,0.411,1
+NS0339,A05,Hinjawadi,College-focused,Office Workers,College Students,216,4684.3,202000.00,134200.00,142,0.287,0.136,0.524,0.020,0.980,0.497,0.461,0.516,Project & Presentation Supplies,0,1.779,18,0.771,1
+NS0340,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,167,2101.4,135000.00,64100.00,119,0.336,0.334,0.521,0.020,0.895,0.662,0.406,0.567,Paper & Printing Supplies,3,1.209,14,0.393,1
+NS0341,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,237,5650.0,216000.00,149200.00,198,0.217,0.135,0.376,0.020,0.834,0.527,0.394,0.485,Balanced,3,2.031,18,0.348,1
+NS0342,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,174,2107.5,177500.00,149400.00,132,0.402,0.438,0.402,0.082,0.980,0.515,0.363,0.472,"Files, Folders & Organizers",3,1.372,19,0.372,1
+NS0343,A05,Hinjawadi,Mixed/General,General Public,Office Workers,267,3465.2,301000.00,166000.00,173,0.496,0.414,0.224,0.151,0.755,0.414,0.332,0.519,Art & Craft Supplies,3,1.290,22,0.375,1
+NS0344,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,379,3541.3,537500.00,238100.00,238,0.313,0.152,0.313,0.020,0.980,0.598,0.305,0.504,Balanced,3,2.446,19,0.334,1
+NS0345,A05,Hinjawadi,Mixed/General,Office Workers,General Public,440,4832.1,570000.00,300000.00,258,0.394,0.245,0.192,0.147,0.980,0.560,0.305,0.482,Pens & Writing Instruments,6,2.288,20,0.254,1
+NS0346,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,205,2819.6,405000.00,301900.00,199,0.404,0.219,0.468,0.143,0.754,0.595,0.421,0.538,Office Desk Supplies,3,2.032,18,0.341,1
+NS0347,A05,Hinjawadi,Coaching-focused,Office Workers,Residential Families,139,1665.7,114000.00,62500.00,145,0.441,0.192,0.235,0.108,0.980,0.538,0.421,0.508,Calculators & Electronics,0,1.730,9,0.800,1
+NS0348,A05,Hinjawadi,Office-supply-focused,Office Workers,Residential Families,246,4512.7,418000.00,257100.00,198,0.428,0.330,0.358,0.025,0.980,0.589,0.407,0.486,Paper & Printing Supplies,3,2.041,20,0.332,1
+NS0349,A05,Hinjawadi,Residential,Residential Families,Office Workers,114,1899.1,202000.00,129400.00,104,0.461,0.098,0.458,0.206,0.756,0.558,0.393,0.512,Pens & Writing Instruments,2,0.762,22,0.570,1
+NS0350,A05,Hinjawadi,Office-supply-focused,Office Workers,General Public,359,3141.8,333000.00,212800.00,227,0.426,0.106,0.305,0.111,0.972,0.449,0.299,0.614,"Files, Folders & Organizers",3,2.286,18,0.348,1
+NS0351,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,253,2790.7,272500.00,110500.00,195,0.158,0.343,0.301,0.416,0.708,0.652,0.544,0.564,Balanced,3,1.940,13,0.363,1
+NS0352,A06,Hadapsar,Residential,Office Workers,School Students,147,1186.8,146000.00,110300.00,99,0.274,0.718,0.380,0.230,0.738,0.459,0.534,0.623,Balanced,2,0.655,20,0.627,1
+NS0353,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,363,6900.5,144000.00,108300.00,193,0.376,0.569,0.494,0.469,0.429,0.463,0.587,0.584,"Files, Folders & Organizers",3,1.901,17,0.393,1
+NS0354,A06,Hadapsar,Hostel/Student-focused,School Students,Office Workers,213,2567.1,442000.00,306000.00,193,0.157,0.735,0.439,0.279,0.708,0.647,0.613,0.587,Pens & Writing Instruments,1,2.973,17,0.674,1
+NS0355,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,156,1399.3,95000.00,74700.00,186,0.408,0.502,0.264,0.435,0.570,0.747,0.625,0.634,"Files, Folders & Organizers",3,1.811,9,0.420,1
+NS0356,A06,Hadapsar,Residential,Residential Families,Office Workers,139,2843.4,145000.00,90300.00,169,0.348,0.538,0.418,0.192,0.542,0.555,0.604,0.617,Balanced,2,1.182,17,0.576,1
+NS0357,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,259,2986.4,239500.00,164900.00,166,0.187,0.564,0.148,0.374,0.648,0.540,0.531,0.634,Balanced,3,1.622,18,0.387,1
+NS0358,A06,Hadapsar,Residential,Residential Families,Office Workers,302,3583.0,396500.00,232600.00,170,0.371,0.581,0.242,0.348,0.783,0.822,0.692,0.674,Balanced,2,1.212,21,0.591,1
+NS0359,A06,Hadapsar,Residential,Residential Families,Office Workers,217,4080.8,250000.00,154000.00,186,0.532,0.702,0.236,0.173,0.740,0.771,0.499,0.633,Pens & Writing Instruments,2,1.421,22,0.579,1
+NS0360,A06,Hadapsar,Residential,Residential Families,Office Workers,725,14561.6,900000.00,607800.00,296,0.429,0.522,0.371,0.074,0.567,0.489,0.553,0.609,Balanced,2,1.811,23,0.620,1
+NS0361,A06,Hadapsar,Hostel/Student-focused,Residential Families,Office Workers,208,3726.8,124000.00,74600.00,167,0.402,0.562,0.233,0.078,0.706,0.758,0.618,0.705,Markers & Highlighters,1,1.867,11,0.708,1
+NS0362,A06,Hadapsar,Mixed/General,General Public,School Students,201,1864.4,146000.00,75700.00,148,0.317,0.669,0.461,0.228,0.608,0.652,0.678,0.634,Notebooks & Registers,3,1.019,14,0.410,1
+NS0363,A06,Hadapsar,Coaching-focused,Office Workers,Residential Families,523,6264.9,484000.00,235900.00,251,0.237,0.378,0.467,0.146,0.740,0.706,0.567,0.583,Balanced,1,3.291,15,0.680,1
+NS0364,A06,Hadapsar,Residential,Residential Families,School Students,847,12090.5,900000.00,796800.00,328,0.291,0.701,0.268,0.311,0.513,0.823,0.625,0.576,Balanced,2,1.993,23,0.640,1
+NS0365,A06,Hadapsar,Residential,Residential Families,School Students,258,4917.0,199500.00,161700.00,154,0.153,0.609,0.426,0.166,0.418,0.475,0.609,0.726,Specialty Stationery,2,1.066,23,0.603,1
+NS0366,A06,Hadapsar,Residential,Residential Families,School Students,203,2097.2,281500.00,153000.00,185,0.472,0.557,0.271,0.242,0.496,0.613,0.626,0.718,Art & Craft Supplies,2,1.305,19,0.584,1
+NS0367,A06,Hadapsar,Residential,Residential Families,School Students,221,2791.1,262000.00,222100.00,209,0.396,0.657,0.236,0.109,0.505,0.637,0.612,0.695,Pens & Writing Instruments,2,1.478,19,0.593,1
+NS0368,A06,Hadapsar,Residential,Residential Families,School Students,378,3121.3,525500.00,367900.00,185,0.449,0.730,0.303,0.244,0.458,0.668,0.547,0.687,Balanced,2,1.365,21,0.599,1
+NS0369,A06,Hadapsar,College-focused,Residential Families,Office Workers,89,1310.7,79000.00,57300.00,116,0.216,0.366,0.408,0.159,0.508,0.620,0.572,0.595,Notebooks & Registers,0,1.123,11,0.776,1
+NS0370,A06,Hadapsar,Hostel/Student-focused,Residential Families,Office Workers,255,3403.3,244000.00,122200.00,225,0.384,0.346,0.390,0.289,0.783,0.795,0.572,0.535,Pens & Writing Instruments,1,2.637,11,0.668,1
+NS0371,A06,Hadapsar,Office-supply-focused,Office Workers,General Public,729,7888.3,900000.00,680300.00,309,0.443,0.465,0.332,0.367,0.452,0.461,0.577,0.614,Balanced,3,2.982,20,0.348,1
+NS0372,A06,Hadapsar,School-focused,Residential Families,School Students,123,1606.1,108000.00,91600.00,130,0.451,0.570,0.406,0.225,0.482,0.821,0.577,0.619,Balanced,3,2.413,9,0.446,1
+NS0373,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,197,1415.7,190500.00,146600.00,151,0.227,0.599,0.332,0.192,0.479,0.697,0.623,0.645,"Files, Folders & Organizers",3,1.461,16,0.408,1
+NS0374,A06,Hadapsar,Hostel/Student-focused,Residential Families,Office Workers,565,6257.0,821500.00,573200.00,307,0.499,0.378,0.207,0.468,0.602,0.761,0.496,0.660,Art & Craft Supplies,0,3.749,21,0.783,1
+NS0375,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,717,10891.3,590500.00,409300.00,278,0.407,0.605,0.377,0.117,0.614,0.510,0.581,0.626,Balanced,3,2.673,22,0.364,1
+NS0376,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,277,3622.3,284000.00,188200.00,181,0.513,0.707,0.523,0.364,0.532,0.433,0.661,0.692,Office Desk Supplies,3,1.724,18,0.409,1
+NS0377,A06,Hadapsar,Residential,Residential Families,School Students,361,3253.3,619000.00,484100.00,197,0.286,0.717,0.311,0.462,0.563,0.582,0.569,0.590,Balanced,2,1.482,20,0.592,1
+NS0378,A06,Hadapsar,Residential,Residential Families,Office Workers,358,3444.9,245000.00,99200.00,220,0.315,0.638,0.389,0.209,0.675,0.458,0.549,0.605,Notebooks & Registers,2,1.389,17,0.590,1
+NS0379,A06,Hadapsar,Mixed/General,General Public,Residential Families,244,3083.9,214500.00,93000.00,181,0.430,0.570,0.236,0.370,0.509,0.623,0.506,0.597,Balanced,3,1.298,16,0.346,1
+NS0380,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,215,1910.0,176500.00,128200.00,149,0.410,0.721,0.415,0.375,0.706,0.442,0.609,0.704,"Files, Folders & Organizers",3,1.427,15,0.420,1
+NS0381,A06,Hadapsar,Mixed/General,General Public,Residential Families,289,3011.2,220500.00,110500.00,127,0.382,0.488,0.302,0.434,0.486,0.689,0.512,0.580,Pens & Writing Instruments,3,0.912,21,0.344,1
+NS0382,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,180,2713.7,141500.00,92600.00,159,0.393,0.505,0.448,0.339,0.405,0.634,0.648,0.688,Balanced,3,1.524,13,0.426,1
+NS0383,A06,Hadapsar,Residential,Residential Families,School Students,397,4256.6,407000.00,177400.00,222,0.325,0.616,0.287,0.326,0.464,0.729,0.590,0.662,Balanced,2,1.382,22,0.599,1
+NS0384,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,392,6132.4,489500.00,296300.00,221,0.327,0.369,0.176,0.453,0.397,0.591,0.601,0.715,Adhesives & Tapes,3,2.095,20,0.375,1
+NS0385,A06,Hadapsar,School-focused,School Students,Residential Families,233,4244.7,306500.00,146700.00,215,0.376,0.700,0.373,0.318,0.438,0.529,0.596,0.612,School Accessories,3,3.956,10,0.348,1
+NS0386,A06,Hadapsar,Residential,Residential Families,School Students,276,4263.9,427000.00,276400.00,165,0.138,0.635,0.325,0.373,0.471,0.688,0.555,0.585,"Pencils, Erasers & Sharpeners",2,1.339,22,0.573,1
+NS0387,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,196,2338.5,186000.00,147400.00,126,0.409,0.451,0.188,0.326,0.677,0.582,0.569,0.650,Balanced,3,1.226,19,0.401,1
+NS0388,A06,Hadapsar,College-focused,College Students,Office Workers,320,3858.8,360500.00,200800.00,145,0.458,0.511,0.254,0.336,0.515,0.495,0.635,0.625,Calculators & Electronics,3,2.464,15,0.410,1
+NS0389,A06,Hadapsar,College-focused,College Students,Office Workers,239,4194.9,140500.00,90900.00,190,0.384,0.350,0.512,0.382,0.547,0.516,0.530,0.590,Balanced,2,3.322,9,0.568,1
+NS0390,A06,Hadapsar,Residential,Residential Families,Office Workers,333,5886.7,360500.00,297300.00,181,0.241,0.543,0.421,0.190,0.752,0.666,0.552,0.619,Balanced,2,1.138,23,0.581,1
+NS0391,A06,Hadapsar,Office-supply-focused,Residential Families,Office Workers,789,8948.6,900000.00,795500.00,324,0.188,0.450,0.508,0.125,0.458,0.771,0.627,0.606,"Files, Folders & Organizers",2,3.122,21,0.608,1
+NS0392,A06,Hadapsar,Residential,Residential Families,General Public,402,5382.4,363500.00,259800.00,278,0.207,0.425,0.278,0.376,0.488,0.592,0.581,0.682,Pens & Writing Instruments,2,1.773,22,0.579,1
+NS0393,A06,Hadapsar,Residential,Residential Families,Office Workers,296,3996.0,168500.00,84600.00,220,0.190,0.612,0.205,0.156,0.738,0.782,0.597,0.607,Balanced,2,1.614,14,0.594,1
+NS0394,A06,Hadapsar,Mixed/General,General Public,Office Workers,173,3564.8,152000.00,80900.00,155,0.261,0.705,0.394,0.143,0.743,0.629,0.574,0.744,Balanced,3,1.057,18,0.427,1
+NS0395,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,377,7106.5,616000.00,316800.00,249,0.355,0.595,0.187,0.250,0.657,0.644,0.600,0.674,Markers & Highlighters,3,2.387,20,0.363,1
+NS0396,A06,Hadapsar,Residential,Residential Families,School Students,315,3235.2,252500.00,157500.00,221,0.383,0.737,0.240,0.417,0.672,0.821,0.565,0.569,Pens & Writing Instruments,2,1.398,20,0.583,1
+NS0397,A06,Hadapsar,Residential,Residential Families,Office Workers,262,3019.9,293500.00,237900.00,155,0.309,0.565,0.434,0.095,0.592,0.784,0.670,0.641,"Pencils, Erasers & Sharpeners",2,1.089,21,0.579,1
+NS0398,A06,Hadapsar,Office-supply-focused,Residential Families,Office Workers,1100,13919.8,900000.00,387100.00,340,0.269,0.709,0.420,0.262,0.468,0.759,0.552,0.687,Balanced,1,3.263,24,0.694,1
+NS0399,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,309,5411.2,514500.00,303700.00,206,0.485,0.483,0.441,0.269,0.767,0.665,0.565,0.625,Office Desk Supplies,3,2.026,20,0.350,1
+NS0400,A06,Hadapsar,College-focused,School Students,Residential Families,107,1442.5,102500.00,43800.00,128,0.222,0.695,0.496,0.381,0.522,0.525,0.656,0.561,"Files, Folders & Organizers",1,2.388,7,0.682,1
+NS0401,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,240,4556.9,177500.00,139900.00,142,0.286,0.466,0.462,0.172,0.488,0.706,0.543,0.596,Paper & Printing Supplies,3,1.411,21,0.391,1
+NS0402,A06,Hadapsar,Residential,Residential Families,Office Workers,447,6609.8,387000.00,297900.00,212,0.481,0.485,0.197,0.462,0.573,0.691,0.606,0.624,Balanced,2,1.327,23,0.593,1
+NS0403,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,207,4052.9,345500.00,270700.00,196,0.394,0.459,0.420,0.287,0.600,0.636,0.623,0.563,Balanced,3,1.938,18,0.369,1
+NS0404,A06,Hadapsar,Mixed/General,General Public,Office Workers,465,8340.6,466500.00,207300.00,198,0.298,0.463,0.475,0.218,0.750,0.478,0.588,0.644,Art & Craft Supplies,3,1.371,21,0.352,1
+NS0405,A06,Hadapsar,Residential,Residential Families,General Public,93,1185.9,119000.00,76600.00,90,0.173,0.362,0.192,0.463,0.441,0.730,0.595,0.581,Balanced,2,0.679,19,0.567,1
+NS0406,A06,Hadapsar,Residential,Residential Families,Office Workers,178,2151.4,207000.00,116800.00,160,0.200,0.545,0.417,0.267,0.660,0.829,0.607,0.595,"Pencils, Erasers & Sharpeners",2,1.109,19,0.568,1
+NS0407,A06,Hadapsar,Residential,Residential Families,Office Workers,535,6855.8,900000.00,456400.00,244,0.304,0.701,0.366,0.073,0.746,0.611,0.589,0.631,Pens & Writing Instruments,2,1.908,23,0.622,1
+NS0408,A06,Hadapsar,Residential,Residential Families,General Public,244,3062.1,275000.00,213300.00,180,0.294,0.388,0.153,0.187,0.425,0.760,0.601,0.582,"Pencils, Erasers & Sharpeners",2,1.222,20,0.532,1
+NS0409,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,785,7924.3,900000.00,758300.00,336,0.433,0.496,0.325,0.186,0.512,0.571,0.619,0.599,Paper & Printing Supplies,3,3.237,19,0.381,1
+NS0410,A06,Hadapsar,Office-supply-focused,Office Workers,School Students,194,3587.4,277000.00,207600.00,131,0.393,0.648,0.318,0.117,0.667,0.574,0.523,0.601,Calculators & Electronics,3,1.299,21,0.387,1
+NS0411,A06,Hadapsar,Residential,Residential Families,School Students,219,2239.0,127500.00,100000.00,163,0.383,0.702,0.304,0.224,0.497,0.459,0.580,0.680,Balanced,2,1.144,17,0.591,1
+NS0412,A06,Hadapsar,School-focused,School Students,Office Workers,718,7298.0,428000.00,175600.00,275,0.181,0.640,0.305,0.334,0.767,0.658,0.525,0.592,Notebooks & Registers,3,5.115,11,0.412,1
+NS0413,A06,Hadapsar,Coaching-focused,Residential Families,School Students,135,2290.0,121500.00,66900.00,179,0.283,0.516,0.515,0.163,0.416,0.709,0.628,0.635,Geometry & Mathematical Tools,0,1.738,9,0.773,1
+NS0414,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,403,5873.1,198500.00,151900.00,214,0.357,0.464,0.170,0.259,0.629,0.564,0.591,0.645,Balanced,3,2.064,17,0.369,1
+NS0415,A06,Hadapsar,Office-supply-focused,Office Workers,Residential Families,141,1633.1,129500.00,72700.00,199,0.394,0.721,0.277,0.072,0.784,0.762,0.652,0.570,Calculators & Electronics,3,1.954,9,0.407,1
+NS0416,A06,Hadapsar,Residential,Residential Families,General Public,194,2500.2,176500.00,154500.00,133,0.138,0.415,0.204,0.208,0.470,0.827,0.589,0.670,Pens & Writing Instruments,2,0.866,21,0.545,1
+NS0417,A06,Hadapsar,Mixed/General,General Public,School Students,100,1693.5,82500.00,55300.00,142,0.505,0.696,0.230,0.210,0.687,0.523,0.608,0.579,Notebooks & Registers,3,1.003,13,0.443,1
+NS0418,A06,Hadapsar,Residential,Residential Families,School Students,508,4691.5,294000.00,122900.00,202,0.156,0.683,0.356,0.383,0.586,0.567,0.626,0.645,Pens & Writing Instruments,2,1.256,21,0.604,1
+NS0419,A06,Hadapsar,School-focused,Office Workers,School Students,174,2692.8,147500.00,69300.00,171,0.516,0.431,0.429,0.226,0.698,0.673,0.603,0.630,Balanced,3,3.081,8,0.445,1
+NS0420,A06,Hadapsar,Residential,Residential Families,Office Workers,408,7130.4,414500.00,345900.00,242,0.400,0.611,0.151,0.417,0.626,0.520,0.653,0.625,Pens & Writing Instruments,2,1.505,22,0.608,1
+NS0421,A07,Baner,Residential,Residential Families,Office Workers,240,2365.9,742000.00,412500.00,232,0.500,0.375,0.358,0.144,0.725,0.751,0.430,0.632,Notebooks & Registers,2,1.651,20,0.583,1
+NS0422,A07,Baner,Residential,Residential Families,Office Workers,196,2557.5,147500.00,82800.00,184,0.476,0.393,0.222,0.194,0.726,0.531,0.402,0.657,Pens & Writing Instruments,2,1.198,17,0.579,1
+NS0423,A07,Baner,Residential,Residential Families,Office Workers,287,4263.3,276500.00,133000.00,223,0.241,0.598,0.450,0.228,0.634,0.710,0.429,0.661,Pens & Writing Instruments,2,1.415,21,0.585,1
+NS0424,A07,Baner,Residential,Residential Families,School Students,80,1527.1,201500.00,126500.00,85,0.251,0.589,0.435,0.215,0.492,0.713,0.289,0.653,Pens & Writing Instruments,2,0.678,23,0.608,1
+NS0425,A07,Baner,Residential,Residential Families,Office Workers,534,6134.1,581500.00,261300.00,225,0.417,0.587,0.239,0.309,0.660,0.808,0.488,0.774,Balanced,2,1.382,24,0.630,1
+NS0426,A07,Baner,Coaching-focused,Office Workers,Coaching Students,441,5587.2,302500.00,135900.00,206,0.531,0.335,0.365,0.418,0.727,0.589,0.388,0.771,Notebooks & Registers,1,2.573,15,0.707,1
+NS0427,A07,Baner,Office-supply-focused,Office Workers,School Students,120,2503.9,136500.00,73100.00,117,0.262,0.582,0.369,0.238,0.619,0.565,0.324,0.683,Balanced,3,1.173,17,0.426,1
+NS0428,A07,Baner,Residential,Residential Families,School Students,177,2003.4,317500.00,233400.00,166,0.524,0.671,0.479,0.219,0.612,0.633,0.404,0.684,Notebooks & Registers,2,1.195,20,0.569,1
+NS0429,A07,Baner,Hostel/Student-focused,Hostel Residents,Office Workers,699,7885.4,900000.00,559200.00,299,0.371,0.466,0.459,0.423,0.623,0.548,0.543,0.673,Notebooks & Registers,2,3.706,20,0.605,1
+NS0430,A07,Baner,Residential,Residential Families,School Students,82,1361.5,105500.00,67200.00,122,0.469,0.632,0.321,0.381,0.441,0.825,0.423,0.686,Notebooks & Registers,2,0.947,15,0.607,1
+NS0431,A07,Baner,Office-supply-focused,Office Workers,Residential Families,135,2200.9,237000.00,208900.00,151,0.291,0.463,0.273,0.192,0.815,0.859,0.428,0.785,Adhesives & Tapes,3,1.456,19,0.417,1
+NS0432,A07,Baner,School-focused,Residential Families,Office Workers,123,2043.3,159500.00,79300.00,185,0.400,0.409,0.227,0.188,0.712,0.771,0.344,0.681,Notebooks & Registers,2,3.437,8,0.614,1
+NS0433,A07,Baner,Office-supply-focused,Office Workers,Residential Families,326,4185.8,259000.00,123700.00,251,0.383,0.322,0.512,0.225,0.510,0.747,0.363,0.654,Paper & Printing Supplies,3,2.528,14,0.366,1
+NS0434,A07,Baner,Hostel/Student-focused,Residential Families,Office Workers,393,5388.7,670500.00,501500.00,236,0.395,0.322,0.148,0.470,0.772,0.896,0.308,0.702,Notebooks & Registers,0,2.853,23,0.785,1
+NS0435,A07,Baner,Office-supply-focused,Office Workers,Residential Families,314,4331.5,254500.00,212000.00,233,0.517,0.491,0.465,0.130,0.643,0.764,0.417,0.669,"Files, Folders & Organizers",3,2.325,18,0.366,1
+NS0436,A07,Baner,Mixed/General,General Public,Office Workers,747,9590.5,900000.00,580400.00,299,0.464,0.528,0.440,0.358,0.592,0.515,0.379,0.736,Balanced,3,2.069,23,0.364,1
+NS0437,A07,Baner,Residential,Residential Families,Office Workers,159,1786.8,220000.00,162200.00,133,0.264,0.444,0.250,0.237,0.743,0.642,0.423,0.798,Balanced,2,0.905,21,0.602,1
+NS0438,A07,Baner,Residential,Residential Families,Office Workers,792,10432.0,900000.00,783400.00,273,0.199,0.330,0.419,0.255,0.754,0.715,0.356,0.720,Balanced,1,1.680,25,0.702,1
+NS0439,A07,Baner,Residential,Residential Families,Office Workers,328,5467.3,561000.00,442300.00,179,0.346,0.296,0.231,0.358,0.517,0.542,0.446,0.726,Art & Craft Supplies,2,1.330,24,0.607,1
+NS0440,A07,Baner,Residential,Residential Families,Office Workers,318,3643.6,223000.00,116000.00,210,0.420,0.676,0.284,0.155,0.798,0.581,0.242,0.732,Art & Craft Supplies,2,1.349,21,0.611,1
+NS0441,A07,Baner,Residential,Residential Families,General Public,210,2660.2,536000.00,445600.00,197,0.383,0.371,0.353,0.093,0.447,0.657,0.490,0.661,Pens & Writing Instruments,2,1.364,20,0.534,1
+NS0442,A07,Baner,Residential,Residential Families,Office Workers,528,4447.9,647000.00,436900.00,254,0.250,0.636,0.486,0.141,0.652,0.594,0.354,0.683,Pens & Writing Instruments,2,1.573,23,0.625,1
+NS0443,A07,Baner,Residential,Residential Families,Office Workers,274,5893.3,242500.00,205400.00,198,0.411,0.665,0.230,0.151,0.671,0.555,0.366,0.786,Specialty Stationery,2,1.230,25,0.610,1
+NS0444,A07,Baner,Residential,Residential Families,Office Workers,384,6705.9,695500.00,625800.00,244,0.365,0.415,0.166,0.090,0.609,0.583,0.388,0.785,Specialty Stationery,2,1.700,25,0.635,1
+NS0445,A07,Baner,School-focused,Residential Families,School Students,308,3331.9,403000.00,357200.00,217,0.243,0.512,0.362,0.381,0.721,0.875,0.418,0.656,Geometry & Mathematical Tools,2,4.016,17,0.604,1
+NS0446,A07,Baner,Office-supply-focused,Residential Families,Office Workers,499,5024.8,900000.00,575700.00,265,0.503,0.334,0.386,0.402,0.521,0.894,0.328,0.678,"Files, Folders & Organizers",3,2.661,21,0.442,1
+NS0447,A07,Baner,Residential,Residential Families,Office Workers,196,3046.4,118500.00,76200.00,169,0.341,0.358,0.459,0.418,0.781,0.880,0.417,0.681,Pens & Writing Instruments,2,1.130,17,0.583,1
+NS0448,A07,Baner,Office-supply-focused,Residential Families,Office Workers,440,6657.1,709000.00,406100.00,257,0.185,0.626,0.182,0.170,0.605,0.888,0.416,0.764,"Files, Folders & Organizers",3,2.480,22,0.455,1
+NS0449,A07,Baner,Residential,Residential Families,Office Workers,324,4837.2,524000.00,284800.00,212,0.264,0.462,0.466,0.191,0.771,0.706,0.424,0.747,Specialty Stationery,2,1.468,24,0.602,1
+NS0450,A07,Baner,Residential,Residential Families,Office Workers,125,1660.2,151500.00,81200.00,123,0.289,0.588,0.362,0.399,0.809,0.688,0.370,0.693,"Pencils, Erasers & Sharpeners",2,0.769,22,0.592,1
+NS0451,A07,Baner,Office-supply-focused,Office Workers,Residential Families,204,3276.9,179000.00,81400.00,180,0.172,0.424,0.482,0.295,0.546,0.601,0.324,0.736,Paper & Printing Supplies,3,1.783,14,0.400,1
+NS0452,A07,Baner,College-focused,Residential Families,Office Workers,140,2005.8,199000.00,107500.00,162,0.289,0.376,0.486,0.188,0.569,0.644,0.476,0.639,Balanced,1,1.581,14,0.690,1
+NS0453,A07,Baner,Office-supply-focused,Office Workers,Residential Families,144,1585.3,155500.00,62400.00,104,0.248,0.350,0.257,0.102,0.762,0.565,0.331,0.737,Balanced,3,1.024,15,0.413,1
+NS0454,A07,Baner,Residential,Residential Families,School Students,568,6753.2,393500.00,248200.00,226,0.283,0.666,0.331,0.284,0.573,0.508,0.311,0.751,Art & Craft Supplies,2,1.446,25,0.629,1
+NS0455,A07,Baner,Office-supply-focused,Office Workers,Residential Families,178,2884.1,215500.00,111700.00,153,0.532,0.382,0.369,0.307,0.783,0.795,0.351,0.770,Paper & Printing Supplies,3,1.507,17,0.405,1
+NS0456,A07,Baner,Residential,Residential Families,Office Workers,563,12397.7,537500.00,251600.00,247,0.365,0.491,0.237,0.453,0.645,0.588,0.366,0.801,Balanced,2,1.544,25,0.640,1
+NS0457,A07,Baner,Office-supply-focused,Office Workers,Residential Families,101,1014.1,204500.00,109100.00,101,0.315,0.666,0.478,0.213,0.620,0.741,0.465,0.660,Balanced,3,1.004,18,0.434,1
+NS0458,A07,Baner,Residential,Residential Families,School Students,499,7209.5,595000.00,515000.00,271,0.422,0.591,0.270,0.345,0.543,0.886,0.388,0.625,Notebooks & Registers,2,1.753,25,0.611,1
+NS0459,A07,Baner,Office-supply-focused,Residential Families,Office Workers,879,12048.4,704500.00,406800.00,250,0.506,0.456,0.346,0.362,0.429,0.726,0.355,0.797,Balanced,3,2.405,24,0.466,1
+NS0460,A07,Baner,Office-supply-focused,Office Workers,Residential Families,118,1539.0,110000.00,80400.00,129,0.347,0.638,0.289,0.165,0.746,0.876,0.411,0.670,Balanced,3,1.287,14,0.427,1
+NS0461,A07,Baner,Residential,Residential Families,School Students,224,2055.1,384000.00,207100.00,211,0.222,0.647,0.197,0.097,0.607,0.804,0.403,0.777,Balanced,2,1.307,21,0.614,1
+NS0462,A07,Baner,Residential,Residential Families,General Public,404,6096.6,147000.00,85900.00,214,0.272,0.439,0.328,0.336,0.459,0.724,0.400,0.715,Notebooks & Registers,2,1.471,18,0.558,1
+NS0463,A07,Baner,Residential,Residential Families,School Students,167,2746.1,115000.00,46300.00,150,0.298,0.676,0.144,0.435,0.424,0.662,0.426,0.770,Notebooks & Registers,2,0.915,16,0.608,1
+NS0464,A07,Baner,Office-supply-focused,Office Workers,Residential Families,217,2410.3,121500.00,78400.00,133,0.280,0.615,0.200,0.088,0.683,0.716,0.352,0.740,Balanced,3,1.311,16,0.413,1
+NS0465,A07,Baner,Hostel/Student-focused,Office Workers,Hostel Residents,237,3108.6,287500.00,163300.00,201,0.308,0.325,0.305,0.163,0.746,0.526,0.305,0.684,Calculators & Electronics,1,2.551,15,0.691,1
+NS0466,A07,Baner,Residential,Residential Families,Office Workers,303,4854.1,173000.00,70600.00,210,0.195,0.655,0.476,0.226,0.733,0.703,0.494,0.725,Pens & Writing Instruments,2,1.293,17,0.602,1
+NS0467,A07,Baner,Mixed/General,General Public,Residential Families,188,3290.5,124500.00,102600.00,149,0.522,0.362,0.201,0.272,0.533,0.612,0.408,0.737,Balanced,3,1.049,21,0.377,1
+NS0468,A07,Baner,Residential,Residential Families,Office Workers,381,6122.0,285000.00,168100.00,214,0.366,0.321,0.464,0.447,0.622,0.701,0.334,0.629,"Pencils, Erasers & Sharpeners",2,1.390,25,0.585,1
+NS0469,A07,Baner,Residential,Residential Families,General Public,396,7633.9,682000.00,284300.00,169,0.398,0.450,0.332,0.433,0.456,0.828,0.461,0.684,Pens & Writing Instruments,2,1.178,24,0.547,1
+NS0470,A07,Baner,Residential,Residential Families,Office Workers,252,1742.2,288500.00,219800.00,186,0.486,0.381,0.377,0.322,0.512,0.553,0.422,0.776,Balanced,2,1.322,20,0.599,1
+NS0471,A07,Baner,School-focused,School Students,Residential Families,675,7843.2,468000.00,267700.00,242,0.262,0.571,0.285,0.127,0.463,0.552,0.464,0.824,Balanced,3,4.271,15,0.391,1
+NS0472,A07,Baner,Residential,Residential Families,Office Workers,621,5216.7,631500.00,368600.00,256,0.485,0.527,0.205,0.191,0.806,0.868,0.422,0.721,Balanced,2,1.672,23,0.633,1
+NS0473,A07,Baner,Residential,Residential Families,Office Workers,110,1109.9,69000.00,43400.00,117,0.539,0.538,0.410,0.201,0.714,0.622,0.343,0.777,"Pencils, Erasers & Sharpeners",2,0.805,14,0.620,1
+NS0474,A07,Baner,Residential,Residential Families,Office Workers,285,4291.2,814000.00,407800.00,226,0.326,0.579,0.521,0.190,0.747,0.615,0.369,0.672,Art & Craft Supplies,2,1.601,23,0.598,1
+NS0475,A07,Baner,School-focused,School Students,Residential Families,508,6603.6,568500.00,252500.00,279,0.400,0.494,0.211,0.117,0.518,0.575,0.343,0.746,Balanced,3,5.092,14,0.373,1
+NS0476,A07,Baner,Residential,Residential Families,Office Workers,416,6031.6,561000.00,395900.00,292,0.378,0.367,0.339,0.362,0.712,0.674,0.486,0.720,Pens & Writing Instruments,2,2.014,23,0.626,1
+NS0477,A07,Baner,Office-supply-focused,Residential Families,Office Workers,137,2680.0,61000.00,26500.00,145,0.207,0.557,0.257,0.085,0.473,0.888,0.351,0.782,Balanced,0,1.420,9,0.789,1
+NS0478,A07,Baner,Residential,Residential Families,Office Workers,637,5269.2,827500.00,607200.00,293,0.390,0.440,0.503,0.466,0.543,0.668,0.454,0.659,Balanced,2,1.791,23,0.621,1
+NS0479,A07,Baner,Residential,Residential Families,College Students,286,3690.8,438000.00,236100.00,187,0.550,0.550,0.432,0.237,0.493,0.843,0.411,0.778,Art & Craft Supplies,2,1.317,23,0.594,1
+NS0480,A07,Baner,College-focused,Residential Families,College Students,94,1472.5,135500.00,81100.00,153,0.290,0.285,0.340,0.461,0.540,0.556,0.354,0.773,Balanced,1,1.485,13,0.742,1
+NS0481,A07,Baner,Office-supply-focused,Office Workers,Residential Families,102,2214.5,71500.00,29900.00,157,0.376,0.418,0.518,0.183,0.680,0.558,0.397,0.757,Markers & Highlighters,3,1.536,10,0.439,1
+NS0482,A07,Baner,Residential,Office Workers,Residential Families,571,11303.6,317500.00,186200.00,320,0.237,0.683,0.214,0.352,0.822,0.513,0.405,0.805,Adhesives & Tapes,0,2.388,21,0.807,1
+NS0483,A07,Baner,Coaching-focused,Residential Families,Office Workers,362,3366.0,215500.00,167000.00,248,0.527,0.356,0.162,0.249,0.789,0.832,0.373,0.757,Notebooks & Registers,1,3.003,13,0.742,1
+NS0484,A07,Baner,Office-supply-focused,Office Workers,Residential Families,324,4754.8,363500.00,303400.00,170,0.380,0.423,0.330,0.408,0.466,0.512,0.426,0.611,Office Desk Supplies,3,1.704,21,0.358,1
+NS0485,A07,Baner,Residential,Residential Families,General Public,352,7890.9,144500.00,82600.00,219,0.244,0.441,0.324,0.337,0.498,0.750,0.346,0.746,"Pencils, Erasers & Sharpeners",2,1.507,18,0.563,1
+NS0486,A07,Baner,Residential,Residential Families,Office Workers,209,1906.9,516500.00,236400.00,145,0.222,0.565,0.434,0.085,0.703,0.864,0.472,0.737,Pens & Writing Instruments,2,0.966,21,0.595,1
+NS0487,A07,Baner,Residential,Residential Families,Office Workers,278,2741.6,275000.00,163900.00,224,0.339,0.548,0.495,0.308,0.627,0.845,0.373,0.690,Balanced,2,1.419,21,0.588,1
+NS0488,A07,Baner,Mixed/General,General Public,Residential Families,129,1272.8,192000.00,91400.00,135,0.504,0.669,0.151,0.423,0.805,0.853,0.423,0.752,Balanced,3,0.947,18,0.409,1
+NS0489,A07,Baner,Residential,Residential Families,Office Workers,403,5261.6,304500.00,211300.00,212,0.226,0.350,0.501,0.198,0.628,0.682,0.405,0.743,"Pencils, Erasers & Sharpeners",2,1.330,24,0.604,1
+NS0490,A07,Baner,Office-supply-focused,Residential Families,Office Workers,146,1133.9,183000.00,158700.00,143,0.416,0.607,0.371,0.223,0.490,0.796,0.464,0.715,Balanced,2,1.313,19,0.631,1
+NS0491,A08,Aundh,Residential,Residential Families,College Students,299,5828.4,316500.00,157500.00,177,0.597,0.587,0.224,0.380,0.365,0.766,0.379,0.595,Balanced,2,1.332,24,0.558,1
+NS0492,A08,Aundh,School-focused,School Students,Residential Families,298,3913.9,288000.00,135100.00,244,0.473,0.737,0.349,0.211,0.396,0.910,0.336,0.735,Art & Craft Supplies,3,4.539,11,0.364,1
+NS0493,A08,Aundh,Office-supply-focused,Office Workers,College Students,273,2434.0,532500.00,317900.00,235,0.576,0.488,0.367,0.337,0.661,0.549,0.322,0.606,Balanced,3,2.392,19,0.352,1
+NS0494,A08,Aundh,Mixed/General,General Public,Residential Families,119,2090.5,130500.00,93600.00,118,0.467,0.502,0.578,0.292,0.501,0.782,0.366,0.583,Balanced,3,0.865,21,0.382,1
+NS0495,A08,Aundh,College-focused,Residential Families,College Students,86,1066.8,59500.00,27400.00,97,0.354,0.405,0.399,0.378,0.411,0.709,0.415,0.552,Balanced,0,0.954,9,0.776,1
+NS0496,A08,Aundh,Residential,Residential Families,College Students,135,2247.0,201000.00,134400.00,181,0.710,0.630,0.456,0.373,0.498,0.743,0.410,0.643,Balanced,2,1.303,20,0.561,1
+NS0497,A08,Aundh,College-focused,College Students,School Students,220,2510.3,122500.00,107300.00,161,0.543,0.661,0.232,0.452,0.548,0.609,0.425,0.653,"Files, Folders & Organizers",1,2.789,10,0.656,1
+NS0498,A08,Aundh,Residential,Residential Families,School Students,283,4854.6,297000.00,174800.00,216,0.330,0.771,0.546,0.372,0.718,0.809,0.303,0.594,Specialty Stationery,2,1.413,25,0.585,1
+NS0499,A08,Aundh,Residential,Residential Families,Office Workers,596,10172.4,495500.00,437600.00,266,0.386,0.503,0.551,0.260,0.580,0.669,0.356,0.667,Pens & Writing Instruments,2,1.647,25,0.614,1
+NS0500,A08,Aundh,Residential,Residential Families,Office Workers,93,1166.7,183500.00,163000.00,126,0.403,0.393,0.481,0.276,0.677,0.648,0.359,0.577,"Pencils, Erasers & Sharpeners",2,0.913,20,0.566,1
+NS0501,A08,Aundh,Residential,Residential Families,School Students,265,4478.0,174000.00,153000.00,218,0.630,0.691,0.339,0.364,0.664,0.859,0.417,0.625,Balanced,2,1.383,23,0.586,1
+NS0502,A08,Aundh,Coaching-focused,School Students,Office Workers,228,2700.1,344000.00,181500.00,157,0.443,0.777,0.536,0.160,0.726,0.687,0.401,0.591,Balanced,1,2.683,14,0.689,1
+NS0503,A08,Aundh,Residential,Residential Families,School Students,309,6638.7,294000.00,135600.00,229,0.370,0.742,0.570,0.141,0.674,0.648,0.390,0.696,Balanced,2,1.448,23,0.599,1
+NS0504,A08,Aundh,Residential,Residential Families,School Students,207,4027.1,259500.00,179500.00,124,0.385,0.693,0.263,0.168,0.628,0.820,0.431,0.628,Notebooks & Registers,2,0.949,24,0.571,1
+NS0505,A08,Aundh,Office-supply-focused,Office Workers,School Students,315,5532.2,306500.00,149600.00,249,0.451,0.598,0.567,0.362,0.487,0.572,0.386,0.628,Balanced,3,2.505,16,0.376,1
+NS0506,A08,Aundh,School-focused,School Students,Residential Families,199,3161.8,193000.00,84600.00,155,0.600,0.661,0.309,0.334,0.561,0.790,0.367,0.583,School Accessories,3,2.954,11,0.344,1
+NS0507,A08,Aundh,Residential,Residential Families,Office Workers,228,2463.4,334500.00,220500.00,142,0.467,0.656,0.424,0.418,0.689,0.601,0.333,0.611,Adhesives & Tapes,2,1.140,22,0.563,1
+NS0508,A08,Aundh,School-focused,School Students,Residential Families,1100,13661.3,900000.00,752100.00,366,0.355,0.490,0.248,0.154,0.380,0.549,0.309,0.529,Balanced,3,7.078,20,0.385,1
+NS0509,A08,Aundh,School-focused,School Students,Residential Families,82,843.4,81500.00,50600.00,65,0.480,0.597,0.243,0.208,0.441,0.722,0.466,0.628,School Accessories,3,1.226,11,0.350,1
+NS0510,A08,Aundh,Mixed/General,General Public,Residential Families,112,1821.0,249500.00,197800.00,117,0.580,0.612,0.463,0.450,0.483,0.861,0.336,0.653,Paper & Printing Supplies,3,0.850,21,0.391,1
+NS0511,A08,Aundh,School-focused,Residential Families,Office Workers,180,1815.5,202000.00,140100.00,128,0.344,0.430,0.483,0.312,0.729,0.837,0.368,0.588,Balanced,3,2.422,13,0.442,1
+NS0512,A08,Aundh,Residential,Residential Families,School Students,388,7150.1,281000.00,187200.00,227,0.337,0.625,0.273,0.142,0.463,0.849,0.452,0.575,"Pencils, Erasers & Sharpeners",2,1.467,24,0.582,1
+NS0513,A08,Aundh,School-focused,School Students,Residential Families,422,6001.6,294000.00,176800.00,245,0.499,0.529,0.372,0.360,0.485,0.697,0.438,0.597,Balanced,3,4.594,12,0.346,1
+NS0514,A08,Aundh,Residential,Residential Families,School Students,462,5719.2,452000.00,276200.00,213,0.456,0.621,0.282,0.447,0.452,0.556,0.391,0.649,Pens & Writing Instruments,2,1.377,24,0.595,1
+NS0515,A08,Aundh,School-focused,Residential Families,School Students,283,3082.8,473500.00,409300.00,171,0.403,0.634,0.471,0.445,0.476,0.885,0.428,0.657,Balanced,3,3.181,18,0.435,1
+NS0516,A08,Aundh,Residential,Residential Families,College Students,231,1987.6,362500.00,282600.00,160,0.652,0.511,0.572,0.304,0.498,0.834,0.427,0.605,Balanced,2,1.188,20,0.539,1
+NS0517,A08,Aundh,School-focused,School Students,Residential Families,272,3488.0,528500.00,329700.00,212,0.426,0.667,0.386,0.416,0.611,0.723,0.400,0.624,"Pencils, Erasers & Sharpeners",3,3.976,15,0.350,1
+NS0518,A08,Aundh,Office-supply-focused,Residential Families,Office Workers,436,3932.7,647000.00,462700.00,246,0.614,0.566,0.224,0.132,0.531,0.828,0.328,0.631,Paper & Printing Supplies,3,2.489,20,0.428,1
+NS0519,A08,Aundh,Residential,Residential Families,Office Workers,295,5151.0,440000.00,254300.00,200,0.331,0.436,0.317,0.167,0.668,0.803,0.348,0.592,Art & Craft Supplies,2,1.441,25,0.574,1
+NS0520,A08,Aundh,Residential,Residential Families,School Students,446,5611.9,651500.00,546700.00,295,0.561,0.764,0.495,0.156,0.593,0.590,0.378,0.609,Balanced,2,1.846,24,0.613,1
+NS0521,A08,Aundh,Office-supply-focused,Office Workers,College Students,80,728.8,161000.00,139000.00,101,0.691,0.475,0.430,0.469,0.678,0.679,0.416,0.638,Paper & Printing Supplies,2,1.017,19,0.587,1
+NS0522,A08,Aundh,School-focused,School Students,Residential Families,185,1751.6,261000.00,113200.00,138,0.612,0.627,0.234,0.507,0.465,0.623,0.431,0.537,School Accessories,3,2.647,11,0.338,1
+NS0523,A08,Aundh,School-focused,School Students,College Students,97,1714.7,219000.00,146100.00,122,0.638,0.477,0.410,0.254,0.585,0.602,0.369,0.640,Geometry & Mathematical Tools,3,2.274,14,0.377,1
+NS0524,A08,Aundh,School-focused,School Students,Residential Families,1065,11988.7,710000.00,296500.00,392,0.414,0.558,0.538,0.499,0.530,0.546,0.470,0.600,"Pencils, Erasers & Sharpeners",3,7.255,12,0.395,1
+NS0525,A08,Aundh,Residential,Residential Families,College Students,369,4383.8,311500.00,145200.00,222,0.703,0.447,0.443,0.423,0.654,0.677,0.425,0.574,Art & Craft Supplies,2,1.662,20,0.562,1
+NS0526,A08,Aundh,Mixed/General,General Public,School Students,437,7205.0,307000.00,145000.00,264,0.479,0.625,0.296,0.172,0.397,0.605,0.360,0.590,Notebooks & Registers,3,1.923,20,0.345,1
+NS0527,A08,Aundh,Office-supply-focused,Office Workers,Residential Families,585,11925.6,429500.00,219100.00,218,0.423,0.436,0.564,0.237,0.632,0.603,0.342,0.666,Balanced,3,2.171,23,0.355,1
+NS0528,A08,Aundh,Residential,Residential Families,Office Workers,146,2200.0,91500.00,79500.00,163,0.466,0.514,0.399,0.371,0.600,0.837,0.384,0.556,Adhesives & Tapes,2,1.179,16,0.563,1
+NS0529,A08,Aundh,Residential,Residential Families,Hostel Residents,233,2628.3,237500.00,206400.00,162,0.463,0.551,0.553,0.125,0.449,0.716,0.336,0.603,Art & Craft Supplies,2,1.232,22,0.550,1
+NS0530,A08,Aundh,Residential,Residential Families,School Students,204,3334.9,249500.00,205000.00,158,0.685,0.699,0.430,0.189,0.638,0.803,0.422,0.562,Pens & Writing Instruments,2,1.121,23,0.554,1
+NS0531,A08,Aundh,School-focused,School Students,Residential Families,146,2026.4,201000.00,134400.00,152,0.560,0.617,0.321,0.487,0.672,0.810,0.304,0.592,Pens & Writing Instruments,3,2.915,12,0.345,1
+NS0532,A08,Aundh,School-focused,School Students,Office Workers,123,2242.6,231000.00,117000.00,174,0.471,0.617,0.410,0.147,0.650,0.632,0.366,0.620,Balanced,3,3.264,11,0.362,1
+NS0533,A08,Aundh,School-focused,Residential Families,School Students,120,1734.7,104000.00,59800.00,124,0.558,0.551,0.428,0.162,0.669,0.885,0.359,0.639,Balanced,2,2.332,9,0.605,1
+NS0534,A08,Aundh,Office-supply-focused,Office Workers,Residential Families,414,7374.3,462500.00,218100.00,246,0.583,0.414,0.455,0.477,0.682,0.838,0.332,0.558,Balanced,3,2.534,20,0.351,1
+NS0535,A08,Aundh,College-focused,Residential Families,College Students,164,1626.1,123500.00,59000.00,191,0.368,0.467,0.497,0.390,0.386,0.733,0.335,0.531,Balanced,1,1.930,10,0.682,1
+NS0536,A08,Aundh,Hostel/Student-focused,Hostel Residents,College Students,280,3047.1,286500.00,157500.00,156,0.689,0.537,0.573,0.333,0.666,0.643,0.441,0.580,Notebooks & Registers,2,2.068,16,0.532,1
+NS0537,A08,Aundh,Residential,Residential Families,School Students,264,2592.6,114000.00,64300.00,214,0.496,0.730,0.205,0.431,0.606,0.694,0.394,0.580,Balanced,2,1.383,13,0.583,1
+NS0538,A08,Aundh,Hostel/Student-focused,School Students,Office Workers,291,6378.3,153000.00,117500.00,222,0.412,0.744,0.329,0.371,0.673,0.519,0.374,0.598,Notebooks & Registers,1,3.518,11,0.691,1
+NS0539,A08,Aundh,Coaching-focused,Office Workers,College Students,358,5386.6,287500.00,204800.00,186,0.689,0.591,0.512,0.207,0.700,0.629,0.415,0.591,Paper & Printing Supplies,1,2.510,18,0.673,1
+NS0540,A08,Aundh,Residential,Residential Families,College Students,875,14438.7,642000.00,290000.00,300,0.645,0.496,0.276,0.468,0.418,0.599,0.343,0.629,Specialty Stationery,2,1.878,25,0.632,1
+NS0541,A08,Aundh,Residential,Residential Families,School Students,285,4052.6,358500.00,268000.00,195,0.676,0.741,0.503,0.203,0.436,0.515,0.286,0.629,Art & Craft Supplies,2,1.581,23,0.595,1
+NS0542,A08,Aundh,Mixed/General,General Public,Residential Families,203,3527.8,338500.00,197100.00,142,0.359,0.443,0.517,0.413,0.674,0.756,0.413,0.570,Art & Craft Supplies,3,1.035,22,0.343,1
+NS0543,A08,Aundh,School-focused,Residential Families,School Students,838,13143.9,900000.00,555800.00,388,0.529,0.565,0.519,0.296,0.420,0.843,0.397,0.659,Art & Craft Supplies,0,7.137,18,0.776,1
+NS0544,A08,Aundh,Residential,Residential Families,College Students,116,1483.6,124500.00,63400.00,98,0.642,0.425,0.322,0.445,0.424,0.541,0.444,0.637,Balanced,2,0.702,19,0.573,1
+NS0545,A08,Aundh,Coaching-focused,Residential Families,School Students,257,3372.5,383500.00,183500.00,244,0.705,0.706,0.411,0.349,0.382,0.764,0.359,0.592,Balanced,1,2.645,16,0.716,1
+NS0546,A08,Aundh,Residential,Residential Families,Office Workers,240,4272.3,236500.00,196000.00,195,0.441,0.528,0.203,0.178,0.540,0.793,0.417,0.595,Balanced,2,1.252,24,0.569,1
+NS0547,A08,Aundh,Residential,Residential Families,Office Workers,420,9235.2,478500.00,207200.00,235,0.565,0.451,0.307,0.120,0.578,0.899,0.339,0.579,Balanced,2,1.694,25,0.592,1
+NS0548,A08,Aundh,Office-supply-focused,Office Workers,Residential Families,445,4705.7,541000.00,289000.00,244,0.551,0.527,0.482,0.399,0.711,0.881,0.378,0.610,Balanced,3,2.466,20,0.353,1
+NS0549,A08,Aundh,School-focused,School Students,Residential Families,189,3446.4,360500.00,305000.00,140,0.378,0.653,0.454,0.266,0.591,0.823,0.403,0.636,"Pencils, Erasers & Sharpeners",3,2.624,18,0.351,1
+NS0550,A08,Aundh,School-focused,School Students,Residential Families,218,2485.3,248000.00,219700.00,246,0.438,0.515,0.546,0.134,0.659,0.682,0.362,0.560,"Pencils, Erasers & Sharpeners",3,4.677,12,0.341,1
+NS0551,A08,Aundh,Hostel/Student-focused,School Students,College Students,374,8477.7,900000.00,451800.00,197,0.691,0.744,0.398,0.327,0.473,0.655,0.454,0.602,Notebooks & Registers,2,3.050,22,0.569,1
+NS0552,A08,Aundh,College-focused,College Students,Residential Families,248,3976.2,307000.00,259800.00,158,0.473,0.525,0.443,0.194,0.447,0.715,0.315,0.591,Calculators & Electronics,1,2.819,19,0.640,1
+NS0553,A08,Aundh,School-focused,School Students,Residential Families,274,3809.0,411000.00,292900.00,187,0.408,0.539,0.449,0.334,0.566,0.581,0.349,0.555,School Accessories,3,3.573,16,0.341,1
+NS0554,A08,Aundh,School-focused,School Students,Residential Families,951,21964.2,423000.00,322000.00,383,0.478,0.522,0.506,0.323,0.542,0.689,0.354,0.553,School Accessories,3,7.317,16,0.382,1
+NS0555,A08,Aundh,Residential,Residential Families,General Public,308,4190.2,222000.00,165700.00,198,0.407,0.488,0.456,0.130,0.395,0.792,0.347,0.509,Balanced,2,1.437,23,0.510,1
+NS0556,A08,Aundh,Residential,Residential Families,Office Workers,203,3719.4,312000.00,132300.00,186,0.358,0.507,0.543,0.267,0.629,0.872,0.377,0.617,Pens & Writing Instruments,2,1.347,22,0.566,1
+NS0557,A08,Aundh,Residential,Residential Families,Office Workers,159,2453.7,213500.00,88500.00,149,0.660,0.529,0.476,0.352,0.706,0.739,0.382,0.679,Pens & Writing Instruments,2,1.059,19,0.566,1
+NS0558,A08,Aundh,School-focused,School Students,College Students,363,5119.0,416000.00,231400.00,285,0.563,0.578,0.328,0.248,0.451,0.546,0.348,0.610,Pens & Writing Instruments,3,5.369,12,0.387,1
+NS0559,A08,Aundh,Residential,Residential Families,College Students,263,2440.6,359500.00,195800.00,205,0.700,0.414,0.355,0.496,0.414,0.596,0.421,0.645,Pens & Writing Instruments,2,1.519,20,0.569,1
+NS0560,A08,Aundh,Residential,Residential Families,Office Workers,270,5034.2,393000.00,307100.00,200,0.615,0.434,0.356,0.366,0.711,0.563,0.375,0.617,Balanced,2,1.406,24,0.579,1
+NS0561,A09,Wakad,Mixed/General,General Public,Office Workers,220,1460.8,206000.00,103200.00,171,0.330,0.620,0.413,0.368,0.677,0.537,0.428,0.555,"Files, Folders & Organizers",3,1.251,16,0.379,1
+NS0562,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,348,4007.2,234000.00,97600.00,214,0.422,0.373,0.334,0.049,0.772,0.714,0.476,0.495,"Files, Folders & Organizers",3,2.188,13,0.334,1
+NS0563,A09,Wakad,Residential,Office Workers,Residential Families,262,3403.6,181000.00,100200.00,132,0.166,0.328,0.485,0.134,0.980,0.616,0.534,0.471,Balanced,2,0.992,22,0.595,1
+NS0564,A09,Wakad,Residential,Residential Families,School Students,288,2382.4,415500.00,307600.00,247,0.533,0.659,0.540,0.330,0.652,0.623,0.536,0.456,Notebooks & Registers,2,2.018,18,0.570,1
+NS0565,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,722,12316.8,900000.00,397500.00,261,0.169,0.325,0.290,0.046,0.694,0.752,0.474,0.492,Balanced,3,2.627,22,0.335,1
+NS0566,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,640,8073.9,416500.00,217900.00,263,0.192,0.570,0.179,0.060,0.897,0.720,0.406,0.469,Paper & Printing Supplies,3,2.677,19,0.341,1
+NS0567,A09,Wakad,Residential,Residential Families,Office Workers,384,4205.3,433500.00,347300.00,221,0.397,0.394,0.355,0.131,0.786,0.827,0.489,0.584,Balanced,2,1.566,22,0.579,1
+NS0568,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,331,5689.4,234000.00,193100.00,179,0.444,0.375,0.497,0.206,0.886,0.725,0.490,0.466,Balanced,3,1.845,21,0.341,1
+NS0569,A09,Wakad,Mixed/General,Office Workers,Residential Families,271,3232.1,373000.00,252000.00,210,0.528,0.668,0.571,0.121,0.980,0.904,0.506,0.565,Notebooks & Registers,3,1.505,20,0.412,1
+NS0570,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,325,4129.4,402500.00,256700.00,214,0.174,0.509,0.396,0.266,0.669,0.628,0.409,0.582,Balanced,3,2.163,20,0.344,1
+NS0571,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,80,1311.5,46000.00,35800.00,95,0.231,0.352,0.177,0.041,0.734,0.812,0.437,0.597,Office Desk Supplies,2,0.956,11,0.590,1
+NS0572,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,396,4282.5,900000.00,522900.00,201,0.451,0.611,0.334,0.181,0.940,0.751,0.485,0.537,Balanced,3,2.033,19,0.338,1
+NS0573,A09,Wakad,Hostel/Student-focused,Residential Families,Office Workers,235,3506.3,155500.00,129600.00,172,0.346,0.541,0.188,0.104,0.702,0.880,0.423,0.446,Notebooks & Registers,1,1.644,18,0.676,1
+NS0574,A09,Wakad,Mixed/General,General Public,Office Workers,338,3577.2,272000.00,211400.00,197,0.538,0.600,0.476,0.047,0.868,0.595,0.362,0.424,Balanced,3,1.495,21,0.359,1
+NS0575,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,331,7444.9,493500.00,395400.00,180,0.182,0.490,0.246,0.343,0.809,0.894,0.436,0.508,Markers & Highlighters,3,1.842,23,0.339,1
+NS0576,A09,Wakad,School-focused,Office Workers,School Students,608,4070.3,735500.00,453400.00,252,0.520,0.558,0.278,0.254,0.869,0.552,0.446,0.544,School Accessories,2,3.703,19,0.606,1
+NS0577,A09,Wakad,Residential,Residential Families,Office Workers,165,1903.3,266500.00,120500.00,160,0.211,0.446,0.518,0.264,0.814,0.770,0.440,0.532,Balanced,2,1.165,20,0.550,1
+NS0578,A09,Wakad,School-focused,School Students,Office Workers,122,1295.0,153000.00,130300.00,143,0.211,0.619,0.375,0.317,0.755,0.659,0.497,0.587,School Accessories,3,2.680,11,0.370,1
+NS0579,A09,Wakad,School-focused,School Students,Office Workers,221,3402.0,176000.00,84500.00,174,0.310,0.627,0.330,0.145,0.860,0.753,0.466,0.596,Pens & Writing Instruments,3,3.257,10,0.373,1
+NS0580,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,230,2422.2,158500.00,70300.00,130,0.514,0.508,0.202,0.055,0.912,0.546,0.479,0.528,Balanced,3,1.310,14,0.380,1
+NS0581,A09,Wakad,Mixed/General,General Public,Office Workers,506,9305.5,900000.00,730000.00,258,0.360,0.417,0.407,0.170,0.707,0.619,0.459,0.436,Pens & Writing Instruments,3,1.900,22,0.326,1
+NS0582,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,311,4441.2,618500.00,514100.00,169,0.423,0.493,0.262,0.342,0.642,0.733,0.450,0.456,Paper & Printing Supplies,3,1.756,20,0.331,1
+NS0583,A09,Wakad,Residential,Residential Families,Office Workers,616,11928.3,304500.00,200100.00,252,0.305,0.321,0.247,0.300,0.702,0.582,0.438,0.504,Notebooks & Registers,2,1.612,24,0.592,1
+NS0584,A09,Wakad,Coaching-focused,Office Workers,Residential Families,93,1733.8,149500.00,78500.00,86,0.345,0.605,0.210,0.251,0.971,0.631,0.398,0.513,Calculators & Electronics,0,1.451,13,0.809,1
+NS0585,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,377,4606.0,498500.00,255100.00,228,0.254,0.636,0.390,0.272,0.738,0.823,0.525,0.554,"Files, Folders & Organizers",3,2.281,19,0.348,1
+NS0586,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,279,3442.0,436000.00,276300.00,184,0.232,0.366,0.232,0.403,0.761,0.815,0.486,0.571,Balanced,3,1.846,19,0.349,1
+NS0587,A09,Wakad,School-focused,Office Workers,School Students,154,2661.8,132000.00,98000.00,122,0.359,0.387,0.214,0.268,0.708,0.580,0.458,0.479,Balanced,3,2.360,11,0.435,1
+NS0588,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,80,817.5,45500.00,37700.00,86,0.531,0.440,0.247,0.084,0.747,0.814,0.546,0.485,Balanced,2,0.877,10,0.589,1
+NS0589,A09,Wakad,School-focused,Office Workers,School Students,168,2332.6,271000.00,140400.00,158,0.545,0.550,0.183,0.242,0.941,0.546,0.465,0.497,Balanced,3,3.018,11,0.424,1
+NS0590,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,727,10054.1,900000.00,427800.00,350,0.429,0.473,0.182,0.398,0.736,0.608,0.459,0.525,Paper & Printing Supplies,3,3.508,21,0.365,1
+NS0591,A09,Wakad,Residential,Residential Families,Office Workers,211,2067.4,133500.00,55300.00,135,0.234,0.331,0.471,0.088,0.671,0.859,0.426,0.575,"Pencils, Erasers & Sharpeners",2,0.921,16,0.567,1
+NS0592,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,223,2479.5,343500.00,303400.00,156,0.526,0.478,0.476,0.244,0.881,0.576,0.503,0.598,"Files, Folders & Organizers",3,1.552,18,0.371,1
+NS0593,A09,Wakad,Residential,Office Workers,Residential Families,105,1340.3,92500.00,62700.00,121,0.309,0.492,0.237,0.049,0.971,0.532,0.335,0.449,Balanced,1,0.868,17,0.678,1
+NS0594,A09,Wakad,Residential,Residential Families,Office Workers,170,2002.0,125500.00,60800.00,196,0.206,0.656,0.249,0.266,0.734,0.666,0.468,0.500,Balanced,2,1.272,13,0.569,1
+NS0595,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,261,2495.9,363000.00,154700.00,200,0.427,0.353,0.311,0.115,0.635,0.681,0.448,0.515,Balanced,3,2.050,15,0.336,1
+NS0596,A09,Wakad,Residential,Residential Families,Office Workers,121,2498.0,193500.00,120800.00,142,0.361,0.523,0.337,0.090,0.861,0.687,0.506,0.527,Balanced,2,0.991,21,0.564,1
+NS0597,A09,Wakad,Coaching-focused,Office Workers,Residential Families,178,1606.3,82500.00,72100.00,140,0.282,0.399,0.240,0.359,0.781,0.699,0.498,0.504,Balanced,0,1.871,9,0.789,1
+NS0598,A09,Wakad,Residential,Residential Families,Office Workers,320,4671.7,685000.00,558200.00,211,0.398,0.635,0.404,0.126,0.653,0.743,0.489,0.518,"Pencils, Erasers & Sharpeners",2,1.518,22,0.571,1
+NS0599,A09,Wakad,Residential,Residential Families,Office Workers,162,2381.8,190500.00,81300.00,137,0.224,0.342,0.539,0.290,0.767,0.703,0.547,0.457,Balanced,2,0.970,18,0.547,1
+NS0600,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,354,4974.1,611000.00,287400.00,168,0.260,0.569,0.339,0.320,0.696,0.590,0.441,0.488,Paper & Printing Supplies,3,1.724,21,0.332,1
+NS0601,A09,Wakad,School-focused,Office Workers,Residential Families,127,1998.4,124500.00,75900.00,122,0.263,0.585,0.190,0.063,0.980,0.854,0.426,0.481,"Pencils, Erasers & Sharpeners",3,2.402,10,0.406,1
+NS0602,A09,Wakad,Residential,Residential Families,Office Workers,80,1081.8,77500.00,45500.00,116,0.189,0.489,0.368,0.418,0.802,0.810,0.451,0.527,Art & Craft Supplies,2,0.804,13,0.596,1
+NS0603,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,371,4161.1,360500.00,238000.00,219,0.454,0.675,0.394,0.083,0.730,0.903,0.480,0.479,Balanced,3,2.254,19,0.344,1
+NS0604,A09,Wakad,Residential,Residential Families,Office Workers,745,10182.0,786500.00,532300.00,272,0.167,0.480,0.468,0.402,0.679,0.709,0.400,0.520,Pens & Writing Instruments,2,1.745,24,0.601,1
+NS0605,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,238,3211.5,124500.00,110500.00,208,0.441,0.401,0.503,0.206,0.811,0.854,0.436,0.538,Adhesives & Tapes,3,2.132,13,0.370,1
+NS0606,A09,Wakad,Residential,Residential Families,Office Workers,547,11994.0,455000.00,329300.00,208,0.499,0.458,0.319,0.245,0.937,0.784,0.392,0.487,Specialty Stationery,2,1.438,24,0.580,1
+NS0607,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,178,3163.4,143000.00,85500.00,137,0.176,0.463,0.552,0.084,0.662,0.792,0.401,0.529,Balanced,3,1.410,16,0.391,1
+NS0608,A09,Wakad,Office-supply-focused,Office Workers,School Students,124,1125.8,310000.00,144100.00,78,0.397,0.668,0.270,0.295,0.622,0.554,0.408,0.557,Paper & Printing Supplies,3,0.793,19,0.407,1
+NS0609,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,138,1682.5,121500.00,74400.00,146,0.461,0.512,0.229,0.057,0.894,0.775,0.473,0.479,Balanced,3,1.500,12,0.392,1
+NS0610,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,80,1065.7,125000.00,50200.00,72,0.359,0.528,0.190,0.172,0.918,0.580,0.435,0.496,Balanced,3,0.736,15,0.426,1
+NS0611,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,654,10431.4,842000.00,347200.00,242,0.248,0.442,0.396,0.051,0.789,0.619,0.511,0.565,Office Desk Supplies,3,2.384,22,0.342,1
+NS0612,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,143,1581.1,156000.00,128500.00,121,0.458,0.310,0.260,0.339,0.971,0.550,0.446,0.634,Adhesives & Tapes,3,1.198,18,0.403,1
+NS0613,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,463,4633.6,900000.00,366600.00,251,0.492,0.420,0.276,0.196,0.911,0.660,0.510,0.500,Balanced,3,2.525,18,0.334,1
+NS0614,A09,Wakad,Residential,Residential Families,Office Workers,359,6634.4,224000.00,111000.00,225,0.200,0.454,0.368,0.312,0.716,0.867,0.436,0.356,Balanced,2,1.531,20,0.565,1
+NS0615,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,852,10882.2,900000.00,432800.00,252,0.262,0.486,0.188,0.085,0.980,0.526,0.513,0.563,Balanced,3,2.458,22,0.351,1
+NS0616,A09,Wakad,Mixed/General,General Public,Office Workers,510,6117.9,556000.00,497500.00,256,0.502,0.474,0.534,0.147,0.690,0.588,0.517,0.536,Office Desk Supplies,3,1.823,21,0.338,1
+NS0617,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,342,5018.1,338000.00,168100.00,189,0.177,0.489,0.326,0.033,0.936,0.683,0.408,0.475,Balanced,3,1.949,19,0.332,1
+NS0618,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,396,3953.7,539000.00,222500.00,185,0.506,0.579,0.523,0.207,0.808,0.737,0.500,0.556,Paper & Printing Supplies,3,1.863,19,0.341,1
+NS0619,A09,Wakad,School-focused,School Students,Residential Families,489,6513.8,841000.00,553300.00,257,0.165,0.655,0.565,0.281,0.668,0.670,0.381,0.552,School Accessories,3,4.877,19,0.340,1
+NS0620,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,201,3591.2,324500.00,198700.00,137,0.293,0.494,0.399,0.277,0.724,0.831,0.470,0.537,Office Desk Supplies,3,1.396,20,0.373,1
+NS0621,A09,Wakad,Residential,Residential Families,Office Workers,132,947.6,92000.00,75000.00,121,0.312,0.445,0.497,0.417,0.657,0.805,0.557,0.496,Pens & Writing Instruments,2,0.842,16,0.562,1
+NS0622,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,182,2350.4,212000.00,112000.00,149,0.256,0.380,0.228,0.175,0.668,0.682,0.487,0.589,Balanced,3,1.487,15,0.377,1
+NS0623,A09,Wakad,Residential,Office Workers,Residential Families,263,3372.3,349000.00,260600.00,192,0.244,0.665,0.440,0.409,0.946,0.677,0.554,0.533,Balanced,2,1.786,20,0.603,1
+NS0624,A09,Wakad,Coaching-focused,Office Workers,Residential Families,450,6691.8,531500.00,242300.00,218,0.311,0.346,0.402,0.242,0.816,0.731,0.506,0.450,Geometry & Mathematical Tools,1,2.953,18,0.660,1
+NS0625,A09,Wakad,Residential,Residential Families,Office Workers,362,5172.1,387500.00,208400.00,212,0.464,0.689,0.515,0.124,0.725,0.721,0.545,0.516,Balanced,2,1.490,23,0.572,1
+NS0626,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,82,816.5,118500.00,69000.00,112,0.516,0.309,0.298,0.037,0.780,0.625,0.437,0.559,Balanced,3,1.134,13,0.415,1
+NS0627,A09,Wakad,Residential,Residential Families,Office Workers,493,5216.1,412500.00,349500.00,238,0.537,0.533,0.181,0.202,0.948,0.892,0.433,0.500,Pens & Writing Instruments,2,1.622,23,0.591,1
+NS0628,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,431,7660.1,406500.00,282600.00,234,0.438,0.541,0.204,0.344,0.839,0.593,0.437,0.516,Office Desk Supplies,3,2.369,22,0.336,1
+NS0629,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,291,4499.2,409500.00,282400.00,200,0.275,0.527,0.214,0.338,0.673,0.857,0.452,0.553,Markers & Highlighters,3,2.029,20,0.352,1
+NS0630,A09,Wakad,Office-supply-focused,Office Workers,Residential Families,245,3517.0,276000.00,171800.00,204,0.188,0.342,0.476,0.207,0.980,0.747,0.478,0.578,Balanced,3,2.043,17,0.359,1
+NS0631,A10,Karve Nagar,College-focused,Residential Families,College Students,263,3700.1,311500.00,268800.00,159,0.402,0.445,0.476,0.461,0.442,0.742,0.444,0.520,"Files, Folders & Organizers",1,1.967,21,0.660,1
+NS0632,A10,Karve Nagar,Residential,Residential Families,Hostel Residents,404,4032.3,260500.00,194100.00,180,0.387,0.496,0.543,0.318,0.188,0.628,0.444,0.499,Balanced,2,1.411,22,0.555,1
+NS0633,A10,Karve Nagar,Residential,Residential Families,School Students,89,690.2,130000.00,70500.00,96,0.390,0.594,0.591,0.528,0.144,0.683,0.565,0.468,Balanced,2,0.681,17,0.573,1
+NS0634,A10,Karve Nagar,Hostel/Student-focused,Hostel Residents,Residential Families,213,2800.6,185000.00,126200.00,192,0.577,0.419,0.565,0.284,0.430,0.627,0.638,0.515,Markers & Highlighters,2,2.863,10,0.553,1
+NS0635,A10,Karve Nagar,Residential,Residential Families,College Students,257,2411.4,355500.00,279600.00,148,0.487,0.425,0.312,0.447,0.096,0.915,0.490,0.540,"Pencils, Erasers & Sharpeners",2,1.125,20,0.540,1
+NS0636,A10,Karve Nagar,Residential,Residential Families,Hostel Residents,403,5355.7,527500.00,446500.00,194,0.426,0.484,0.606,0.433,0.494,0.695,0.473,0.445,Balanced,2,1.562,23,0.548,1
+NS0637,A10,Karve Nagar,Coaching-focused,Coaching Students,College Students,319,4472.8,778000.00,572700.00,195,0.648,0.573,0.623,0.564,0.107,0.615,0.477,0.511,Balanced,1,3.086,20,0.663,1
+NS0638,A10,Karve Nagar,School-focused,Residential Families,School Students,110,1407.1,90000.00,76800.00,93,0.577,0.527,0.500,0.345,0.381,0.810,0.549,0.621,"Pencils, Erasers & Sharpeners",3,1.732,10,0.461,1
+NS0639,A10,Karve Nagar,School-focused,School Students,Residential Families,337,3538.2,330500.00,219100.00,186,0.543,0.610,0.421,0.616,0.198,0.809,0.569,0.525,"Pencils, Erasers & Sharpeners",3,3.530,12,0.337,1
+NS0640,A10,Karve Nagar,Office-supply-focused,Residential Families,School Students,197,3431.0,273000.00,190500.00,159,0.611,0.787,0.504,0.528,0.356,0.797,0.548,0.496,Balanced,0,1.489,21,0.732,1
+NS0641,A10,Karve Nagar,Residential,Residential Families,General Public,248,3269.3,122500.00,55000.00,122,0.380,0.432,0.482,0.300,0.474,0.836,0.530,0.488,Adhesives & Tapes,2,0.835,18,0.510,1
+NS0642,A10,Karve Nagar,College-focused,Residential Families,School Students,392,5216.2,366500.00,171100.00,155,0.439,0.694,0.477,0.468,0.214,0.843,0.472,0.508,"Files, Folders & Organizers",1,1.617,23,0.690,1
+NS0643,A10,Karve Nagar,Residential,Residential Families,Coaching Students,192,3161.0,233000.00,125000.00,141,0.370,0.556,0.367,0.674,0.326,0.581,0.496,0.574,Balanced,2,0.994,23,0.554,1
+NS0644,A10,Karve Nagar,Residential,Residential Families,School Students,924,15931.9,900000.00,721700.00,289,0.480,0.502,0.301,0.358,0.122,0.821,0.449,0.661,Pens & Writing Instruments,2,1.765,24,0.650,1
+NS0645,A10,Karve Nagar,School-focused,School Students,Residential Families,130,895.8,120500.00,60900.00,143,0.623,0.510,0.354,0.366,0.209,0.662,0.481,0.519,Notebooks & Registers,3,2.743,8,0.336,1
+NS0646,A10,Karve Nagar,Residential,Residential Families,Hostel Residents,327,3833.2,136000.00,102700.00,160,0.411,0.477,0.656,0.644,0.160,0.936,0.480,0.594,Balanced,2,1.176,20,0.571,1
+NS0647,A10,Karve Nagar,Coaching-focused,Coaching Students,Residential Families,217,3153.8,346500.00,188600.00,169,0.610,0.411,0.334,0.598,0.167,0.747,0.528,0.494,Pens & Writing Instruments,1,2.852,13,0.688,1
+NS0648,A10,Karve Nagar,Residential,Residential Families,Coaching Students,450,6001.7,900000.00,730200.00,224,0.391,0.454,0.399,0.620,0.178,0.868,0.489,0.582,Balanced,2,1.664,24,0.611,1
+NS0649,A10,Karve Nagar,Hostel/Student-focused,Residential Families,Hostel Residents,547,6333.3,566500.00,471000.00,261,0.462,0.421,0.495,0.510,0.400,0.869,0.431,0.593,Balanced,1,3.796,21,0.698,1
+NS0650,A10,Karve Nagar,School-focused,School Students,Residential Families,264,4641.7,196000.00,135500.00,194,0.403,0.685,0.361,0.385,0.475,0.598,0.477,0.577,Geometry & Mathematical Tools,3,3.656,11,0.344,1
+NS0651,A10,Karve Nagar,Hostel/Student-focused,Hostel Residents,Residential Families,350,6868.3,273500.00,146700.00,223,0.640,0.413,0.516,0.337,0.474,0.658,0.455,0.560,Balanced,2,2.943,14,0.553,1
+NS0652,A10,Karve Nagar,School-focused,Residential Families,School Students,878,10008.1,900000.00,508300.00,320,0.340,0.587,0.413,0.379,0.220,0.895,0.440,0.453,School Accessories,0,6.265,17,0.738,1
+NS0653,A10,Karve Nagar,Residential,Residential Families,Coaching Students,86,816.9,73000.00,54600.00,73,0.476,0.550,0.470,0.658,0.378,0.692,0.628,0.583,Specialty Stationery,2,0.561,17,0.605,1
+NS0654,A10,Karve Nagar,Residential,Residential Families,School Students,156,2098.8,381500.00,173000.00,145,0.436,0.618,0.558,0.364,0.228,0.702,0.500,0.542,Balanced,2,1.045,20,0.548,1
+NS0655,A10,Karve Nagar,Residential,Residential Families,College Students,406,7058.0,185000.00,127800.00,251,0.723,0.481,0.394,0.317,0.254,0.709,0.517,0.513,Adhesives & Tapes,2,1.891,18,0.567,1
+NS0656,A10,Karve Nagar,Hostel/Student-focused,Hostel Residents,School Students,243,4831.7,177000.00,98900.00,206,0.394,0.758,0.537,0.598,0.209,0.616,0.397,0.500,Pens & Writing Instruments,2,3.163,11,0.578,1
+NS0657,A10,Karve Nagar,School-focused,Residential Families,School Students,565,9060.2,651000.00,285700.00,193,0.547,0.527,0.334,0.568,0.454,0.817,0.456,0.482,Balanced,2,3.733,18,0.580,1
+NS0658,A10,Karve Nagar,Coaching-focused,Coaching Students,Residential Families,316,2650.5,386000.00,227000.00,194,0.390,0.521,0.615,0.649,0.413,0.863,0.508,0.524,Balanced,1,3.009,14,0.680,1
+NS0659,A10,Karve Nagar,Coaching-focused,Residential Families,Coaching Students,135,2077.0,152500.00,114300.00,139,0.568,0.469,0.552,0.596,0.365,0.924,0.468,0.537,Balanced,1,1.267,18,0.703,1
+NS0660,A10,Karve Nagar,Residential,Residential Families,General Public,304,3900.5,222000.00,151100.00,156,0.380,0.408,0.443,0.411,0.152,0.903,0.470,0.556,Specialty Stationery,2,1.102,23,0.524,1
+NS0661,A10,Karve Nagar,Residential,Residential Families,General Public,241,2094.2,315000.00,228900.00,184,0.467,0.431,0.463,0.346,0.147,0.974,0.604,0.522,Balanced,2,1.290,18,0.524,1
+NS0662,A10,Karve Nagar,Residential,Residential Families,Coaching Students,255,5200.0,528000.00,249400.00,211,0.530,0.453,0.398,0.554,0.364,0.635,0.404,0.511,Art & Craft Supplies,2,1.760,23,0.565,1
+NS0663,A10,Karve Nagar,Residential,Residential Families,School Students,310,6295.4,482500.00,363700.00,135,0.555,0.752,0.383,0.597,0.220,0.729,0.534,0.505,Specialty Stationery,2,1.130,23,0.559,1
+NS0664,A10,Karve Nagar,School-focused,School Students,Residential Families,478,6391.0,738500.00,527500.00,280,0.630,0.594,0.589,0.485,0.370,0.680,0.580,0.595,School Accessories,3,5.149,16,0.346,1
+NS0665,A10,Karve Nagar,School-focused,Residential Families,School Students,129,1659.5,69500.00,37000.00,111,0.518,0.404,0.321,0.529,0.133,0.858,0.528,0.540,Geometry & Mathematical Tools,2,2.132,7,0.602,1
+NS0666,A10,Karve Nagar,Mixed/General,General Public,Residential Families,397,7589.3,671000.00,439800.00,203,0.611,0.554,0.399,0.439,0.433,0.675,0.436,0.566,Notebooks & Registers,3,1.472,23,0.342,1
+NS0667,A10,Karve Nagar,Residential,Residential Families,College Students,484,9410.4,231500.00,142000.00,255,0.551,0.489,0.464,0.460,0.492,0.694,0.491,0.460,Notebooks & Registers,2,1.936,19,0.560,1
+NS0668,A10,Karve Nagar,Residential,Residential Families,School Students,541,10529.4,592000.00,314500.00,239,0.521,0.664,0.437,0.623,0.114,0.781,0.475,0.543,Pens & Writing Instruments,2,1.973,24,0.607,1
+NS0669,A10,Karve Nagar,Residential,Residential Families,School Students,177,1962.2,133500.00,80800.00,137,0.392,0.669,0.301,0.615,0.434,0.767,0.472,0.502,Adhesives & Tapes,2,1.066,16,0.550,1
+NS0670,A10,Karve Nagar,Hostel/Student-focused,Hostel Residents,Residential Families,409,8375.9,719500.00,512300.00,192,0.376,0.568,0.428,0.553,0.127,0.601,0.549,0.492,Markers & Highlighters,2,2.953,21,0.548,1
+NS0671,A10,Karve Nagar,Residential,Residential Families,School Students,264,3095.4,427500.00,327100.00,146,0.686,0.702,0.571,0.535,0.290,0.638,0.496,0.509,Art & Craft Supplies,2,1.073,22,0.552,1
+NS0672,A10,Karve Nagar,Mixed/General,Residential Families,General Public,386,5465.2,517500.00,226300.00,173,0.708,0.587,0.353,0.679,0.100,0.896,0.579,0.591,Pens & Writing Instruments,2,1.179,23,0.610,1
+NS0673,A10,Karve Nagar,Residential,Residential Families,Hostel Residents,173,1885.8,370000.00,327500.00,142,0.383,0.590,0.654,0.292,0.285,0.640,0.484,0.504,Notebooks & Registers,2,1.075,20,0.539,1
+NS0674,A10,Karve Nagar,School-focused,Residential Families,School Students,270,3880.9,365500.00,244200.00,184,0.582,0.422,0.661,0.488,0.191,0.712,0.568,0.547,School Accessories,3,3.441,14,0.435,1
+NS0675,A10,Karve Nagar,Office-supply-focused,Residential Families,School Students,321,5277.9,252500.00,209300.00,190,0.363,0.506,0.412,0.412,0.235,0.919,0.448,0.494,Paper & Printing Supplies,2,1.969,22,0.591,1
+NS0676,A10,Karve Nagar,Residential,Residential Families,School Students,138,1596.0,155000.00,108700.00,186,0.504,0.513,0.319,0.388,0.309,0.828,0.564,0.542,Pens & Writing Instruments,2,1.301,15,0.565,1
+NS0677,A10,Karve Nagar,Residential,Residential Families,School Students,165,2114.7,176000.00,95200.00,134,0.358,0.625,0.517,0.283,0.165,0.927,0.517,0.467,Pens & Writing Instruments,2,0.959,19,0.545,1
+NS0678,A10,Karve Nagar,Residential,Residential Families,School Students,142,1518.4,121000.00,108800.00,82,0.468,0.730,0.655,0.650,0.303,0.888,0.574,0.560,"Pencils, Erasers & Sharpeners",2,0.656,20,0.576,1
+NS0679,A10,Karve Nagar,Residential,Residential Families,School Students,359,3803.8,258500.00,206200.00,174,0.367,0.555,0.483,0.339,0.171,0.858,0.516,0.616,Balanced,2,1.229,22,0.578,1
+NS0680,A10,Karve Nagar,School-focused,Residential Families,School Students,351,4111.7,485000.00,222900.00,229,0.393,0.514,0.310,0.360,0.306,0.856,0.489,0.585,"Pencils, Erasers & Sharpeners",3,4.326,12,0.439,1
+NS0681,A10,Karve Nagar,Mixed/General,General Public,Residential Families,395,6421.1,343500.00,291700.00,206,0.510,0.647,0.347,0.342,0.333,0.766,0.446,0.533,Notebooks & Registers,3,1.510,22,0.338,1
+NS0682,A10,Karve Nagar,School-focused,School Students,Residential Families,231,2181.1,300000.00,129300.00,185,0.705,0.758,0.350,0.679,0.183,0.732,0.521,0.456,School Accessories,3,3.603,10,0.328,1
+NS0683,A10,Karve Nagar,Mixed/General,General Public,Coaching Students,346,3464.5,301000.00,123300.00,222,0.437,0.606,0.613,0.668,0.393,0.617,0.563,0.587,Pens & Writing Instruments,3,1.575,16,0.369,1
+NS0684,A10,Karve Nagar,Residential,Residential Families,General Public,344,6982.5,531500.00,453600.00,269,0.354,0.471,0.274,0.473,0.317,0.971,0.472,0.487,Notebooks & Registers,2,1.928,24,0.548,1
+NS0685,A10,Karve Nagar,Residential,Residential Families,Coaching Students,338,2922.2,237500.00,98000.00,199,0.526,0.493,0.485,0.615,0.329,0.949,0.575,0.504,Pens & Writing Instruments,2,1.415,15,0.565,1
+NS0686,A10,Karve Nagar,Residential,Residential Families,Coaching Students,250,4160.2,263500.00,173900.00,124,0.467,0.512,0.554,0.582,0.165,0.804,0.498,0.565,"Pencils, Erasers & Sharpeners",2,0.892,23,0.548,1
+NS0687,A10,Karve Nagar,Mixed/General,Residential Families,General Public,286,2723.1,327500.00,133000.00,167,0.339,0.803,0.361,0.531,0.216,0.931,0.523,0.553,Office Desk Supplies,1,1.161,21,0.663,1
+NS0688,A10,Karve Nagar,School-focused,School Students,Residential Families,419,5334.2,560500.00,448100.00,215,0.389,0.801,0.609,0.375,0.179,0.866,0.568,0.565,Notebooks & Registers,3,4.057,17,0.342,1
+NS0689,A10,Karve Nagar,Hostel/Student-focused,Hostel Residents,Residential Families,144,1830.8,228500.00,182500.00,99,0.732,0.629,0.600,0.491,0.200,0.755,0.440,0.643,Balanced,2,1.472,19,0.591,1
+NS0690,A10,Karve Nagar,Residential,Residential Families,College Students,275,3841.5,377500.00,309300.00,157,0.694,0.637,0.615,0.390,0.310,0.775,0.469,0.442,Pens & Writing Instruments,2,1.222,23,0.530,1
+NS0691,A10,Karve Nagar,Coaching-focused,Coaching Students,Residential Families,286,5757.5,307000.00,216200.00,205,0.387,0.409,0.271,0.483,0.242,0.606,0.506,0.570,Balanced,1,3.114,15,0.677,1
+NS0692,A10,Karve Nagar,Residential,Residential Families,College Students,223,2838.5,200500.00,152400.00,127,0.624,0.551,0.431,0.404,0.203,0.686,0.606,0.531,Adhesives & Tapes,2,0.942,21,0.527,1
+NS0693,A10,Karve Nagar,School-focused,School Students,Coaching Students,129,1832.3,77000.00,64400.00,156,0.519,0.592,0.341,0.662,0.286,0.616,0.435,0.541,School Accessories,3,2.992,9,0.373,1
+NS0694,A10,Karve Nagar,School-focused,School Students,Residential Families,424,4820.6,466500.00,199700.00,243,0.619,0.710,0.445,0.286,0.469,0.785,0.555,0.497,School Accessories,3,4.644,11,0.333,1
+NS0695,A10,Karve Nagar,School-focused,School Students,Residential Families,455,4602.1,641000.00,472800.00,200,0.401,0.758,0.362,0.454,0.097,0.928,0.475,0.496,Balanced,3,3.897,17,0.333,1
+NS0696,A10,Karve Nagar,School-focused,School Students,Residential Families,338,4446.5,398500.00,214300.00,184,0.491,0.759,0.465,0.326,0.279,0.755,0.492,0.523,Art & Craft Supplies,3,3.533,13,0.337,1
+NS0697,A10,Karve Nagar,Residential,Residential Families,School Students,328,4010.2,184500.00,99400.00,195,0.385,0.613,0.474,0.503,0.238,0.583,0.517,0.511,Art & Craft Supplies,2,1.410,17,0.565,1
+NS0698,A10,Karve Nagar,School-focused,School Students,Residential Families,206,1609.7,250500.00,203700.00,106,0.577,0.726,0.480,0.288,0.310,0.703,0.503,0.488,School Accessories,3,2.059,16,0.332,1
+NS0699,A10,Karve Nagar,Residential,Residential Families,Coaching Students,396,3272.4,379000.00,198400.00,214,0.532,0.633,0.613,0.668,0.270,0.627,0.484,0.598,Balanced,2,1.528,21,0.592,1
+NS0700,A10,Karve Nagar,Residential,Residential Families,College Students,261,2435.5,207500.00,112600.00,181,0.616,0.494,0.373,0.302,0.485,0.630,0.529,0.540,Art & Craft Supplies,2,1.351,17,0.533,1
+NS0701,A11,Katraj,School-focused,School Students,Residential Families,202,1678.3,177000.00,76100.00,202,0.251,0.684,0.512,0.354,0.227,0.657,0.723,0.511,Art & Craft Supplies,3,3.774,7,0.335,1
+NS0702,A11,Katraj,Residential,Residential Families,School Students,432,6038.2,378500.00,233100.00,188,0.341,0.792,0.193,0.217,0.091,0.631,0.707,0.443,Balanced,2,1.211,22,0.599,1
+NS0703,A11,Katraj,Residential,Residential Families,Hostel Residents,495,5342.7,337000.00,165300.00,192,0.201,0.463,0.496,0.215,0.189,0.897,0.753,0.529,Pens & Writing Instruments,2,1.429,22,0.589,1
+NS0704,A11,Katraj,Residential,Residential Families,School Students,145,1613.3,188000.00,105000.00,170,0.359,0.566,0.306,0.299,0.172,0.826,0.679,0.513,Balanced,2,1.391,13,0.566,1
+NS0705,A11,Katraj,Coaching-focused,Residential Families,School Students,151,2728.3,226000.00,184300.00,213,0.440,0.652,0.302,0.316,0.377,0.835,0.721,0.413,Balanced,0,2.215,15,0.751,1
+NS0706,A11,Katraj,Mixed/General,General Public,School Students,137,1487.0,122000.00,77300.00,112,0.557,0.664,0.159,0.389,0.075,0.607,0.701,0.556,Paper & Printing Supplies,2,0.789,17,0.594,1
+NS0707,A11,Katraj,School-focused,School Students,Residential Families,330,4111.4,224500.00,98300.00,192,0.250,0.663,0.390,0.372,0.270,0.595,0.680,0.430,Balanced,3,3.685,9,0.325,1
+NS0708,A11,Katraj,Residential,Residential Families,School Students,494,4838.5,279500.00,213000.00,219,0.274,0.505,0.498,0.103,0.046,0.611,0.721,0.543,Art & Craft Supplies,2,1.367,22,0.608,1
+NS0709,A11,Katraj,Residential,Residential Families,School Students,305,3763.1,248000.00,161700.00,164,0.239,0.728,0.177,0.192,0.079,0.762,0.754,0.406,Pens & Writing Instruments,2,1.311,20,0.586,1
+NS0710,A11,Katraj,Residential,Residential Families,School Students,178,1490.9,190500.00,131100.00,117,0.379,0.552,0.146,0.344,0.156,0.864,0.760,0.428,"Pencils, Erasers & Sharpeners",2,0.977,17,0.559,1
+NS0711,A11,Katraj,Residential,Residential Families,School Students,157,2107.3,92000.00,65000.00,129,0.267,0.506,0.159,0.260,0.260,0.797,0.628,0.461,"Pencils, Erasers & Sharpeners",2,1.066,14,0.567,1
+NS0712,A11,Katraj,Residential,Residential Families,School Students,147,2656.5,104000.00,65200.00,109,0.254,0.628,0.249,0.379,0.175,0.881,0.702,0.514,Balanced,2,0.905,16,0.574,1
+NS0713,A11,Katraj,Residential,Residential Families,School Students,167,2103.3,104500.00,60300.00,101,0.472,0.757,0.261,0.133,0.120,0.838,0.694,0.463,Specialty Stationery,2,0.863,15,0.567,1
+NS0714,A11,Katraj,School-focused,School Students,Residential Families,250,3833.1,272500.00,214300.00,132,0.288,0.508,0.244,0.155,0.191,0.687,0.698,0.470,Notebooks & Registers,3,2.515,14,0.330,1
+NS0715,A11,Katraj,Residential,Residential Families,General Public,610,5166.6,436000.00,231900.00,196,0.408,0.416,0.428,0.158,0.306,0.785,0.772,0.502,Adhesives & Tapes,2,1.346,21,0.550,1
+NS0716,A11,Katraj,School-focused,School Students,Residential Families,420,8716.6,450000.00,349600.00,218,0.461,0.780,0.494,0.112,0.193,0.708,0.695,0.483,"Pencils, Erasers & Sharpeners",3,4.132,16,0.332,1
+NS0717,A11,Katraj,School-focused,School Students,Residential Families,419,7219.2,900000.00,628800.00,244,0.300,0.768,0.266,0.439,0.373,0.818,0.670,0.445,School Accessories,3,4.686,17,0.327,1
+NS0718,A11,Katraj,Residential,Residential Families,School Students,227,3955.7,271000.00,110600.00,199,0.398,0.613,0.205,0.362,0.087,0.936,0.772,0.619,Notebooks & Registers,2,1.381,17,0.601,1
+NS0719,A11,Katraj,School-focused,Residential Families,School Students,372,3839.4,686000.00,448600.00,273,0.347,0.549,0.138,0.294,0.105,0.805,0.612,0.512,Balanced,2,5.193,15,0.596,1
+NS0720,A11,Katraj,Residential,Residential Families,School Students,431,5682.5,793000.00,560100.00,216,0.362,0.691,0.152,0.242,0.316,0.903,0.698,0.533,Balanced,2,1.678,22,0.605,1
+NS0721,A11,Katraj,Mixed/General,Residential Families,General Public,247,3749.7,217000.00,158700.00,193,0.542,0.453,0.340,0.099,0.341,0.961,0.646,0.458,Notebooks & Registers,1,1.368,21,0.655,1
+NS0722,A11,Katraj,School-focused,School Students,Residential Families,343,3746.5,443000.00,245500.00,218,0.328,0.611,0.404,0.274,0.227,0.660,0.602,0.453,Balanced,3,4.197,12,0.328,1
+NS0723,A11,Katraj,School-focused,School Students,Residential Families,374,4576.7,506000.00,286400.00,163,0.492,0.436,0.362,0.078,0.372,0.667,0.633,0.480,Notebooks & Registers,3,3.091,16,0.331,1
+NS0724,A11,Katraj,Mixed/General,Residential Families,General Public,213,2088.8,319500.00,218400.00,124,0.438,0.675,0.343,0.344,0.259,0.890,0.669,0.529,Pens & Writing Instruments,2,0.829,20,0.601,1
+NS0725,A11,Katraj,Residential,Residential Families,School Students,165,1689.3,336500.00,265900.00,159,0.360,0.592,0.188,0.470,0.206,0.834,0.708,0.478,Balanced,2,1.337,17,0.562,1
+NS0726,A11,Katraj,School-focused,Residential Families,School Students,198,1891.7,266000.00,207700.00,183,0.551,0.422,0.297,0.396,0.268,0.677,0.641,0.532,Pens & Writing Instruments,3,3.419,11,0.424,1
+NS0727,A11,Katraj,Residential,Residential Families,School Students,202,2500.1,300500.00,197200.00,125,0.462,0.534,0.378,0.442,0.052,0.869,0.684,0.508,Pens & Writing Instruments,2,0.879,20,0.557,1
+NS0728,A11,Katraj,Residential,Residential Families,General Public,215,2486.2,137500.00,115400.00,133,0.377,0.416,0.175,0.318,0.230,0.570,0.792,0.452,Art & Craft Supplies,2,0.903,19,0.535,1
+NS0729,A11,Katraj,School-focused,School Students,Residential Families,241,2348.4,282000.00,172600.00,191,0.259,0.731,0.425,0.327,0.274,0.904,0.755,0.485,Balanced,3,3.606,9,0.332,1
+NS0730,A11,Katraj,Coaching-focused,Residential Families,School Students,119,1541.2,147500.00,103400.00,139,0.400,0.757,0.434,0.135,0.170,0.792,0.767,0.427,Notebooks & Registers,0,1.350,13,0.769,1
+NS0731,A11,Katraj,School-focused,Residential Families,School Students,196,2691.2,231000.00,103600.00,147,0.293,0.532,0.435,0.415,0.296,0.921,0.758,0.500,Balanced,3,2.761,8,0.426,1
+NS0732,A11,Katraj,Mixed/General,General Public,Residential Families,125,1004.9,137000.00,68200.00,136,0.499,0.530,0.154,0.256,0.316,0.678,0.684,0.487,Balanced,3,0.972,12,0.374,1
+NS0733,A11,Katraj,Coaching-focused,Residential Families,General Public,354,4185.2,370500.00,332900.00,234,0.286,0.452,0.192,0.132,0.219,0.853,0.678,0.545,Pens & Writing Instruments,1,2.461,19,0.682,1
+NS0734,A11,Katraj,School-focused,Residential Families,School Students,189,4151.2,184000.00,79800.00,181,0.390,0.525,0.485,0.149,0.210,0.864,0.766,0.446,Art & Craft Supplies,3,3.426,7,0.432,1
+NS0735,A11,Katraj,Mixed/General,Residential Families,General Public,446,5926.3,335500.00,268100.00,193,0.469,0.565,0.357,0.387,0.244,0.955,0.694,0.547,Pens & Writing Instruments,2,1.359,22,0.588,1
+NS0736,A11,Katraj,School-focused,School Students,Residential Families,711,10718.4,900000.00,627600.00,267,0.218,0.596,0.494,0.345,0.413,0.631,0.748,0.409,Balanced,3,5.052,17,0.339,1
+NS0737,A11,Katraj,Residential,Residential Families,School Students,335,5464.1,229500.00,187000.00,228,0.271,0.715,0.505,0.457,0.040,0.850,0.705,0.381,Balanced,2,1.642,21,0.590,1
+NS0738,A11,Katraj,School-focused,School Students,Residential Families,479,4883.5,646000.00,306600.00,238,0.338,0.488,0.197,0.465,0.103,0.641,0.597,0.481,Art & Craft Supplies,3,4.546,13,0.331,1
+NS0739,A11,Katraj,School-focused,School Students,Residential Families,250,3161.0,305500.00,208500.00,163,0.393,0.714,0.357,0.279,0.303,0.822,0.757,0.452,Balanced,3,3.098,11,0.328,1
+NS0740,A11,Katraj,Residential,Residential Families,School Students,213,4287.3,299500.00,242000.00,130,0.244,0.742,0.291,0.468,0.223,0.945,0.762,0.474,Balanced,2,1.085,21,0.567,1
+NS0741,A11,Katraj,Mixed/General,General Public,School Students,120,2362.1,134000.00,119500.00,89,0.473,0.716,0.189,0.189,0.295,0.621,0.681,0.456,Pens & Writing Instruments,2,0.642,22,0.581,1
+NS0742,A11,Katraj,School-focused,Residential Families,School Students,188,1420.0,103500.00,79800.00,172,0.489,0.620,0.423,0.281,0.269,0.898,0.781,0.505,School Accessories,2,3.209,7,0.579,1
+NS0743,A11,Katraj,College-focused,School Students,Residential Families,274,3064.0,273000.00,172300.00,142,0.261,0.600,0.206,0.234,0.330,0.597,0.741,0.511,Balanced,3,2.634,12,0.437,1
+NS0744,A11,Katraj,Residential,Residential Families,School Students,376,5642.3,633500.00,529100.00,208,0.379,0.525,0.292,0.234,0.120,0.842,0.746,0.418,Balanced,2,1.572,22,0.593,1
+NS0745,A11,Katraj,Mixed/General,General Public,Residential Families,515,8910.3,302000.00,141500.00,228,0.472,0.568,0.470,0.231,0.231,0.814,0.726,0.568,Art & Craft Supplies,3,1.575,19,0.342,1
+NS0746,A11,Katraj,Mixed/General,General Public,School Students,140,2321.4,195500.00,173300.00,101,0.314,0.733,0.263,0.084,0.194,0.618,0.697,0.432,Paper & Printing Supplies,3,0.731,20,0.425,1
+NS0747,A11,Katraj,Residential,Residential Families,School Students,432,4612.9,447500.00,298900.00,212,0.287,0.652,0.283,0.325,0.142,0.629,0.666,0.445,Specialty Stationery,2,1.377,22,0.593,1
+NS0748,A11,Katraj,Residential,Residential Families,School Students,80,855.9,61000.00,40300.00,62,0.491,0.742,0.369,0.351,0.373,0.939,0.848,0.464,Balanced,2,0.509,14,0.604,1
+NS0749,A11,Katraj,Mixed/General,General Public,Residential Families,150,2023.7,300500.00,169000.00,106,0.385,0.625,0.438,0.236,0.072,0.847,0.662,0.465,Paper & Printing Supplies,3,0.762,19,0.369,1
+NS0750,A11,Katraj,Residential,Residential Families,School Students,177,3513.2,365000.00,185700.00,156,0.241,0.716,0.352,0.251,0.110,0.716,0.754,0.454,Balanced,2,1.312,20,0.570,1
+NS0751,A11,Katraj,School-focused,School Students,Residential Families,86,1119.1,131000.00,56000.00,89,0.281,0.530,0.403,0.466,0.080,0.774,0.655,0.507,Balanced,3,1.699,8,0.336,1
+NS0752,A11,Katraj,Residential,Residential Families,General Public,414,8979.2,786000.00,339400.00,232,0.451,0.470,0.313,0.302,0.167,0.781,0.790,0.470,Balanced,2,1.611,21,0.561,1
+NS0753,A11,Katraj,Residential,Residential Families,School Students,387,3182.7,820000.00,704900.00,202,0.276,0.773,0.309,0.433,0.367,0.784,0.722,0.457,Balanced,2,1.677,19,0.598,1
+NS0754,A11,Katraj,School-focused,Residential Families,School Students,217,3835.6,490000.00,424100.00,142,0.472,0.446,0.200,0.338,0.350,0.716,0.740,0.495,School Accessories,3,2.670,16,0.404,1
+NS0755,A11,Katraj,Residential,Residential Families,College Students,108,1392.4,95000.00,70600.00,91,0.533,0.463,0.414,0.255,0.265,0.864,0.715,0.473,"Pencils, Erasers & Sharpeners",2,0.649,19,0.567,1
+NS0756,A11,Katraj,Residential,Residential Families,School Students,421,7913.6,423000.00,285000.00,186,0.440,0.788,0.137,0.264,0.044,0.689,0.663,0.465,"Pencils, Erasers & Sharpeners",2,1.541,22,0.597,1
+NS0757,A11,Katraj,Residential,Residential Families,School Students,220,2744.9,219500.00,136800.00,174,0.277,0.699,0.469,0.420,0.271,0.792,0.756,0.528,Specialty Stationery,2,1.341,18,0.570,1
+NS0758,A11,Katraj,School-focused,School Students,Residential Families,290,2390.2,267000.00,231800.00,203,0.225,0.447,0.129,0.117,0.298,0.572,0.668,0.484,School Accessories,3,3.840,11,0.332,1
+NS0759,A11,Katraj,Residential,Residential Families,School Students,289,4501.9,231500.00,140500.00,177,0.474,0.766,0.319,0.398,0.336,0.692,0.755,0.387,Art & Craft Supplies,2,1.454,19,0.561,1
+NS0760,A11,Katraj,Hostel/Student-focused,School Students,Residential Families,331,4409.3,251000.00,148700.00,218,0.271,0.794,0.344,0.444,0.418,0.642,0.676,0.468,Balanced,2,3.482,10,0.587,1
+NS0761,A11,Katraj,Residential,Residential Families,School Students,402,5095.9,343000.00,236800.00,248,0.506,0.793,0.416,0.178,0.318,0.662,0.699,0.431,Art & Craft Supplies,2,2.028,20,0.591,1
+NS0762,A11,Katraj,Residential,Residential Families,School Students,565,9579.3,432500.00,207800.00,226,0.533,0.676,0.130,0.392,0.355,0.668,0.621,0.483,Balanced,2,1.458,23,0.600,1
+NS0763,A11,Katraj,Residential,Residential Families,School Students,482,6288.6,678000.00,286000.00,269,0.409,0.773,0.466,0.322,0.110,0.777,0.690,0.507,"Pencils, Erasers & Sharpeners",2,1.644,22,0.617,1
+NS0764,A11,Katraj,School-focused,School Students,Residential Families,134,1233.4,124000.00,51800.00,120,0.482,0.653,0.499,0.397,0.111,0.793,0.724,0.555,Balanced,3,2.235,7,0.341,1
+NS0765,A11,Katraj,Residential,Residential Families,School Students,133,1614.5,67000.00,40200.00,86,0.448,0.679,0.375,0.245,0.401,0.784,0.755,0.465,Balanced,2,0.721,12,0.573,1
+NS0766,A11,Katraj,Mixed/General,Residential Families,General Public,147,1519.8,160500.00,142100.00,140,0.391,0.697,0.251,0.203,0.403,0.898,0.662,0.541,Notebooks & Registers,1,0.927,19,0.661,1
+NS0767,A11,Katraj,School-focused,School Students,Residential Families,254,3405.1,439000.00,181200.00,155,0.374,0.562,0.431,0.462,0.135,0.804,0.719,0.497,Notebooks & Registers,3,2.916,12,0.333,1
+NS0768,A11,Katraj,School-focused,School Students,Residential Families,244,4058.9,334500.00,184100.00,109,0.370,0.635,0.179,0.417,0.428,0.615,0.650,0.581,Geometry & Mathematical Tools,3,2.029,16,0.344,1
+NS0769,A11,Katraj,School-focused,School Students,Residential Families,197,2576.4,317000.00,280500.00,148,0.293,0.494,0.205,0.131,0.257,0.623,0.749,0.417,Balanced,3,2.826,14,0.323,1
+NS0770,A11,Katraj,School-focused,School Students,Residential Families,533,8354.5,356000.00,253100.00,228,0.503,0.734,0.452,0.326,0.263,0.566,0.660,0.485,Geometry & Mathematical Tools,3,4.320,13,0.332,1
+NS0771,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,312,5142.7,341500.00,235800.00,289,0.266,0.654,0.198,0.191,0.442,0.603,0.567,0.705,Pens & Writing Instruments,2,1.785,22,0.621,1
+NS0772,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,141,1528.9,78500.00,53500.00,178,0.256,0.535,0.119,0.441,0.549,0.878,0.642,0.674,Balanced,2,1.217,10,0.610,1
+NS0773,A12,Pimpri-Chinchwad,School-focused,School Students,Residential Families,143,1610.8,98500.00,76500.00,121,0.387,0.667,0.208,0.250,0.444,0.742,0.589,0.663,Pens & Writing Instruments,3,2.228,9,0.355,1
+NS0774,A12,Pimpri-Chinchwad,Office-supply-focused,Residential Families,Office Workers,554,9040.5,560000.00,470700.00,239,0.466,0.534,0.189,0.267,0.411,0.794,0.707,0.649,Paper & Printing Supplies,3,2.263,21,0.450,1
+NS0775,A12,Pimpri-Chinchwad,Mixed/General,General Public,Residential Families,590,9156.5,652000.00,466400.00,284,0.403,0.565,0.322,0.086,0.465,0.793,0.533,0.611,Balanced,3,1.981,22,0.348,1
+NS0776,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,293,2781.9,660000.00,583300.00,186,0.303,0.416,0.216,0.247,0.458,0.799,0.643,0.624,Balanced,2,1.274,19,0.546,1
+NS0777,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,271,5730.1,561500.00,261600.00,255,0.327,0.476,0.407,0.273,0.588,0.630,0.522,0.642,Adhesives & Tapes,3,2.503,19,0.363,1
+NS0778,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,479,5668.0,339000.00,246600.00,335,0.173,0.413,0.390,0.160,0.424,0.550,0.633,0.599,Notebooks & Registers,2,2.019,21,0.585,1
+NS0779,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,106,1081.4,126500.00,59300.00,131,0.244,0.459,0.209,0.076,0.598,0.795,0.595,0.661,Balanced,2,1.005,12,0.601,1
+NS0780,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,139,1831.1,117500.00,101800.00,95,0.196,0.559,0.345,0.271,0.700,0.693,0.624,0.711,Balanced,2,0.718,21,0.607,1
+NS0781,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,441,5241.2,427500.00,218500.00,226,0.189,0.376,0.377,0.204,0.454,0.627,0.624,0.751,Balanced,2,1.508,22,0.582,1
+NS0782,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,199,4331.8,540000.00,373400.00,143,0.297,0.403,0.061,0.070,0.424,0.711,0.604,0.567,Balanced,2,0.923,22,0.536,1
+NS0783,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,121,1657.6,195000.00,130800.00,155,0.498,0.701,0.096,0.404,0.622,0.615,0.695,0.634,Pens & Writing Instruments,2,1.209,18,0.594,1
+NS0784,A12,Pimpri-Chinchwad,College-focused,Residential Families,Office Workers,381,8387.9,659000.00,583400.00,236,0.233,0.594,0.226,0.272,0.705,0.745,0.616,0.582,Project & Presentation Supplies,1,4.077,20,0.685,1
+NS0785,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,239,2057.4,285000.00,201200.00,184,0.501,0.601,0.192,0.421,0.706,0.855,0.638,0.640,Balanced,3,1.786,16,0.393,1
+NS0786,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,129,1669.4,114500.00,65100.00,140,0.351,0.465,0.041,0.440,0.768,0.553,0.566,0.585,Markers & Highlighters,3,1.379,11,0.424,1
+NS0787,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,701,8718.4,324500.00,143500.00,296,0.228,0.534,0.039,0.249,0.645,0.657,0.645,0.748,Art & Craft Supplies,2,1.716,20,0.653,1
+NS0788,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,96,952.7,47000.00,22400.00,151,0.293,0.715,0.345,0.408,0.725,0.652,0.637,0.606,Pens & Writing Instruments,2,1.111,7,0.613,1
+NS0789,A12,Pimpri-Chinchwad,College-focused,Residential Families,School Students,611,8026.2,599000.00,465000.00,266,0.408,0.719,0.115,0.269,0.700,0.914,0.684,0.656,Notebooks & Registers,1,4.526,19,0.698,1
+NS0790,A12,Pimpri-Chinchwad,Office-supply-focused,Residential Families,Office Workers,155,1730.6,166000.00,70200.00,94,0.517,0.705,0.082,0.398,0.514,0.878,0.669,0.695,Paper & Printing Supplies,0,0.819,17,0.774,1
+NS0791,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,217,2962.0,415500.00,203500.00,213,0.180,0.607,0.423,0.252,0.478,0.713,0.537,0.660,Balanced,2,1.325,21,0.589,1
+NS0792,A12,Pimpri-Chinchwad,Mixed/General,General Public,Residential Families,108,1565.2,253500.00,187800.00,121,0.424,0.477,0.345,0.226,0.549,0.867,0.634,0.747,"Files, Folders & Organizers",3,0.816,18,0.395,1
+NS0793,A12,Pimpri-Chinchwad,Office-supply-focused,School Students,Office Workers,212,3066.8,125000.00,89000.00,164,0.287,0.760,0.116,0.412,0.504,0.625,0.627,0.671,Paper & Printing Supplies,0,2.078,10,0.758,1
+NS0794,A12,Pimpri-Chinchwad,Mixed/General,General Public,Residential Families,702,13612.3,788500.00,644400.00,242,0.324,0.422,0.395,0.394,0.424,0.666,0.585,0.727,Balanced,3,1.633,21,0.363,1
+NS0795,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,227,2716.8,262000.00,151800.00,160,0.529,0.473,0.252,0.370,0.681,0.780,0.636,0.708,Balanced,3,1.530,17,0.400,1
+NS0796,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,147,1954.1,132000.00,88300.00,142,0.451,0.712,0.229,0.146,0.492,0.621,0.673,0.676,Art & Craft Supplies,2,1.102,15,0.590,1
+NS0797,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,184,2315.9,158500.00,120100.00,120,0.213,0.593,0.129,0.241,0.685,0.677,0.602,0.612,Office Desk Supplies,3,1.170,18,0.414,1
+NS0798,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,School Students,410,7020.8,572500.00,293000.00,243,0.266,0.636,0.281,0.206,0.587,0.563,0.662,0.667,Balanced,3,2.299,20,0.366,1
+NS0799,A12,Pimpri-Chinchwad,Office-supply-focused,Residential Families,Office Workers,289,2427.1,279000.00,191900.00,218,0.501,0.476,0.130,0.064,0.415,0.742,0.670,0.686,Balanced,2,2.080,16,0.609,1
+NS0800,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,478,6825.5,315500.00,238600.00,224,0.315,0.703,0.298,0.323,0.555,0.695,0.636,0.691,Balanced,2,1.375,23,0.610,1
+NS0801,A12,Pimpri-Chinchwad,Mixed/General,General Public,School Students,333,4781.4,247500.00,209600.00,216,0.312,0.684,0.291,0.382,0.679,0.539,0.651,0.620,Notebooks & Registers,3,1.502,20,0.369,1
+NS0802,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,298,2741.1,571500.00,256800.00,171,0.517,0.572,0.196,0.373,0.707,0.685,0.590,0.730,"Pencils, Erasers & Sharpeners",2,1.239,20,0.597,1
+NS0803,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,241,4547.2,534500.00,283600.00,152,0.193,0.380,0.187,0.261,0.741,0.615,0.591,0.757,Adhesives & Tapes,2,1.073,23,0.608,1
+NS0804,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,239,2170.3,198500.00,169100.00,170,0.505,0.685,0.037,0.227,0.769,0.876,0.637,0.663,Paper & Printing Supplies,3,1.640,17,0.408,1
+NS0805,A12,Pimpri-Chinchwad,Mixed/General,Residential Families,General Public,316,2860.5,249500.00,166400.00,179,0.341,0.407,0.366,0.060,0.505,0.917,0.545,0.720,Art & Craft Supplies,2,1.234,21,0.611,1
+NS0806,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,164,3151.0,211000.00,153300.00,163,0.449,0.701,0.377,0.274,0.406,0.700,0.558,0.586,Pens & Writing Instruments,2,1.270,21,0.558,1
+NS0807,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,110,1099.7,122000.00,79400.00,120,0.368,0.653,0.268,0.222,0.489,0.684,0.625,0.732,Paper & Printing Supplies,2,1.140,13,0.600,1
+NS0808,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,239,5356.0,328000.00,142800.00,192,0.536,0.581,0.052,0.367,0.635,0.719,0.602,0.659,Pens & Writing Instruments,2,1.379,22,0.586,1
+NS0809,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,793,12410.7,460500.00,294500.00,255,0.277,0.677,0.360,0.195,0.688,0.744,0.712,0.691,Balanced,3,2.373,21,0.386,1
+NS0810,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,345,4295.3,900000.00,390800.00,242,0.296,0.543,0.382,0.083,0.752,0.652,0.615,0.714,Balanced,3,2.303,18,0.366,1
+NS0811,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,135,2476.3,95000.00,57400.00,159,0.292,0.628,0.358,0.203,0.541,0.581,0.633,0.687,Balanced,2,1.087,13,0.602,1
+NS0812,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,259,3733.3,266000.00,230800.00,207,0.337,0.684,0.356,0.299,0.727,0.873,0.629,0.643,Balanced,3,2.010,18,0.388,1
+NS0813,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,826,8959.1,900000.00,594400.00,361,0.525,0.440,0.277,0.411,0.542,0.776,0.672,0.632,Notebooks & Registers,2,2.147,23,0.649,1
+NS0814,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,299,4336.2,380000.00,206000.00,223,0.367,0.528,0.186,0.092,0.603,0.627,0.720,0.754,"Files, Folders & Organizers",3,2.060,17,0.390,1
+NS0815,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,358,2926.1,184000.00,82700.00,208,0.334,0.562,0.191,0.215,0.505,0.853,0.649,0.712,Balanced,2,1.257,15,0.605,1
+NS0816,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,124,1158.4,120000.00,58800.00,105,0.300,0.411,0.404,0.417,0.441,0.593,0.574,0.637,Adhesives & Tapes,2,0.656,17,0.555,1
+NS0817,A12,Pimpri-Chinchwad,College-focused,Residential Families,School Students,281,5214.0,167000.00,67800.00,203,0.168,0.703,0.054,0.256,0.682,0.736,0.530,0.669,Balanced,1,2.068,11,0.721,1
+NS0818,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,314,6179.5,209000.00,112100.00,222,0.375,0.591,0.305,0.360,0.519,0.758,0.534,0.687,Art & Craft Supplies,2,1.374,20,0.590,1
+NS0819,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,154,1222.5,236500.00,133400.00,139,0.287,0.759,0.101,0.207,0.541,0.849,0.624,0.654,Balanced,2,1.111,18,0.584,1
+NS0820,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,137,1425.1,186000.00,148600.00,83,0.419,0.694,0.399,0.266,0.501,0.815,0.542,0.694,Art & Craft Supplies,2,0.656,20,0.586,1
+NS0821,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,166,2916.2,121000.00,76600.00,110,0.512,0.647,0.287,0.195,0.409,0.573,0.659,0.640,Balanced,2,0.861,20,0.584,1
+NS0822,A12,Pimpri-Chinchwad,Hostel/Student-focused,Residential Families,General Public,313,3453.6,322000.00,215400.00,220,0.468,0.440,0.227,0.334,0.381,0.823,0.624,0.663,Balanced,2,2.506,16,0.614,1
+NS0823,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,330,5161.0,183000.00,135400.00,184,0.200,0.411,0.224,0.351,0.717,0.681,0.590,0.645,Pens & Writing Instruments,2,1.321,22,0.591,1
+NS0824,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,463,6208.0,700500.00,470900.00,216,0.268,0.443,0.408,0.331,0.743,0.912,0.636,0.629,Adhesives & Tapes,2,1.480,23,0.608,1
+NS0825,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,450,8556.3,594000.00,261500.00,245,0.377,0.637,0.387,0.085,0.693,0.524,0.663,0.748,Specialty Stationery,2,1.803,23,0.638,1
+NS0826,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,259,5160.1,276000.00,236000.00,194,0.377,0.424,0.043,0.197,0.565,0.642,0.569,0.611,Pens & Writing Instruments,2,1.412,23,0.579,1
+NS0827,A12,Pimpri-Chinchwad,Mixed/General,General Public,Residential Families,635,9564.1,900000.00,704900.00,260,0.518,0.734,0.162,0.114,0.555,0.874,0.701,0.686,Balanced,3,1.739,21,0.357,1
+NS0828,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,451,6761.8,435000.00,224200.00,245,0.531,0.384,0.264,0.258,0.654,0.573,0.670,0.749,Balanced,3,2.272,19,0.375,1
+NS0829,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,281,5607.3,419000.00,260100.00,208,0.352,0.560,0.152,0.121,0.698,0.800,0.583,0.662,Adhesives & Tapes,3,2.021,20,0.366,1
+NS0830,A12,Pimpri-Chinchwad,Office-supply-focused,Residential Families,Office Workers,382,5206.6,587500.00,304600.00,221,0.256,0.671,0.415,0.258,0.426,0.761,0.662,0.751,"Files, Folders & Organizers",2,2.075,20,0.608,1
+NS0831,A12,Pimpri-Chinchwad,Residential,Residential Families,General Public,371,6019.0,432000.00,189600.00,228,0.406,0.481,0.105,0.068,0.450,0.907,0.657,0.757,"Pencils, Erasers & Sharpeners",2,1.507,22,0.584,1
+NS0832,A12,Pimpri-Chinchwad,School-focused,Residential Families,School Students,178,1719.8,362000.00,178300.00,177,0.503,0.514,0.378,0.289,0.696,0.858,0.677,0.668,Pens & Writing Instruments,3,3.159,10,0.439,1
+NS0833,A12,Pimpri-Chinchwad,Residential,Residential Families,School Students,331,4378.9,282500.00,246900.00,173,0.168,0.665,0.335,0.319,0.485,0.589,0.767,0.581,Balanced,2,1.240,21,0.588,1
+NS0834,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,525,6135.8,664000.00,568100.00,226,0.477,0.397,0.095,0.227,0.762,0.530,0.717,0.641,"Files, Folders & Organizers",3,2.126,19,0.352,1
+NS0835,A12,Pimpri-Chinchwad,Coaching-focused,Residential Families,Coaching Students,281,3453.5,389000.00,259900.00,175,0.519,0.477,0.074,0.317,0.463,0.638,0.662,0.643,Geometry & Mathematical Tools,1,2.231,19,0.716,1
+NS0836,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,271,4473.1,166000.00,113700.00,204,0.235,0.367,0.115,0.072,0.770,0.615,0.509,0.624,Pens & Writing Instruments,2,1.286,21,0.595,1
+NS0837,A12,Pimpri-Chinchwad,School-focused,School Students,Residential Families,537,6197.8,588500.00,337500.00,285,0.457,0.519,0.110,0.240,0.512,0.722,0.591,0.634,Pens & Writing Instruments,3,5.213,13,0.351,1
+NS0838,A12,Pimpri-Chinchwad,Office-supply-focused,Office Workers,Residential Families,198,2535.5,309000.00,223100.00,137,0.383,0.436,0.316,0.367,0.539,0.653,0.603,0.604,"Files, Folders & Organizers",3,1.343,18,0.391,1
+NS0839,A12,Pimpri-Chinchwad,Residential,Residential Families,Office Workers,334,3848.9,730000.00,528900.00,255,0.269,0.606,0.403,0.352,0.608,0.607,0.709,0.670,"Pencils, Erasers & Sharpeners",2,1.864,19,0.617,1
+NS0840,A12,Pimpri-Chinchwad,Mixed/General,General Public,School Students,535,4698.4,900000.00,421600.00,275,0.397,0.648,0.399,0.354,0.466,0.634,0.680,0.669,Notebooks & Registers,3,1.855,19,0.355,1

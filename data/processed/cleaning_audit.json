@@ -1,0 +1,16 @@
+{
+  "raw_rows": 1067371,
+  "duplicate_rows": 34335,
+  "cancelled_rows": 19494,
+  "nonpositive_quantity_rows": 22950,
+  "nonpositive_price_rows": 6207,
+  "missing_stockcode_rows": 0,
+  "missing_date_rows": 0,
+  "missing_description_rows": 4382,
+  "non_merchandise_rows": 5535,
+  "cleaned_rows": 1003694,
+  "excluded_rows": 63677,
+  "unique_products": 4904,
+  "min_date": "2009-12-01",
+  "max_date": "2011-12-09"
+}

@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Caches and testing
+.pytest_cache/
+.coverage
+htmlcov/
+.cache
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Large Raw Datasets (Exceeding GitHub 100MB limit or redundant)
+# pune_daily_sales.csv is 772 MB; the indexed, compressed 37 MB Parquet cache is tracked in data/pune_cache/
+data/stockwise_pune/pune_daily_sales.csv
+data/raw/online_retail_II.xlsx
+
+# Archive and backup files
+*.zip
+stockwise_backup_*/
+
+# IDE and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
